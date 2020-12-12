@@ -10,10 +10,10 @@ author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
 tags:
-- welcome
+- new site 
 series:
 -
 categories:
-- welcome
+- website
 image: images/posts/transfer.png
 ---
