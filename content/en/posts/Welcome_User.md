@@ -8,7 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
-pinned: true
+pinned: false
 tags:
 - welcome
 series:
