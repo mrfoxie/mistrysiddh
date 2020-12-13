@@ -4,7 +4,7 @@ description = "WordPress Developer, mechatronics Engineer, Developer, Gamer, Des
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = "/images/whoami/avatar.png"
+meta_image = "images/whoami/avatar.png"
 themecolor = "#212121"
 
 themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
