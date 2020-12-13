@@ -4,12 +4,6 @@
   url = "posts"
   weight = 1
 
-#[[main]]
-#  identifier = "presentation"
-#  name = "Pt"
-#  url = "presentation"
-#  weight = 2
-
 [[main]]
   identifier = "archive"
   name = "Archive"
@@ -18,6 +12,35 @@
 
 [[main]]
   identifier = "showcase"
-  name = "Learning Arena"
-  url = "showcase"
+  name = "More"
   weight = 3
+
+[[main]]
+  parent = "showcase"
+  name = "Overview"
+  url = "showcase/"
+  weight = 1
+
+[[main]]
+  parent = "showcase"
+  name = "Community"
+  url = "showcase/community/"
+  weight = 2
+
+[[main]]
+  parent = "showcase"
+  name = "Online Editor"
+  url = "showcase/online-editor/"
+  weight = 3
+
+[[main]]
+  parent = "showcase"
+  name = "Learning"
+  url = "showcase/learn/"
+  weight = 4
+
+[[main]]
+  parent = "showcase"
+  name = "Sites"
+  url = "showcase/sites/"
+  weight = 5
