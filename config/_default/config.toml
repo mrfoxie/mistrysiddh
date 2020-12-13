@@ -2,9 +2,9 @@ baseURL = ""
 title = "Siddh Mistry"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
+defaultContentLanguage = ""
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
 
 summaryLength = 70
 buildFuture = true
