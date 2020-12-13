@@ -202,9 +202,6 @@ commento = true
 [[share]]
   name = "twitter"
   username = "Hacking_Tiger"
-[[share]]
-  name = "linkedin"
-  username = "SiddhMistry"
 [[footerLinks]]
   name = ""
   link = ""
