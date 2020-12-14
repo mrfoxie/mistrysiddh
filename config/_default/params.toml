@@ -94,7 +94,7 @@ enableThemeChange = true
 # service
 googleTagManager = "GTM-P6KBB6S" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = false
+enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
 busuanziPagePV = true
