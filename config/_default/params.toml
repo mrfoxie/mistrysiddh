@@ -17,8 +17,7 @@ viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = true
 enablePinnedPosts = true
-minItemsToShowInTagCloud = 1 # Mini8
-mum items to show in tag cloud
+minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = false
