@@ -38,3 +38,7 @@ According to [Downdetector](https://downdetector.com/status/google/), a number o
 In the past, IoT DDoS attacks have shut down other major services such as Amazon, using such tools as the Mirai Botnet. Even with DDoS protection services, it is difficult to defend against massive amounts of data being used against servers.
 
 Google has not made an official statement about why this is occurring so far, but the problem appears to be a massive [IoT DDoS attack](Google has not made an official statement about why this is occurring so far, but the problem appears to be a massive IoT DDoS attack against Google’s services. The search engine, however, is online at the moment. The company will likely answer this question after they are able to mitigate the issue.) against Google’s services. The search engine, however, is online at the moment. The company will likely answer this question after they are able to mitigate the issue.
+
+## Suggestion
+Let's here your suggestion in the comment box bellow.
+Thank you.
