@@ -21,7 +21,6 @@ categories:
 - DDOS attack
 - Hacking
 image: https://giantbomb1.cbsistatic.com/uploads/original/28/281548/2838354-8773396249-WWIII.png
-optimizedimage: https://giantbomb1.cbsistatic.com/uploads/original/28/281548/2838354-8773396249-WWIII.png
 ---
 
 ## Google went down.
