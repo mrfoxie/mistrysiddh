@@ -16,7 +16,7 @@ series:
 - Game
 categories:
 - Game
-image: https://s3.india.com/wp-content/uploads/2020/11/PUBG-India.jpg
+image: "https://s3.india.com/wp-content/uploads/2020/11/PUBG-India.jpg"
 ---
 
 ## Pubg Mobile India Launch News
