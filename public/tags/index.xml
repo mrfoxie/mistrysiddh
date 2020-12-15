@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Mr. Developer</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 14 Dec 2020 21:15:27 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>gaming</title>
+        <link>/tags/gaming/</link>
+        <pubDate>Mon, 14 Dec 2020 21:15:27 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/gaming/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>pubg</title>
+        <link>/tags/pubg/</link>
+        <pubDate>Mon, 14 Dec 2020 21:15:27 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/pubg/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DDOS attack</title>
+        <link>/tags/ddos-attack/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/ddos-attack/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>google</title>
+        <link>/tags/google/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/google/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>google shutdown</title>
+        <link>/tags/google-shutdown/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/google-shutdown/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hacking</title>
+        <link>/tags/hacking/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/hacking/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>IOT DDos attack</title>
+        <link>/tags/iot-ddos-attack/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/iot-ddos-attack/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>new site</title>
+        <link>/tags/new-site/</link>
+        <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/new-site/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>welcome</title>
+        <link>/tags/welcome/</link>
+        <pubDate>Sat, 12 Dec 2020 14:26:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/welcome/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

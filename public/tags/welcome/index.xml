@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>welcome on Mr. Developer</title>
+    <link>/tags/welcome/</link>
+    <description>Recent content in welcome on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 14:26:46 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Welcome User</title>
+        <link>/posts/welcome_user/</link>
+        <pubDate>Sat, 12 Dec 2020 14:26:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sat, 12 Dec 2020 21:25:23 +0530</atom:modified>
+        <guid>/posts/welcome_user/</guid>
+        <description>Hello Hello, hope you&amp;rsquo;re doing well in this coronavirus. let&amp;rsquo;s get started from introduction myself Mistry Siddh. Well I like to be lazy and don&amp;rsquo;t do any kind of work but I like to watch anime and have some snacks with also I love to read manga.
+Many of you people may know what is manga and anime but for those who don&amp;rsquo;t know what is manga and anime I will explain you in simple way.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/welcome.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>welcome</category>
+            
+          
+        
+        
+          
+            
+              <category>welcome</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

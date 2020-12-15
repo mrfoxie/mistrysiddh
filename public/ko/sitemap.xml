@@ -3,27 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/"
-                />
-  </url>
-  
-  <url>
     <loc>/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,11 +19,11 @@
   
   <url>
     <loc>/ko/about/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,17 +34,32 @@
   
   <url>
     <loc>/ko/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>/ko/gallery/cartoon/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ko/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/"
+                />
   </url>
   
   <url>
@@ -67,7 +67,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,24 +78,16 @@
   
   <url>
     <loc>/ko/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/tags/index/"
-                />
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>/ko/posts/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -109,7 +101,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -120,10 +112,11 @@
   
   <url>
     <loc>/ko/tags/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"

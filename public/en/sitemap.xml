@@ -3,88 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/showcase/community/stack_overflow/</loc>
-    <lastmod>2020-12-11T18:03:19+05:30</lastmod>
+    <loc>/showcase/sites/hacker-news/</loc>
+    <lastmod>2020-12-15T18:23:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/online-editor/codepen/</loc>
-    <lastmod>2020-12-11T17:25:21+05:30</lastmod>
+    <loc>/showcase/sites/awwwards/</loc>
+    <lastmod>2020-12-15T18:23:41+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/codeacademy/</loc>
-    <lastmod>2020-12-11T16:28:34+05:30</lastmod>
+    <loc>/showcase/community/stack_overflow/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/community/askubuntu/</loc>
-    <lastmod>2020-12-11T18:08:43+05:30</lastmod>
+    <loc>/showcase/online-editor/codepen/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/online-editor/codesandbox/</loc>
-    <lastmod>2020-12-11T17:48:01+05:30</lastmod>
+    <loc>/showcase/learn/codeacademy/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/coursera/</loc>
-    <lastmod>2020-12-11T16:43:37+05:30</lastmod>
+    <loc>/showcase/community/askubuntu/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/community/stackexchange/</loc>
-    <lastmod>2020-12-11T18:12:17+05:30</lastmod>
+    <loc>/showcase/online-editor/codesandbox/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/online-editor/gitpod/</loc>
-    <lastmod>2020-12-11T17:51:54+05:30</lastmod>
+    <loc>/showcase/learn/coursera/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/udemy/</loc>
-    <lastmod>2020-12-11T17:04:41+05:30</lastmod>
+    <loc>/showcase/community/stackexchange/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/online-editor/sololearn/</loc>
-    <lastmod>2020-12-11T17:54:18+05:30</lastmod>
+    <loc>/showcase/online-editor/gitpod/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/freecodecamp/</loc>
-    <lastmod>2020-12-11T17:10:38+05:30</lastmod>
+    <loc>/showcase/learn/udemy/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/khanacademy/</loc>
-    <lastmod>2020-12-11T17:15:50+05:30</lastmod>
+    <loc>/showcase/online-editor/sololearn/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/learn/edx/</loc>
-    <lastmod>2020-12-11T16:48:26+05:30</lastmod>
+    <loc>/showcase/learn/freecodecamp/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
+    <loc>/showcase/learn/khanacademy/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
+    <loc>/showcase/learn/edx/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</loc>
+    <lastmod>2020-12-15T15:45:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -93,121 +93,38 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/posts/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
+    <loc>/series/game/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
+    <loc>/categories/game/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/welcome/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
+    <loc>/tags/gaming/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/welcome/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
+    <loc>/tags/pubg/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/posts/welcome_user/</loc>
-    <lastmod>2020-12-12T14:26:46+05:30</lastmod>
+    <loc>/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/community/</loc>
-    <lastmod>2020-12-11T17:59:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/online-editor/</loc>
-    <lastmod>2020-12-11T17:23:05+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/learn/</loc>
-    <lastmod>2020-12-11T16:25:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/showcase/</loc>
-    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/archive/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/index/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/series/</loc>
+    <loc>/series/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -216,7 +133,187 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/ddos-attack/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ddos-attack/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/google/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/google-services-goes-down/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/google-shutdown/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/hacker/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hacking/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hacking/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/iot-ddos-attack/</loc>
+    <lastmod>2020-12-14T19:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/showcase/sites/</loc>
+    <lastmod>2020-12-13T17:46:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/transfer_site/</loc>
+    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/new-site/</loc>
+    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/website/</loc>
+    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/website/</loc>
+    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/welcome/</loc>
+    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/welcome/</loc>
+    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/welcome_user/</loc>
+    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/showcase/community/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/showcase/online-editor/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/showcase/learn/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/showcase/</loc>
+    <lastmod>2020-12-13T17:46:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
                 />
   </url>
   

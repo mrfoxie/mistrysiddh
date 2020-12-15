@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Community on Mr. Developer</title>
+    <link>/showcase/community/</link>
+    <description>Recent content in Community on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 17:59:55 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/showcase/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Stack_Overflow</title>
+        <link>/showcase/community/stack_overflow/</link>
+        <pubDate>Fri, 11 Dec 2020 18:03:19 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
+        <guid>/showcase/community/stack_overflow/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Askubuntu</title>
+        <link>/showcase/community/askubuntu/</link>
+        <pubDate>Fri, 11 Dec 2020 18:08:43 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
+        <guid>/showcase/community/askubuntu/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stackexchange</title>
+        <link>/showcase/community/stackexchange/</link>
+        <pubDate>Fri, 11 Dec 2020 18:12:17 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
+        <guid>/showcase/community/stackexchange/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

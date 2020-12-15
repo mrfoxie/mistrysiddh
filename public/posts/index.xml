@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Mr. Developer</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Facebook Rivals TikTok With Its Just Launched Collab Music App</title>
+        <link>/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</link>
+        <pubDate>Tue, 15 Dec 2020 15:45:57 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Tue, 15 Dec 2020 15:45:57 +0000</atom:modified>
+        <guid>/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PUBG Mobile India Launch: Watch Out, Don&#39;t Let These Fake Download Links Lure You</title>
+        <link>/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</link>
+        <pubDate>Mon, 14 Dec 2020 21:15:27 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Tue, 15 Dec 2020 17:43:27 +0530</atom:modified>
+        <guid>/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</guid>
+        <description>Pubg Mobile India Launch News PUBG Mobile India Launch: PUBG Mobile India has confirmed that it will be back for Battle Royale fans in India but hold your horses - PUBG Corporation has said it is not likely to launch the popular game any time before February 2021. So, the APK download links for PUBG Mobile India that have been spotted online are fake.
+Fake links of PUBG can be dangerous as it can damage your mobile phones.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/pubg-mobile.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>gaming</category>
+            
+          
+            
+              <category>pubg</category>
+            
+          
+        
+        
+          
+            
+              <category>Game</category>
+            
+          
+        
+        
+          
+            
+              <category>Game</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Google Services Goes Down</title>
+        <link>/posts/google-services-goes-down/</link>
+        <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Mon, 14 Dec 2020 19:30:37 +0530</atom:modified>
+        <guid>/posts/google-services-goes-down/</guid>
+        <description>Google went down. According to Downdetector, a number of Google services went offline earlier today, including YouTube, Gmail, and Google Docs. At present, the issue is still persisting. Users across the world have noted that the services are unavailable in their regions as well.
+Source - Downdetector
+Source - Youtube when went down.
+Source - Gmail when went down.
+Source - Google Workspace Status Dashboard
+In the past, IoT DDoS attacks have shut down other major services such as Amazon, using such tools as the Mirai Botnet.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/ddos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>google</category>
+            
+          
+            
+              <category>google shutdown</category>
+            
+          
+            
+              <category>DDOS attack</category>
+            
+          
+            
+              <category>IOT DDos attack</category>
+            
+          
+            
+              <category>hacking</category>
+            
+          
+        
+        
+          
+            
+              <category>DDOS attack</category>
+            
+          
+            
+              <category>Hacking</category>
+            
+          
+        
+        
+          
+            
+              <category>Hacker</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Changing Site</title>
+        <link>/posts/transfer_site/</link>
+        <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sun, 13 Dec 2020 18:26:41 +0530</atom:modified>
+        <guid>/posts/transfer_site/</guid>
+        <description>What is Wordpress? WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes.
+Example of wordpress admin panel
+Wordpress is the most leading CMS (Content management system) right now in current generation there are also many similar to wordpress.
+List of other CMS:  Wix (most flexible designs) Weebly (extremely easy) Jimdo (AI-powered sites) Joomla!</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>new site</category>
+            
+          
+        
+        
+          
+            
+              <category>website</category>
+            
+          
+        
+        
+          
+            
+              <category>website</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Welcome User</title>
+        <link>/posts/welcome_user/</link>
+        <pubDate>Sat, 12 Dec 2020 14:26:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sat, 12 Dec 2020 21:25:23 +0530</atom:modified>
+        <guid>/posts/welcome_user/</guid>
+        <description>Hello Hello, hope you&amp;rsquo;re doing well in this coronavirus. let&amp;rsquo;s get started from introduction myself Mistry Siddh. Well I like to be lazy and don&amp;rsquo;t do any kind of work but I like to watch anime and have some snacks with also I love to read manga.
+Many of you people may know what is manga and anime but for those who don&amp;rsquo;t know what is manga and anime I will explain you in simple way.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/welcome.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>welcome</category>
+            
+          
+        
+        
+          
+            
+              <category>welcome</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
