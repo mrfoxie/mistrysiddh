@@ -1,18 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-description:
-link:
-repo:
-pinned: true
-thumb:
-weight:
-links:
-- name: 
-  icon: 
-  link: 
-shields:
-- name: 
-  image: 
-  link: 
+description: 
+weight: 1
+link: 
+repo: 
+pinned: false
+thumb: 
 ---
