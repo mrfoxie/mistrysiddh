@@ -16,12 +16,12 @@ series:
 - Game
 categories:
 - Game
-image: https://s3.india.com/wp-content/uploads/2020/11/PUBG-India.jpg
+image: images/posts/pubg-mobile.jpg 
 ---
 
 ## Pubg Mobile India Launch News
 
-![PUBG](https://s3.india.com/wp-content/uploads/2020/11/PUBG-India.jpg)
+![PUBG](/images/posts/pubg-mobile.jpg)
 
 **PUBG Mobile India Launch:** PUBG Mobile India has confirmed that it will be back for Battle Royale fans in India but hold your horses - PUBG Corporation has said it is not likely to launch the popular game any time before February 2021. So, the APK download links for PUBG Mobile India that have been spotted online are **fake**.
 
