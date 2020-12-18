@@ -196,15 +196,15 @@ commento = true
   patreon = ""
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
-[[share]]
-  name = "facebook"
-  username = "tigersid1997"
-[[share]]
-  name = "twitter"
-  username = "Hacking_Tiger"
-[[share]]
-  name = "linkedin"
-  username = "SiddhMistry"
+#[[share]]
+#  name = "facebook"
+#  username = "tigersid1997"
+#[[share]]
+#  name = "twitter"
+#  username = "Hacking_Tiger"
+#[[share]]
+#  name = "linkedin"
+#  username = "SiddhMistry"
 [[footerLinks]]
   name = ""
   link = ""
