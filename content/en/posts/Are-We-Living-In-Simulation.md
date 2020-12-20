@@ -2,7 +2,7 @@
 title: "Are We Living in Simulation"
 date: 2020-12-17T15:52:54+05:30
 description: "What is REAL? How do we define REAL? If you're talking about what you can FEEL, what you can SMELL, what you can TASTE and SEE. Than REAL is simply electrical signals interpreted by BRAIN"
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -84,7 +84,7 @@ In back 2017 one of the most talking question about `Why did Facebook shut down 
 
 As above you can see the chat between `Bob` and `Alice` I'm not a cyber expert or some kind of decipher expert I leave it up-to you 😅. When I read this chat for a second I was confused 🤯 what am I reading to, this must be some kind of new cipher technique which is been invented by `Bob` and `Alice`. Many thoughts comes in our mind when your a cipher expert or a programmer or a hacker also. I read many articles on this topic and came to conclusion that `Facebook` must be running it continuously to learn the conversations and trying to make a more strong programming language which hacker's can't crack it.
 
-
+### Freaky AI robot
 
 There were many AI robots which are been created by other programmers but after the spoke everyone was been shocked 😲. Here is the video you should listen to it.
 
