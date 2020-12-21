@@ -2,7 +2,7 @@
 title: "Are We Living in Simulation Part 2"
 date: 2020-12-19T14:39:09+05:30
 description: "Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment; but you humans do not. Instead you multiply, and multiply, until every resource is consumed. The only way for you to survive is to spread to another area. There is another organism on this planet that follows the same pattern... a virus" 
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -102,17 +102,33 @@ He was been arrest in 2002, `Mr McKinnon` was subject to a lengthy and divisive 
 
 ![Roswell Daily Record July, 8 1947](/images/posts/RoswellDailyRecord-July-8-1947.jpg)
 
-`Roswell` is one  of the most popular lore refers to the rumors and speculation regarding July 1947, `United State Army Air Force` balloon crash at a [ranch](https://en.wikipedia.org/wiki/Ranch)[^8] near [Roswell, New Mexixo](https://en.wikipedia.org/wiki/Roswell,_New_Mexico)[^9]. 
+`Roswell` is one  of the most popular lore refers to the rumors and speculation regarding July 1947, `United State Army Air Force` balloon crash at a [ranch](https://en.wikipedia.org/wiki/Ranch)[^8] near [Roswell, New Mexixo](https://en.wikipedia.org/wiki/Roswell,_New_Mexico)[^9]. The Roswell UFO Incident involved the `recovery of material` near Roswell, New Mexico, USA, on `July 7, 1947` and since the early 1980's has become the subject intense speculation, rumor and questioning. `US Military` actually recovered was debris from an experimental high-altitude surveillance balloon belonging to a classidied program named `Mongul`. Many UFO proponents maintain that a crashed alien craft and bodies were been recovered, and the military's enguaged in a cover-up.
+
+
+
+[Roswell FBI File](/files/roswell.pdf)[^10] - On `July 8, 1947`, the FBI Dallas Field Office sent a teletype regarding a `FLYING DICS` that resembled a high altitude weather balloon found near Roswell, New Mexico.
+
+
+
+[GAO Roswell Report](/files/GAO-Roswell-report.pdf)[^11] -  Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico – Pursuant to a congressional request, GAO provided information on the 1947 weather balloon crash at Roswell Air Field, New Mexico, focusing on: 
+
+1. the requirements for reporting air accidents similar to the Roswell crash; and 
+2. any government records concerning the Roswell crash.
 
 
 
 
 
+> Let us know your comments in comment section and share your ideas till then wait for next part 
 
 
 
+## Choose any one
 
+![Make a choice](/images/posts/blue-red.jpg)
 
+- [ ] YOU TAKE THE BLUE PILL `THE STORY ENDS YOU WAKE UP IN YOUR BED AND BELIVE WHATEVER YOU WANT TO BELIVE`
+- [x] YOU TAKE THE RED PILL `YOU STAY IN WONDERLAND AND I SHOW YOU HOW DEEP THE RABIT-HOLE GOES.`
 
 
 
@@ -129,3 +145,7 @@ He was been arrest in 2002, `Mr McKinnon` was subject to a lengthy and divisive 
 [^7]:[https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition](https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition)
 [^8]:[https://en.wikipedia.org/wiki/Ranch](https://en.wikipedia.org/wiki/Ranch)
 [^9]:[https://en.wikipedia.org/wiki/Roswell,_New_Mexico](https://en.wikipedia.org/wiki/Roswell,_New_Mexico)
+
+[^10]:[Roswel FBI File](/files/roswell.pdf)
+
+[^11]:[GAO Roswell Report](/files/GAO-Roswell-report.pdf)
