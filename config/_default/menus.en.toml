@@ -44,3 +44,10 @@
   name = "Sites"
   url = "showcase/sites/"
   weight = 5
+
+[[main]]
+  identifier = "gallery"
+  name = "Comics"
+  url = "gallery"
+  weight = 6
+   
