@@ -3,66 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/archive/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/archive/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/about/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ko/gallery/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ko/gallery/photo/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ko/gallery/cartoon/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ko/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/"
-                />
-  </url>
-  
-  <url>
     <loc>/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,22 +17,16 @@
   </url>
   
   <url>
-    <loc>/ko/tags/index/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ko/posts/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <loc>/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/posts/"
+                href="/ko/"
                 />
   </url>
   
@@ -112,7 +46,6 @@
   
   <url>
     <loc>/ko/tags/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

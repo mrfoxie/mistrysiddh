@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>medical on Mr. Developer</title>
+    <link>/categories/medical/</link>
+    <description>Recent content in medical on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 12:52:43 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/categories/medical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>COVID 19 Vaccination in US a &#39;Miracle&#39;: White House</title>
+        <link>/posts/covid-19-vaccination-in-us-a-miracle-white-house/</link>
+        <pubDate>Wed, 16 Dec 2020 12:52:43 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sun, 20 Dec 2020 17:02:34 +0530</atom:modified>
+        <guid>/posts/covid-19-vaccination-in-us-a-miracle-white-house/</guid>
+        <description>The development and distribution of COVID-19 vaccine in such a short span of time is a &amp;ldquo;miracle&amp;rdquo;, the White House has said, slamming a section of the US media for deriding President Donald Trump for promising Americans that the vaccine would be available by the end of this year.
+US pharmaceutical giant Pfizer began shipping the first batches of its long-awaited and newly-authorised coronavirus vaccine out of a Michigan warehouse on Sunday, setting in motion the biggest vaccination drive in American history.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/vaccination.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>corona</category>
+            
+          
+            
+              <category>vaccination</category>
+            
+          
+        
+        
+          
+            
+              <category>medical</category>
+            
+          
+            
+              <category>vaccination</category>
+            
+          
+        
+        
+          
+            
+              <category>World</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

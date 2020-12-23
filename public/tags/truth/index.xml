@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>truth on Mr. Developer</title>
+    <link>/tags/truth/</link>
+    <description>Recent content in truth on Mr. Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 14:39:09 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/tags/truth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Are We Living in Simulation Part 2</title>
+        <link>/posts/are-we-living-in-simulation-part-2/</link>
+        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Mon, 21 Dec 2020 18:27:29 +0530</atom:modified>
+        <guid>/posts/are-we-living-in-simulation-part-2/</guid>
+        <description>if you have not read part one then read it first. Read it (optional)
+Part 2 Recap As we seen in last post we have seen about chat between Alice and Bob Facebook AI Chat bot1 chatting in there own languages or you can say cipher language. Lets again see the chat between Alice and Bob
+Chat between Alice and Bob  Bob: i can i i everything else . .</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/pilles.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>matrix</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>reality</category>
+            
+          
+            
+              <category>truth</category>
+            
+          
+            
+              <category>experiment</category>
+            
+          
+        
+        
+          
+            
+              <category>Simulations</category>
+            
+          
+            
+              <category>Mind Control</category>
+            
+          
+            
+              <category>Government</category>
+            
+          
+        
+        
+          
+            
+              <category>World</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Are We Living in Simulation</title>
+        <link>/posts/are-we-living-in-simulation/</link>
+        <pubDate>Thu, 17 Dec 2020 15:52:54 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sun, 20 Dec 2020 17:02:06 +0530</atom:modified>
+        <guid>/posts/are-we-living-in-simulation/</guid>
+        <description>What is Simulation? A simulation is an approximate imitation of the operation of a process or system that represents its operation over time. Simulation is used in many contexts, such as simulation of technology for performance tuning or optimizing, safety engineering, testing, training, education, and video games.
+What is an AI? Artificial intelligence, is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of &amp;ldquo;intelligent agents&amp;rdquo; any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="images/posts/matrix.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>matrix</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>reality</category>
+            
+          
+            
+              <category>truth</category>
+            
+          
+            
+              <category>experiment</category>
+            
+          
+        
+        
+          
+            
+              <category>Simulations</category>
+            
+          
+            
+              <category>Mind Control</category>
+            
+          
+            
+              <category>Government</category>
+            
+          
+        
+        
+          
+            
+              <category>World</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
