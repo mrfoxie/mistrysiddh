@@ -45,4 +45,3 @@ Research and military stations in Antarctica - among the most remote in the worl
 
 
 Researchers with the British Antarctic Survey estimate about `1,000 people` at `38 stations` across the frozen continent had safely navigated the southern hemisphere winter without incident. But an uptick in travel to and from the region this spring and early summer have heightened infection risk.
-

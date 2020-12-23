@@ -78,18 +78,8 @@
   </url>
   
   <url>
-    <loc>/posts/new-covid_19-strain-is-out-of-control/</loc>
-    <lastmod>2020-12-22T17:05:39+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/are-we-living-in-simulation-part-2/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -100,6 +90,71 @@
                 hreflang="en"
                 href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/corona/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/coronavirus-reaches-end-of-earth-as-outbreak-hits-antartica/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/medical/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/vaccination/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/vaccination/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/world/</loc>
+    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/are-we-living-in-simulation-part-2/</loc>
+    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
   </url>
   
   <url>
@@ -128,21 +183,6 @@
   </url>
   
   <url>
-    <loc>/series/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/simulation/</loc>
     <lastmod>2020-12-21T18:27:29+05:30</lastmod>
   </url>
@@ -153,27 +193,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/truth/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/world/</loc>
     <lastmod>2020-12-21T18:27:29+05:30</lastmod>
   </url>
   
@@ -183,27 +203,7 @@
   </url>
   
   <url>
-    <loc>/tags/corona/</loc>
-    <lastmod>2020-12-20T17:02:34+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/covid-19-vaccination-in-us-a-miracle-white-house/</loc>
-    <lastmod>2020-12-20T17:02:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/medical/</loc>
-    <lastmod>2020-12-20T17:02:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vaccination/</loc>
-    <lastmod>2020-12-20T17:02:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/vaccination/</loc>
     <lastmod>2020-12-20T17:02:34+05:30</lastmod>
   </url>
   

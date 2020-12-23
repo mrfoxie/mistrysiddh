@@ -14,7 +14,7 @@
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 14:39:09 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 14:16:47 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,42 @@
     
     
 
+      
+      <item>
+        <title>corona</title>
+        <link>/tags/corona/</link>
+        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/corona/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>vaccination</title>
+        <link>/tags/vaccination/</link>
+        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/vaccination/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>experiment</title>
@@ -102,42 +138,6 @@
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/truth/</guid>
-        <description></description>
-        
-        <dc:creator>Siddh Mistry</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>corona</title>
-        <link>/tags/corona/</link>
-        <pubDate>Wed, 16 Dec 2020 12:52:43 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        
-        <guid>/tags/corona/</guid>
-        <description></description>
-        
-        <dc:creator>Siddh Mistry</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>vaccination</title>
-        <link>/tags/vaccination/</link>
-        <pubDate>Wed, 16 Dec 2020 12:52:43 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        
-        <guid>/tags/vaccination/</guid>
         <description></description>
         
         <dc:creator>Siddh Mistry</dc:creator>
