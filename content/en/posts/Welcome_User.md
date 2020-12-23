@@ -1,7 +1,7 @@
 ---
 title: Welcome User
 date: 2020-12-12T14:26:46+05:30
-description: Be nice? NO people take advantage of that shit.
+description: "Fear he who fear nothing"
 draft: false
 hideToc: false
 enableToc: true
