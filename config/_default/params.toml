@@ -1,6 +1,6 @@
 logoText = "Siddh Mistry"
 logoType = "short" # long, short
-description = "Get weakly news related to different kind of new, tips, tricks, etc. If you have your own comment down in the post."
+description = "Get weakly news related to different kind of new, tips, tricks, etc. If you have your own theory or story then comment down in the post."
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
