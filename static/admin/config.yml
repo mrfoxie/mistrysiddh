@@ -27,7 +27,7 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list'}
       - { label: 'Series', name: 'series', widget: 'list'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-collections:
+      
   - name: 'Showcase'
     label: 'Showcase'
     folder: 'content/en/showcase/'
