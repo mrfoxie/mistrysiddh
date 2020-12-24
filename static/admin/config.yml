@@ -22,7 +22,7 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string'}
       - { label: 'Author Emoji', name: 'authorEmoji', widget: 'string'}
       - { label: 'Pinned Posts', name: 'pinned', widget: 'boolean'}
-      - { label: 'Feature Image', name: 'image', widget: 'url'}
+      - { label: 'Feature Image', name: 'image', widget: 'string'}
       - { label: 'Tags', name: 'tags', widget: 'list'}
       - { label: 'Categories', name: 'categories', widget: 'list'}
       - { label: 'Series', name: 'series', widget: 'list'}
