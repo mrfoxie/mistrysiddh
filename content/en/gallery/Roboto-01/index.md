@@ -3,6 +3,7 @@ title: Engineer VS Robot
 date: 2019-10-31T10:20:16+09:00
 description: Where it's all began with a BANG.
 type: gallery
+enableBio: true
 mode: one-by-one
 description: "Where it's all began with a BANG."
 images:
