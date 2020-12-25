@@ -2,7 +2,7 @@
 title: "Mutant Coronavirus Stain"
 date: 2020-12-24T17:14:35+05:30
 description: "Coronavirus (Covid-19) Mutant: Like all viruses, the coronavirus is a shape-shifter. Some genetic changes are inconsequential, but some may give it an edge."
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
