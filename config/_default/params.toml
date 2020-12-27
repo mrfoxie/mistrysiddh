@@ -4,7 +4,7 @@ description = "Get weakly news related to different kind of new, tips, tricks, e
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
-meta_image = "images/whoami/avatar.png"
+meta_image = "/images/whoami/avatar.png"
 themecolor = "#212121"
 
 themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
