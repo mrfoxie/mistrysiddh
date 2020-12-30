@@ -1,15 +1,8 @@
 ---
-<<<<<<< HEAD
 title: "South Korea's 'artificial sun' sets new world record, lights up at 100 million degrees for record 20 seconds"
 date: 2020-12-30T11:34:29+05:30
 description: "A superconducting fusion device, also known as the Korean artificial sun, set the new world record as it successfully maintained high temperature over 100 million degrees (Celsius) for a record 20 seconds."
 draft: false
-=======
-title: "Artificial Sun"
-date: 2020-12-29T16:06:14Z
-description: 
-draft: true
->>>>>>> 91ce134e54d87baceebc4b3ac86f6581ece61581
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -17,7 +10,6 @@ author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
 tags:
-<<<<<<< HEAD
 - technology
 - record
 - artificial
@@ -112,13 +104,3 @@ An ancient prophecy states that the ,” When the Blue Star Kachina makes its ap
 > Let us know what's your thought in the comment section bellow and also if you have any suggestion then you can mail me to <a href="mailto:siddh.mistry396321@gmail.com">siddh.mistry396321@gmail.com</a>
 
 [^Source]: [HackerIdiot](https://hackeridiot.wordpress.com/2018/08/06/nasa-patents-artificial-sun-in-the-1950s-to-be-used-as-nibiru/amp/)
-
-=======
-- 
-series:
--
-categories:
-- 
-image: 
----
->>>>>>> 91ce134e54d87baceebc4b3ac86f6581ece61581
