@@ -1,5 +1,5 @@
 ---
-title: "Are We Living in Simulation 3"
+title: "Are We Living in Simulation Part 3"
 date: 2020-12-27T16:40:02+05:30
 description: "Are we been controlled? Are we been watched? Are we been manipulated? Are we been Simulated? Are we Lab Rats for Experiment? Who Are YOU? Who am I? Who are WE?" 
 draft: true
