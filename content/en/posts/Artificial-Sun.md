@@ -18,7 +18,7 @@ series:
 categories:
 - Simulation
 - Government
-image: https://hackeridiot.files.wordpress.com/2018/08/kepler-planets-dual-sun.jpg
+image: images/posts/kepler-planets-dual-sun.jpg
 ---
 
 ## KSTAR
