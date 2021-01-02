@@ -56,7 +56,16 @@ Project MKUltra was first brought to public attention in 1975 by the `Church Com
 
 
 
-Investigative effects were hampered by CIA Director `Richard Helms` order that all MKUltra files by `destroyed in 1973` the Church Committee and `Rockefeller Commission` investigations relied on the sworn testimony of direct participants and on the relatively small number of documents that survived Helms's destruction order. In 1997, a `Freedom of Information Act` requested uncovered a cache of `20,000 documents` related to project MKUltra which led to senate hearings later that year. Some surviving information regarding MKUltra was declassified in `July 2001`. In `December 2018`, declassified documents included a letter to an unidentified doctor discussing work on six dogs made to run, turn and stop via remote control and brain implants.
+Investigative effects were hampered by CIA Director `Richard Helms` order that all MKUltra files by `destroyed in 1973` the Church Committee and `Rockefeller Commission` investigations relied on the sworn testimony of direct participants and on the rtelatively small number of documents that survived Helms's destruction order. In 1997, a `Freedom of Information Act` requested uncovered a cache of `20,000 documents` related to project MKUltra which led to senate hearings later that year. Some surviving information regarding MKUltra was declassified in `July 2001`. In `December 2018`, declassified documents included a letter to an unidentified doctor discussing work on six dogs made to run, turn and stop via remote control and brain implants. Thanks to [TheBlackVault](https://www.theblackvault.com/documentarchive/cia-mkultra-collection/) has the owner had `FOIA request` for all the documents pertaining to MKULTRA and related projects back in the late 1990s. Here is all the files link to MKULTRA [Files](http://documents.theblackvault.com/documents/mkultra/).
 
 
 
+## Black Mirror: Bandersnatch
+
+![BlackMirror-BanderSnatch](/images/posts/blackmirror-bandersnatch.jpeg)**Source** [Netflix](https://www.netflix.com/in/title/80988062)
+
+### What is Black Mirror: Bandersnatch?
+
+<sup>Wikipidia</sup> Black Mirror: Bandersnatch is a interactive film in the science fiction anathology of serise `Black Mirror`. It was been written by serise creator `Charlie Brooker` and directed by `David Slade`. Netflix did not conirm the interactive nature of Bandersnatch until its release, though there was much media speculation. 
+
+In this movie viewers make decisions for the main character, the young programmer `Stefan Butler`, who is adapting a fantasy gamebook into video game in 1984. Where in the game you have
