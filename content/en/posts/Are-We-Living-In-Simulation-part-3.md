@@ -1,7 +1,9 @@
 ---
-title: "Are We Living in Simulation Part 3"
-date: 2020-12-27T16:40:02+05:30
-description: "Are we been controlled? Are we been watched? Are we been manipulated? Are we been Simulated? Are we Lab Rats for Experiment? Who Are YOU? Who am I? Who are WE?" 
+title: Are We Living in Simulation Part 3
+date: 2021-01-03T06:30:55.761Z
+description: Are we been controlled? Are we been watched? Are we been
+  manipulated? Are we been Simulated? Are we Lab Rats for Experiment? Who Are
+  YOU? Who am I? Who are WE?
 draft: true
 hideToc: false
 enableToc: true
@@ -9,19 +11,19 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
-tags:
-- matrix
-- simulation
-- reality
-- truth
-- experiment 
-series:
-- World
-categories:
-- Simulations
-- Mind Control
-- Government
 image: images/posts/They-Lived-1988.jpg
+tags:
+  - matrix
+  - simulation
+  - reality
+  - truth
+  - experiment
+categories:
+  - Simulations
+  - Mind Control
+  - Government
+series:
+  - World
 ---
 
 I suggest you kindly read both the part so that you can understand on which topic we are discussing on [Part One](http://mistrysiddh.tk/posts/are-we-living-in-simulation/) & [Part Second](http://mistrysiddh.tk/posts/are-we-living-in-simulation-2/).
