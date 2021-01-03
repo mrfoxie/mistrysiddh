@@ -4,7 +4,7 @@ date: 2021-01-03T06:30:55.761Z
 description: Are we been controlled? Are we been watched? Are we been
   manipulated? Are we been Simulated? Are we Lab Rats for Experiment? Who Are
   YOU? Who am I? Who are WE?
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -24,6 +24,7 @@ categories:
   - Government
 series:
   - World
+
 ---
 
 I suggest you kindly read both the part so that you can understand on which topic we are discussing on [Part One](http://mistrysiddh.tk/posts/are-we-living-in-simulation/) & [Part Second](http://mistrysiddh.tk/posts/are-we-living-in-simulation-2/).
@@ -70,4 +71,33 @@ Investigative effects were hampered by CIA Director `Richard Helms` order that a
 
 <sup>Wikipidia</sup> Black Mirror: Bandersnatch is a interactive film in the science fiction anathology of serise `Black Mirror`. It was been written by serise creator `Charlie Brooker` and directed by `David Slade`. Netflix did not conirm the interactive nature of Bandersnatch until its release, though there was much media speculation. 
 
-In this movie viewers make decisions for the main character, the young programmer `Stefan Butler`, who is adapting a fantasy gamebook into video game in 1984. Where in the game you have
+In this movie viewers make decisions for the main character, the young programmer `Stefan Butler`, who is adapting a fantasy gamebook into video game in 1984. In this game you have to select choice's to move forward every path has option to choice and your selection will decide you future action similar to that this movie has the same interface in `Netflix` you have to also select your action what our programmer `Stefan Butler` will do this will take you next stage there are multiple ending
+
+![Choice Bandersnatch](/images/posts/Choice-Bandersnatch.jpg)
+
+As you can see in the above picture you can see that you have to make choice whether to `THROW TEA OVER COMPUTER` or `SHOUT AT DAD` according to that Stefan Butler does the action. There are multiple option in the movie where you will be confused and also some option will take you backward in the movie for different ending. At a point of movie with selecting the same option will take you to a scene when `Colin` explain Stefan the concept of `PAC-man` where the `PAC` word belong to `Program Access and Control`
+
+
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/D3qxWbQ8qek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[PAC-man Explanation](https://youtu.be/D3qxWbQ8qek?t=45)
+
+This also reference to [Matrix](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-2/) at [1:15s](https://youtu.be/D3qxWbQ8qek?t=75) in the video Colin speak of code `IT'S ALL CODE IF YOU LISTEN CLOSELY YOU CAN HEAR THE NUMBER'S` this is also reference to Matrix where in first part at the ending of the movie where Neo dies and wake up form dead see's the Matrix's as code flowing everywhere around him. 
+
+![Culture_Matrix_Code](/images/posts/Culture_Matrix_Code.jpg)
+
+Also not that even in the movie at some post by selecting specific options you may lead to this scene which I never expected to see it in the movie it also included in the movie several time as 21<sup>th</sup> century entertainment services.
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/A1751qCh6NY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this scenario Stefan tries to open window and the bell rung's of the cut scene where it shows the set of filming this scene the fight between Therapist and Stefan. There are many options in the movie which will lead you the scenes where Netflix is been introduced in the movie it has multiple endings as well as multiple Easter eggs the movie also there are some scenes which are not able to found out yet also there are soo many chipper in the movie say for example sound in of the tape Bandersnatch by Stefan butler etc.
+
+
+
+
+
+If you know the Easter eggs of this movie and also some real live incident which believes you that the world which we are living in is just a simulation of the real world where we are just a test subject then let me know and I had found something for you will will make you more interesting to see.
+
+![Chart](/images/posts/blackmirror-bandersnatch.png)
+
