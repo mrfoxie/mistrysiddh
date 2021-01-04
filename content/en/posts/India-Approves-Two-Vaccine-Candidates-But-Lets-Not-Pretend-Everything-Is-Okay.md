@@ -17,7 +17,7 @@ series:
 categories:
 - medical
 - vaccination
-image: https://st1.thehealthsite.com/wp-content/uploads/2020/12/vaccine-8-655x353.jpg
+image: images/posts/COVIshield.jpg
 ---
 
 ## Vaccination Approved
