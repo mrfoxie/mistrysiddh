@@ -1,6 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b116972-923c-4ad3-a0fa-f42f8c2c9934/deploy-status)](https://app.netlify.com/sites/mistrysiddh/deploys)
+
 ### Hi there 👋, my name is Mistry Siddh
 #### I am Blogger, Gamer, Wordpress Hoster
-![I am Blogger, Gamer, Wordpress Hoster](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Blogger, Gamer, Wordpress Hoster](https://mistrysiddh.tk/images/whoami/Banner.gif)
 
 Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
