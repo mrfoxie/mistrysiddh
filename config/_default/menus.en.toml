@@ -50,4 +50,9 @@
   name = "Comics"
   url = "gallery"
   weight = 6
-   
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 7
