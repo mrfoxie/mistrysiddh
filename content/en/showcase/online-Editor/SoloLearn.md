@@ -6,5 +6,5 @@ weight: 4
 link: https://code.sololearn.com/
 repo: https://code.sololearn.com/
 pinned: true
-thumb: code/gitpod.svg
+thumb: code/sololearn.jpg
 ---
