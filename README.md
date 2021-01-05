@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b116972-923c-4ad3-a0fa-f42f8c2c9934/deploy-status)](https://app.netlify.com/sites/mistrysiddh/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b116972-923c-4ad3-a0fa-f42f8c2c9934/deploy-status)](https://app.netlify.com/sites/mistrysiddh/deploys) ![Profile views](https://gpvc.arturio.dev/mrfoxie)  
 
 ### Hi there 👋, my name is Mistry Siddh
 #### I am Blogger, Gamer, Wordpress Blogger
@@ -20,5 +20,3 @@ Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS,
 ![GitHub metrics](https://metrics.lecoq.io/mrfoxie)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrfoxie)  
-
-![Profile views](https://gpvc.arturio.dev/mrfoxie)  
