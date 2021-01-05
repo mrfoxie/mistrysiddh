@@ -4,7 +4,7 @@
 #### I am Blogger, Gamer, Wordpress Blogger
 ![I am Blogger, Gamer, Wordpress blogger](https://mistrysiddh.tk/images/whoami/Banner.gif)
 
-Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
+I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
 - 🔭 I’m currently working on Blogger this page. 
 - 🌱 I’m currently learning Nano techonology, VSLI. 
