@@ -52,7 +52,12 @@
   weight = 6
 
 [[main]]
+  idemtifier = "talks"
+  name = "Talks"
+  url = "talks"
+  weight = 7
+[[main]]
   identifier = "about"
   name = "About"
   url = "about"
-  weight = 7
+  weight = 8
