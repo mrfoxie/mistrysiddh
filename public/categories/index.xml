@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Mr. Developer</title>
+    <title>Categories on Mr. Blogger</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Mr. Developer</description>
+    <description>Recent content in Categories on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 23 Dec 2020 14:16:47 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 14:22:07 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>medical</title>
         <link>/categories/medical/</link>
-        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/categories/medical/</guid>
@@ -44,7 +44,7 @@
       <item>
         <title>vaccination</title>
         <link>/categories/vaccination/</link>
-        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/categories/vaccination/</guid>
@@ -62,7 +62,7 @@
       <item>
         <title>Government</title>
         <link>/categories/government/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/categories/government/</guid>
@@ -80,7 +80,7 @@
       <item>
         <title>Mind Control</title>
         <link>/categories/mind-control/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/categories/mind-control/</guid>
@@ -98,10 +98,46 @@
       <item>
         <title>Simulations</title>
         <link>/categories/simulations/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/categories/simulations/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Simulation</title>
+        <link>/categories/simulation/</link>
+        <pubDate>Wed, 30 Dec 2020 11:34:29 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/categories/simulation/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Covid19</title>
+        <link>/categories/covid19/</link>
+        <pubDate>Thu, 24 Dec 2020 17:14:35 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/categories/covid19/</guid>
         <description></description>
         
         <dc:creator>Siddh Mistry</dc:creator>

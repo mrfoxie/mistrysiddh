@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Learn on Mr. Developer</title>
+    <title>Learn on Mr. Blogger</title>
     <link>/showcase/learn/</link>
-    <description>Recent content in Learn on Mr. Developer</description>
+    <description>Recent content in Learn on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
@@ -102,24 +102,6 @@
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
         <guid>/showcase/learn/khanacademy/</guid>
-        <description></description>
-        
-        <dc:creator>Siddh Mistry</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>EdX</title>
-        <link>/showcase/learn/edx/</link>
-        <pubDate>Fri, 11 Dec 2020 16:48:26 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/learn/edx/</guid>
         <description></description>
         
         <dc:creator>Siddh Mistry</dc:creator>

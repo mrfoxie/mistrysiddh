@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Fantasy on Mr. Blogger</title>
+    <link>/series/fantasy/</link>
+    <description>Recent content in Fantasy on Mr. Blogger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 08 Jan 2021 10:51:04 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/series/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Beginning is Ending</title>
+        <link>/talks/2021-01-08-beginning-is-ending/</link>
+        <pubDate>Fri, 08 Jan 2021 10:51:04 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Fri, 08 Jan 2021 10:54:21 +0000</atom:modified>
+        <guid>/talks/2021-01-08-beginning-is-ending/</guid>
+        <description>Ending In XX45</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+          
+            
+              <category>Fantasy</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

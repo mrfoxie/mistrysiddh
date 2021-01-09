@@ -4,12 +4,12 @@
   
   <url>
     <loc>/showcase/sites/hacker-news/</loc>
-    <lastmod>2020-12-15T18:23:33+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/showcase/sites/awwwards/</loc>
-    <lastmod>2020-12-15T18:23:41+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
@@ -59,7 +59,7 @@
   
   <url>
     <loc>/showcase/online-editor/sololearn/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <lastmod>2021-01-05T17:03:51+05:30</lastmod>
   </url>
   
   <url>
@@ -73,13 +73,43 @@
   </url>
   
   <url>
-    <loc>/showcase/learn/edx/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <loc>/talks/ending/</loc>
+    <lastmod>2021-01-09T18:01:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2021-01-08-beginning-is-ending/</loc>
+    <lastmod>2021-01-08T10:54:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/fantasy/</loc>
+    <lastmod>2021-01-08T10:54:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <lastmod>2021-01-08T10:54:21+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2021-01-07T11:37:39+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -94,37 +124,22 @@
   
   <url>
     <loc>/tags/corona/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/coronavirus-reaches-end-of-earth-as-outbreak-hits-antartica/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <loc>/posts/india-approves-two-vaccine-candidates-but-lets-not-pretend-everything-is-okay/</loc>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/medical/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/"
-                />
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -139,202 +154,252 @@
   
   <url>
     <loc>/tags/vaccination/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/vaccination/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/series/world/</loc>
-    <lastmod>2020-12-23T14:43:02+05:30</lastmod>
+    <lastmod>2021-01-04T16:01:57+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/are-we-living-in-simulation-part-2/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <loc>/posts/are-we-living-in-simulation-part-3/</loc>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/experiment/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/government/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/matrix/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/mind-control/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/reality/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/simulations/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/truth/</loc>
-    <lastmod>2020-12-21T18:27:29+05:30</lastmod>
+    <lastmod>2021-01-03T15:21:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/artificial/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/record/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/simulation/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/artificial-sun/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/covid19/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mutant-coronavirus-stain/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/coronavirus-reaches-end-of-earth-as-outbreak-hits-antartica/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/are-we-living-in-simulation-part-2/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/are-we-living-in-simulation/</loc>
-    <lastmod>2020-12-20T17:02:06+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/covid-19-vaccination-in-us-a-miracle-white-house/</loc>
-    <lastmod>2020-12-20T17:02:34+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/facebook/</loc>
-    <lastmod>2020-12-15T21:40:16+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</loc>
-    <lastmod>2020-12-15T21:40:16+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/social-media/</loc>
-    <lastmod>2020-12-15T21:40:16+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/tiktok/</loc>
-    <lastmod>2020-12-15T21:40:16+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/series/game/</loc>
-    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/game/</loc>
-    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/gaming/</loc>
-    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/pubg/</loc>
-    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</loc>
-    <lastmod>2020-12-15T17:43:27+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/ddos-attack/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/ddos-attack/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/google/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/google-services-goes-down/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/google-shutdown/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/series/hacker/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/hacking/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/hacking/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/iot-ddos-attack/</loc>
-    <lastmod>2020-12-16T17:26:45+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/showcase/sites/</loc>
-    <lastmod>2020-12-13T17:46:59+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/transfer_site/</loc>
-    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/new-site/</loc>
-    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/series/website/</loc>
-    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/website/</loc>
-    <lastmod>2020-12-13T18:26:41+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/welcome/</loc>
-    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/welcome/</loc>
-    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/welcome_user/</loc>
-    <lastmod>2020-12-12T21:25:23+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
@@ -354,22 +419,27 @@
   
   <url>
     <loc>/showcase/</loc>
-    <lastmod>2020-12-13T17:46:52+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gallery/roboto-01/</loc>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/archive/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <lastmod>2021-01-08T15:07:44+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -384,7 +454,21 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-12-12T20:19:33+05:30</lastmod>
+    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/true/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/true/"
+                />
   </url>
   
 </urlset>

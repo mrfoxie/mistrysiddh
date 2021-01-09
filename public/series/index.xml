@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Mr. Developer</title>
+    <title>Series on Mr. Blogger</title>
     <link>/series/</link>
-    <description>Recent content in Series on Mr. Developer</description>
+    <description>Recent content in Series on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 23 Dec 2020 14:16:47 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 10:51:04 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
@@ -24,9 +24,27 @@
 
       
       <item>
+        <title>Fantasy</title>
+        <link>/series/fantasy/</link>
+        <pubDate>Fri, 08 Jan 2021 10:51:04 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/series/fantasy/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>World</title>
         <link>/series/world/</link>
-        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/series/world/</guid>

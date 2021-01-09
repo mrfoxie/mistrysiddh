@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Mr. Developer</title>
+    <title>Tags on Mr. Blogger</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Mr. Developer</description>
+    <description>Recent content in Tags on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 23 Dec 2020 14:16:47 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 14:22:07 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>corona</title>
         <link>/tags/corona/</link>
-        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/corona/</guid>
@@ -44,7 +44,7 @@
       <item>
         <title>vaccination</title>
         <link>/tags/vaccination/</link>
-        <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
+        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/vaccination/</guid>
@@ -62,7 +62,7 @@
       <item>
         <title>experiment</title>
         <link>/tags/experiment/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/experiment/</guid>
@@ -80,7 +80,7 @@
       <item>
         <title>matrix</title>
         <link>/tags/matrix/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/matrix/</guid>
@@ -98,7 +98,7 @@
       <item>
         <title>reality</title>
         <link>/tags/reality/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/reality/</guid>
@@ -116,7 +116,7 @@
       <item>
         <title>simulation</title>
         <link>/tags/simulation/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/simulation/</guid>
@@ -134,10 +134,64 @@
       <item>
         <title>truth</title>
         <link>/tags/truth/</link>
-        <pubDate>Sat, 19 Dec 2020 14:39:09 +0530</pubDate>
+        <pubDate>Sun, 03 Jan 2021 06:30:55 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
         
         <guid>/tags/truth/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>artificial</title>
+        <link>/tags/artificial/</link>
+        <pubDate>Wed, 30 Dec 2020 11:34:29 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/artificial/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>record</title>
+        <link>/tags/record/</link>
+        <pubDate>Wed, 30 Dec 2020 11:34:29 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/record/</guid>
+        <description></description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>technology</title>
+        <link>/tags/technology/</link>
+        <pubDate>Wed, 30 Dec 2020 11:34:29 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        
+        <guid>/tags/technology/</guid>
         <description></description>
         
         <dc:creator>Siddh Mistry</dc:creator>

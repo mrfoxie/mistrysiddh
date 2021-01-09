@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Online Editor on Mr. Developer</title>
+    <title>Online Editor on Mr. Blogger</title>
     <link>/showcase/online-editor/</link>
-    <description>Recent content in Online Editor on Mr. Developer</description>
+    <description>Recent content in Online Editor on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
@@ -82,7 +82,7 @@
         <link>/showcase/online-editor/sololearn/</link>
         <pubDate>Fri, 11 Dec 2020 17:54:18 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
+        <atom:modified>Tue, 05 Jan 2021 17:03:51 +0530</atom:modified>
         <guid>/showcase/online-editor/sololearn/</guid>
         <description></description>
         

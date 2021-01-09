@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Comics on Mr. Blogger</title>
+    <link>/gallery/</link>
+    <description>Recent content in Comics on Mr. Blogger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 24 Dec 2020 15:43:41 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Engineer VS Robot</title>
+        <link>/gallery/roboto-01/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
+        <guid>/gallery/roboto-01/</guid>
+        <description>Click on image to read offline</description>
+        
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="gallery/Roboto-01/ROBOTO_comic_01-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
