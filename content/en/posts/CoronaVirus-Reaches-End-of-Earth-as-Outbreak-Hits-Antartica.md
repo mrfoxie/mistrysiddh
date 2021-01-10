@@ -15,8 +15,8 @@ tags:
 series:
 - World
 categories:
+- medical
 - vaccination
-- medical 
 image: images/posts/covid_19_100x100.png
 ---
 
