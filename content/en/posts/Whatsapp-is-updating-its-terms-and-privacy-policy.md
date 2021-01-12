@@ -1,7 +1,9 @@
 ---
-title: "Whatsapp Is Updating Its Terms and Privacy Policy"
+title: Whatsapp Is Updating Its Terms and Privacy Policy
 date: 2021-01-11T18:18:30+05:30
-description: "WhatsApp suddenly decided that they need to take explicit consent from their users for giving away their metadata and other information to Facebook, with a “take it or leave it” option. WhatsApp is owned by Facebook."
+description: WhatsApp suddenly decided that they need to take explicit consent
+  from their users for giving away their metadata and other information to
+  Facebook, with a “take it or leave it” option. WhatsApp is owned by Facebook.
 draft: false
 hideToc: false
 enableToc: true
@@ -9,13 +11,18 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
-tags:
-- Facebook
-series:
--
-categories:
-- social media
 image: https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png
+tags:
+  - Facebook
+  - Whatsapp
+  - SocialMedia
+  - Chat
+  - Telegram
+  - Signal
+categories:
+  - social media
+series:
+  - null
 ---
 
 ![Whatsapp](/images/talks/whatsapp.png)
