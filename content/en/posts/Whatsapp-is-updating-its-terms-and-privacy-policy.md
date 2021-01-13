@@ -12,6 +12,7 @@ author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
 image: https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png
+meta_image: https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png
 tags:
   - Facebook
   - Whatsapp
