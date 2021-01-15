@@ -1,13 +1,13 @@
 ---
 title: "Death"
-date: 2021-01-13T17:48:43+05:30
-publishDate: 2021-01-13T17:48:43+05:30
+date: 2021-01-14T16:23:34Z
+publishDate: 2021-01-14T16:23:34Z
 description:
+tags:
+-
 series:
-- Fantasy
+-
+categories:
+-
 titleWrap: wrap # wrap, noWrap
-image: /images/talks/death.jpg
 ---
-
-{{< featuredImage >}}
-
