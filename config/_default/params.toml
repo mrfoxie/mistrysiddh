@@ -209,6 +209,8 @@ commento = false
   name = "reddit"
 [[share]]
  name = "tumblr"
+[[share]]
+ name = "google"
 #[[footerLinks]]
 #  name = ""
 #  link = ""
