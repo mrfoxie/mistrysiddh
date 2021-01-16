@@ -10,4 +10,6 @@ series:
 categories:
 -
 titleWrap: wrap # wrap, noWrap
+image: ""
 ---
+{{< featuredImage >}}

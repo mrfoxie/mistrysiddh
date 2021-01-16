@@ -17,3 +17,4 @@ categories:
 - 
 image: 
 ---
+{{< featuredImage >}}
