@@ -2,14 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 publishDate: {{ .Date }}
-description:
-tags:
--
+description: ""
 series:
--
-categories:
--
+- Fantasy
 titleWrap: wrap # wrap, noWrap
-image: ""
+image: 
 ---
 {{< featuredImage >}}
