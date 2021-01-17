@@ -17,7 +17,7 @@ header:
     paddingX: 50
     align: center
     fontSize: 44
-    fontColor: yellow
+    fontColor: 
     
   - type: text
     height: 200
