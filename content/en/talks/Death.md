@@ -6,9 +6,13 @@ description: "Have you ever though that the things you create may cause you trou
 series:
 - Fantasy
 titleWrap: wrap # wrap, noWrap
+image: images/talks/death.jpg
 ---
 
+{{< featuredImage >}}
+
 ## The Day of Choice.
+
 ![Death](/images/talks/death.jpg)
 
 ### Features of NISHA
