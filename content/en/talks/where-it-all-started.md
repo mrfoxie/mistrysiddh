@@ -6,7 +6,7 @@ description:
 series:
 - Fantasy
 titleWrap: wrap # wrap, noWrap
-image: ""
+image: "images/talks/butterfly-effect.png"
 ---
 {{< featuredImage >}}
 
