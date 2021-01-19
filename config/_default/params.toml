@@ -211,9 +211,9 @@ commento = true
  name = "tumblr"
 [[share]]
  name = "google"
-#[[footerLinks]]
-#  name = ""
-#  link = ""
+[[footerLinks]]
+  name = "Join On Signal"
+  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
 #[[footerLinks]]
 #  name = ""
 #  link = ""
