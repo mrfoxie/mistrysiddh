@@ -114,48 +114,6 @@ commento = true
   siteId = ""
   dataLimit = 5
 
-[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = "https://github.com/mrfoxie"              # Your GitHub ID
-  repo = "https://github.com/mrfoxie/mistrysiddh"               # The repo to store comments
-  clientId = "4f3d4f96c0fd763c3f61"           # Your client ID
-  clientSecret = "b4523ce3bd70e81e7242aa4db279c3b032ad8a05"       # Your client secret
-
-[utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-
-[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = "https://github.com/mrfoxie"              # Your GitHub ID
-  repo = "https://github.com/mrfoxie/mistrysiddh"               # The repo to store comments
-  clientId = "5b932c2714c251e909e9"           # Your client ID
-  clientSecret = "19a88099ca42474d3c0cf4864a02b9f47e836020"       # Your client secret
-
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
-
-# Isso: https://posativ.org/isso/
-[isso]
-  enable = false
-  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
-
 [socialOptions]
   email = "mailto:siddh.mistry396321@gmail.com"
   phone = ""
@@ -195,7 +153,6 @@ commento = true
   paypal = "https://paypal.me/mistrysiddh"
   patreon = "https://www.patreon.com/siddhmistry"
 
-# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
 [[share]]
   name = "facebook"
 [[share]]
@@ -211,6 +168,8 @@ commento = true
  name = "tumblr"
 [[share]]
  name = "google"
+[[share]]
+ name = "whatsapp"
 [[footerLinks]]
   name = "Join On Signal"
   link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
