@@ -10,4 +10,5 @@ image: "images/talks/butterfly-effect.png"
 ---
 {{< featuredImage >}}
 
-Coming soon
+## In Laboratory
+![Laboratory](/images/talks/laboratory.jpg)

@@ -44,7 +44,7 @@
           {{ partial "svgs/social/telegram.svg" (dict "width" 35 "height" 35) }}
         </a>
       {{ else if eq (lower .name) "whatsapp" }}
-        <a href="https://web.whatsapp.com/send?text={{ $ctx.Title }} - {{ $ctx.Permalink | absLangURL }}" data-href="{{ $ctx.Permalink | absLangURL }}" class="donation__item" target="_blank" rel="noreferrer" title="{{ i18n "line" | default "WhatsApp" }}" aria-label="WhatsApp Share Button" data-type="share">
+        <a href="https://api.whatsapp.com/send?text={{ $ctx.Title }} - {{ $ctx.Permalink | absLangURL }}" data-href="{{ $ctx.Permalink | absLangURL }}" class="donation__item" target="_blank" rel="noreferrer" title="{{ i18n "line" | default "WhatsApp" }}" aria-label="WhatsApp Share Button" data-type="share">
           {{ partial "svgs/social/whatsapp.svg" (dict "width" 35 "height" 35) }}
         </a>
       {{ else if eq (lower .name) "pocket" }}
