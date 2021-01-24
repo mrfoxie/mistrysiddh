@@ -32,6 +32,14 @@ Dr. S->Nisha	: Code: 332684M87NFwke
 ### Booting
 
 ```
-
+.
+├── Booting sequence started
+¦   ├── Checking Circuit              --- OK
+¦   ├── Checking Wiring               --- OK
+¦   ├── Checking for Sort Circuit     --- OK
+¦   ├── Checking for energy source    --- OK
+¦   ├── Checking memory storage       --- OK
+¦   ├── Checking for storage capacity --- OK
+└── Done
 ```
 
