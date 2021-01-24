@@ -28,3 +28,10 @@ Dr. N->Nisha	: It’s okay dear everything is fine me and your father is just ch
 Nisha->Dr. N	: Okay, Mommy i will be waiting.
 Dr. S->Nisha	: Code: 332684M87NFwke
 ```
+
+### Booting
+
+```
+
+```
+
