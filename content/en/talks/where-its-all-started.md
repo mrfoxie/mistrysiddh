@@ -18,6 +18,7 @@ image: "images/talks/butterfly-effect.png"
 
 As I was telling to you that Nisha is a best of the best creation I every made in my life is that right Ms. N, Yes Mr. S its your best creation of your life and I'm happy that we make new generation it will help other to regain parts with the original parts with this technology. Yes your right she is really beautiful I cant get my eyes off her wish I can hold her in my arms and carry her every where I go.
 
+### Conversation
 <sup>Use light theme to read this conversation.</sup>
 
 ```msc
@@ -30,7 +31,7 @@ Nisha->Dr. N	: Okay, Mommy i will be waiting.
 Dr. S->Nisha	: Code: 332684M87NFwke
 ```
 
-### Booting
+### Code: 332684M87Fwke
 
 ```
 .
@@ -106,3 +107,9 @@ Dr. S->Nisha	: Code: 332684M87NFwke
 ├── System check completed '0 error found' everything is fully functional.
 ```
 
+```msc
+Dr. S->Nisha	: Nisha it will take few minutes ok
+Nisha->Dr. S	: Okay daddy no problem
+Dr. N->Nisha	: Dear it maybe painfully to you so be relax this is the first time in a body
+Nisha->Dr.  N	: Okay mommy I can bare it
+```
