@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>만화 on Blogger 씨</title>
+    <link>https://mistrysiddh.tk/ko/gallery/</link>
+    <description>Recent content in 만화 on Blogger 씨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Jan 2021 10:36:05 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://mistrysiddh.tk/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>엔지니어 VS 로봇</title>
+        <link>https://mistrysiddh.tk/ko/gallery/roboto-01/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/gallery/roboto-01/</guid>
+        <description>오프라인으로 읽으려면 이미지를 클릭하세요.</description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        <media:content url="https://mistrysiddh.tk/gallery/Roboto-01/ROBOTO_comic_01-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

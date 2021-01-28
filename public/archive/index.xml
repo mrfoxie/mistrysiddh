@@ -7,19 +7,17 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Mr. Blogger</title>
-    <link>/archive/</link>
+    <link>https://mistrysiddh.tk/archive/</link>
     <description>Recent content in Archive on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/archive/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

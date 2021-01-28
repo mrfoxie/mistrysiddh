@@ -7,32 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Online Editor on Mr. Blogger</title>
-    <link>/showcase/online-editor/</link>
+    <link>https://mistrysiddh.tk/showcase/online-editor/</link>
     <description>Recent content in Online Editor on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 11 Dec 2020 17:23:05 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/showcase/online-editor/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/showcase/online-editor/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Codepen</title>
-        <link>/showcase/online-editor/codepen/</link>
+        <link>https://mistrysiddh.tk/showcase/online-editor/codepen/</link>
         <pubDate>Fri, 11 Dec 2020 17:25:21 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/online-editor/codepen/</guid>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/showcase/online-editor/codepen/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -43,14 +41,14 @@
       
       <item>
         <title>Code SandBox</title>
-        <link>/showcase/online-editor/codesandbox/</link>
+        <link>https://mistrysiddh.tk/showcase/online-editor/codesandbox/</link>
         <pubDate>Fri, 11 Dec 2020 17:48:01 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/online-editor/codesandbox/</guid>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/showcase/online-editor/codesandbox/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -61,14 +59,14 @@
       
       <item>
         <title>Gitpod</title>
-        <link>/showcase/online-editor/gitpod/</link>
+        <link>https://mistrysiddh.tk/showcase/online-editor/gitpod/</link>
         <pubDate>Fri, 11 Dec 2020 17:51:54 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/online-editor/gitpod/</guid>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/showcase/online-editor/gitpod/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -79,14 +77,14 @@
       
       <item>
         <title>SoloLearn</title>
-        <link>/showcase/online-editor/sololearn/</link>
+        <link>https://mistrysiddh.tk/showcase/online-editor/sololearn/</link>
         <pubDate>Fri, 11 Dec 2020 17:54:18 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
-        <atom:modified>Tue, 05 Jan 2021 17:03:51 +0530</atom:modified>
-        <guid>/showcase/online-editor/sololearn/</guid>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/showcase/online-editor/sololearn/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         

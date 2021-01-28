@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>쇼케이스 개요 on Blogger 씨</title>
+    <link>https://mistrysiddh.tk/ko/showcase/</link>
+    <description>Recent content in 쇼케이스 개요 on Blogger 씨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Jan 2021 10:53:29 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://mistrysiddh.tk/ko/showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>사이트</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/</link>
+        <pubDate>Sun, 13 Dec 2020 17:28:57 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>커뮤니티</title>
+        <link>https://mistrysiddh.tk/ko/showcase/community/</link>
+        <pubDate>Fri, 11 Dec 2020 17:59:55 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/community/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>온라인 에디터</title>
+        <link>https://mistrysiddh.tk/ko/showcase/online-editor/</link>
+        <pubDate>Fri, 11 Dec 2020 17:23:05 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/online-editor/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>배우다</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/</link>
+        <pubDate>Fri, 11 Dec 2020 16:25:11 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

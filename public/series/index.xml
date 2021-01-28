@@ -7,32 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Mr. Blogger</title>
-    <link>/series/</link>
+    <link>https://mistrysiddh.tk/series/</link>
     <description>Recent content in Series on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 09 Jan 2021 18:06:22 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 21:25:36 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Fantasy</title>
-        <link>/series/fantasy/</link>
-        <pubDate>Sat, 09 Jan 2021 18:06:22 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <title>Truth</title>
+        <link>https://mistrysiddh.tk/series/truth/</link>
+        <pubDate>Tue, 26 Jan 2021 21:25:36 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/fantasy/</guid>
+        <guid>https://mistrysiddh.tk/series/truth/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -43,14 +41,50 @@
       
       <item>
         <title>World</title>
-        <link>/series/world/</link>
-        <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <link>https://mistrysiddh.tk/series/world/</link>
+        <pubDate>Tue, 26 Jan 2021 21:25:36 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/world/</guid>
+        <guid>https://mistrysiddh.tk/series/world/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Fantasy</title>
+        <link>https://mistrysiddh.tk/series/fantasy/</link>
+        <pubDate>Sun, 24 Jan 2021 15:53:38 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>https://mistrysiddh.tk/series/fantasy/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Conspiracy theory</title>
+        <link>https://mistrysiddh.tk/series/conspiracy-theory/</link>
+        <pubDate>Thu, 17 Dec 2020 15:52:54 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>https://mistrysiddh.tk/series/conspiracy-theory/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -61,14 +95,14 @@
       
       <item>
         <title>Game</title>
-        <link>/series/game/</link>
+        <link>https://mistrysiddh.tk/series/game/</link>
         <pubDate>Mon, 14 Dec 2020 21:15:27 +0000</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/game/</guid>
+        <guid>https://mistrysiddh.tk/series/game/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -79,14 +113,14 @@
       
       <item>
         <title>Hacker</title>
-        <link>/series/hacker/</link>
+        <link>https://mistrysiddh.tk/series/hacker/</link>
         <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/hacker/</guid>
+        <guid>https://mistrysiddh.tk/series/hacker/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -97,14 +131,14 @@
       
       <item>
         <title>website</title>
-        <link>/series/website/</link>
+        <link>https://mistrysiddh.tk/series/website/</link>
         <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/website/</guid>
+        <guid>https://mistrysiddh.tk/series/website/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         

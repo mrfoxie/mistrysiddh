@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>index on Blogger 씨</title>
+    <link>https://mistrysiddh.tk/ko/tags/index/</link>
+    <description>Recent content in index on Blogger 씨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://mistrysiddh.tk/ko/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Posts</title>
+        <link>https://mistrysiddh.tk/ko/posts/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Blogger 씨</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

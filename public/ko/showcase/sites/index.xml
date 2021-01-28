@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>사이트 on Blogger 씨</title>
+    <link>https://mistrysiddh.tk/ko/showcase/sites/</link>
+    <description>Recent content in 사이트 on Blogger 씨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 17:28:57 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://mistrysiddh.tk/ko/showcase/sites/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Flutter</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/flutter/</link>
+        <pubDate>Thu, 28 Jan 2021 13:28:03 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/flutter/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Canva</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/canva/</link>
+        <pubDate>Thu, 28 Jan 2021 13:26:58 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/canva/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Uplabs</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/uplabs/</link>
+        <pubDate>Thu, 28 Jan 2021 13:29:48 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/uplabs/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Awwwards</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/awwwards/</link>
+        <pubDate>Thu, 28 Jan 2021 13:24:55 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/awwwards/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hacker News</title>
+        <link>https://mistrysiddh.tk/ko/showcase/sites/hacker-news/</link>
+        <pubDate>Thu, 28 Jan 2021 13:28:52 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:38:03 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/sites/hacker-news/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

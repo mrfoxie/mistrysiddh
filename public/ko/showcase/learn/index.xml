@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>배우다 on Blogger 씨</title>
+    <link>https://mistrysiddh.tk/ko/showcase/learn/</link>
+    <description>Recent content in 배우다 on Blogger 씨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 16:25:11 +0530</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://mistrysiddh.tk/ko/showcase/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>코드 카데미</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/codeacademy/</link>
+        <pubDate>Thu, 28 Jan 2021 13:01:55 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/codeacademy/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Coursera</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/coursera/</link>
+        <pubDate>Thu, 28 Jan 2021 13:03:36 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/coursera/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Udemy</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/udemy/</link>
+        <pubDate>Thu, 28 Jan 2021 13:08:04 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/udemy/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>FreeCodeCamp</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/freecodecamp/</link>
+        <pubDate>Thu, 28 Jan 2021 13:05:36 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/freecodecamp/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Khan Academy</title>
+        <link>https://mistrysiddh.tk/ko/showcase/learn/khanacademy/</link>
+        <pubDate>Thu, 28 Jan 2021 13:07:09 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/ko/showcase/learn/khanacademy/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

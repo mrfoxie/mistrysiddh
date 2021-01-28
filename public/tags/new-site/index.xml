@@ -7,36 +7,34 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>new site on Mr. Blogger</title>
-    <link>/tags/new-site/</link>
+    <link>https://mistrysiddh.tk/tags/new-site/</link>
     <description>Recent content in new site on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Dec 2020 16:04:51 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/tags/new-site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/tags/new-site/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Changing Site</title>
-        <link>/posts/transfer_site/</link>
+        <link>https://mistrysiddh.tk/posts/transfer_site/</link>
         <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>/posts/transfer_site/</guid>
+        <guid>https://mistrysiddh.tk/posts/transfer_site/</guid>
         <description>What is Wordpress? WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes.
 Example of wordpress admin panel
 Wordpress is the most leading CMS (Content management system) right now in current generation there are also many similar to wordpress.
 List of other CMS:  Wix (most flexible designs) Weebly (extremely easy) Jimdo (AI-powered sites) Joomla!</description>
         
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="images/posts/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://mistrysiddh.tk/images/posts/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

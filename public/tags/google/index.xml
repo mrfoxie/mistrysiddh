@@ -7,29 +7,27 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>google on Mr. Blogger</title>
-    <link>/tags/google/</link>
+    <link>https://mistrysiddh.tk/tags/google/</link>
     <description>Recent content in google on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 14 Dec 2020 18:22:31 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Google Services Goes Down</title>
-        <link>/posts/google-services-goes-down/</link>
+        <link>https://mistrysiddh.tk/posts/google-services-goes-down/</link>
         <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>/posts/google-services-goes-down/</guid>
+        <guid>https://mistrysiddh.tk/posts/google-services-goes-down/</guid>
         <description>Google went down. According to Downdetector, a number of Google services went offline earlier today, including YouTube, Gmail, and Google Docs. At present, the issue is still persisting. Users across the world have noted that the services are unavailable in their regions as well.
 Source - Downdetector
 Source - Youtube when went down.
@@ -38,7 +36,7 @@ Source - Google Workspace Status Dashboard
 In the past, IoT DDoS attacks have shut down other major services such as Amazon, using such tools as the Mirai Botnet.</description>
         
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="images/posts/ddos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://mistrysiddh.tk/images/posts/ddos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

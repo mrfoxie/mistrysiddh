@@ -7,34 +7,32 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>welcome on Mr. Blogger</title>
-    <link>/categories/welcome/</link>
+    <link>https://mistrysiddh.tk/categories/welcome/</link>
     <description>Recent content in welcome on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Dec 2020 14:26:46 +0530</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Welcome User</title>
-        <link>/posts/welcome_user/</link>
+        <link>https://mistrysiddh.tk/posts/welcome_user/</link>
         <pubDate>Sat, 12 Dec 2020 14:26:46 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>/posts/welcome_user/</guid>
+        <guid>https://mistrysiddh.tk/posts/welcome_user/</guid>
         <description>Hello Hello, hope you&amp;rsquo;re doing well in this coronavirus. let&amp;rsquo;s get started from introduction myself Mistry Siddh. Well I like to be lazy and don&amp;rsquo;t do any kind of work but I like to watch anime and have some snacks with also I love to read manga.
 Many of you people may know what is manga and anime but for those who don&amp;rsquo;t know what is manga and anime I will explain you in simple way.</description>
         
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="images/posts/welcome.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://mistrysiddh.tk/images/posts/welcome.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

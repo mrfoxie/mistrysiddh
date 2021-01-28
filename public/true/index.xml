@@ -7,18 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>True on Mr. Blogger</title>
-    <link>/true/</link>
+    <link>https://mistrysiddh.tk/true/</link>
     <description>Recent content in True on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/true/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/true/index.xml" rel="self" type="application/rss+xml" />
     
 
       

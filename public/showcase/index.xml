@@ -7,32 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on Mr. Blogger</title>
-    <link>/showcase/</link>
+    <link>https://mistrysiddh.tk/showcase/</link>
     <description>Recent content in Showcase overview on Mr. Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>siddh.mistry396321@gmail.com (Siddh Mistry)</managingEditor>
-    <webMaster>siddh.mistry396321@gmail.com (Siddh Mistry)</webMaster>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="/showcase/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+        <atom:link href="https://mistrysiddh.tk/showcase/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Sites</title>
-        <link>/showcase/sites/</link>
+        <link>https://mistrysiddh.tk/showcase/sites/</link>
         <pubDate>Sun, 13 Dec 2020 17:28:57 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>/showcase/sites/</guid>
+        <guid>https://mistrysiddh.tk/showcase/sites/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -43,14 +41,14 @@
       
       <item>
         <title>Community</title>
-        <link>/showcase/community/</link>
+        <link>https://mistrysiddh.tk/showcase/community/</link>
         <pubDate>Fri, 11 Dec 2020 17:59:55 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/community/</guid>
+        <guid>https://mistrysiddh.tk/showcase/community/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -61,14 +59,14 @@
       
       <item>
         <title>Online Editor</title>
-        <link>/showcase/online-editor/</link>
+        <link>https://mistrysiddh.tk/showcase/online-editor/</link>
         <pubDate>Fri, 11 Dec 2020 17:23:05 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/online-editor/</guid>
+        <guid>https://mistrysiddh.tk/showcase/online-editor/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
@@ -79,14 +77,14 @@
       
       <item>
         <title>Learn</title>
-        <link>/showcase/learn/</link>
+        <link>https://mistrysiddh.tk/showcase/learn/</link>
         <pubDate>Fri, 11 Dec 2020 16:25:11 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Siddh Mistry)</author>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>/showcase/learn/</guid>
+        <guid>https://mistrysiddh.tk/showcase/learn/</guid>
         <description></description>
         
-        <dc:creator>Siddh Mistry</dc:creator>
+        <dc:creator>Mistry Siddh</dc:creator>
         
         
         
