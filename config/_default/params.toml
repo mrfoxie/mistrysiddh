@@ -88,7 +88,7 @@ enableSidebarPostsByOrder = true
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = false
+enableLangChange = true
 enableThemeChange = true
 
 # service
