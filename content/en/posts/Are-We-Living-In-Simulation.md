@@ -17,6 +17,7 @@ tags:
 - experiment 
 series:
 - World
+- Conspiracy theory
 categories:
 - Simulations
 - Mind Control
