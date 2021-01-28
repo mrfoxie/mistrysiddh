@@ -28,13 +28,13 @@ image: images/posts/Kayaba_warns_the_players.png
 
 ### Recap
 
-As in [part 1](https://mistrysiddh.tk/posts/are-we-living-in-simulation/) we have talked about **Quantum Computers**, **Facebook AI Chat**, and **Predictions of AI Robots** where in [part 2](http://mistrysiddh.tk/posts/are-we-living-in-simulation-part-2/) we had a recap of **part 1** and also **The Matrix** movie, **Roswell UFO Incident**, where in [part 3](http://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/) we discussed on [**MKUltra**](http://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#what-is-mkultra) performed by `US Central Intelligence Agency`, [`Black Mirror: Bandersnatch`](http://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#black-mirror-bandersnatch) movie where you can control **Stefan Butler** by given two choices which leads to different path in the movies.
+As in [part 1](https://mistrysiddh.tk/posts/are-we-living-in-simulation/) we have talked about **Quantum Computers**, **Facebook AI Chat**, and **Predictions of AI Robots** where in [part 2](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-2/) we had a recap of **part 1** and also **The Matrix** movie, **Roswell UFO Incident**, where in [part 3](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/) we discussed on [**MKUltra**](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#what-is-mkultra) performed by `US Central Intelligence Agency`, [`Black Mirror: Bandersnatch`](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#black-mirror-bandersnatch) movie where you can control **Stefan Butler** by given two choices which leads to different path in the movies.
 
 ## UFO
 
 ![Pentagon UFO Program](/images/posts/pentagon-ufo-program.jpg)
 
-`NSA` isn't the most publicly open of government organizations the agency's main goal is to collect intelligence from various signal and then definition a clandestine organization. 
+`NSA` isn't the most publicly open of government organizations the agency's main goal is to collect intelligence from various signal and then definition a clandestine organization.
 
 ### Iranian UFO's
 
@@ -70,11 +70,11 @@ At [5:07](https://youtu.be/nS0VN056d68?t=307) `Astronaut Scott Kelly` Questioned
 
 After starting the video from start play the video for `10-20 minutes` so that you can see the space with no starts and after 10-20 minutes scroll the progressing bar till `-10:29:47` let the play the video for 5 more minutes till `-10:28:04` the video will play from the start it means that this vide is been recorded and repeated so it means that NASA has never landed on moon or on mars, also do you know that NASA is been received which was `64 light years` far from our earth now its been said that if you place mirror 10 light years far from earth and then when you look at the mirror you will see earth 10 years behind. `Area 51` is the place where alien sightings are too be seen but do you know that in year: `1959` NASA took a photo of an unidentified craft in the shape of a flying saucer at NASA engineers at Dryden.
 
-![Flying Saucer](http://www.theblackvault.com/casefiles/wp-content/uploads/2018/01/27331634_558433501156218_7082552310630800735_n.jpg)
+![Flying Saucer](https://www.theblackvault.com/casefiles/wp-content/uploads/2018/01/27331634_558433501156218_7082552310630800735_n.jpg)
 
 This was the photo take by NASA which was been edited but when the photo was been analyzed the hoaxer who created the image, did not even bother to change the photograph identification number. On the photograph in question, you will note it says: E49-059 as a Photo Identification number. A quick search of the NASA Dryden Photo archives, reveals to real photograph with this ID number, and the buildings, engineers, etc. are identical. The hoaxer simply did some fancy Photoshop work – and inserted in a flying saucer to the original photograph, after deleting the actual aircraft. This is the original photo:
 
-![NASA Dryden Flight Research Center Photo Collection](http://www.theblackvault.com/casefiles/wp-content/uploads/2018/01/E49-059-1.jpg)
+![NASA Dryden Flight Research Center Photo Collection](https://www.theblackvault.com/casefiles/wp-content/uploads/2018/01/E49-059-1.jpg)
 
 
 

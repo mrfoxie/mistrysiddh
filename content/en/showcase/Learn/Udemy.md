@@ -1,7 +1,7 @@
 ---
 title: "Udemy"
 date: 2020-12-11T17:04:41+05:30
-description: Welcome to edX Where You Come to Learn Whether you want to explore a new interest, advance your career, or break into a new field, edX is the trusted platform for high-quality, online education from the world's top institutions. Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.
+description: "Udemy, Inc. is an American massive open online course provider aimed at professional adults and students. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar. As of January 2020, the platform has more than 35 million students and 57,000 instructors teaching courses in over 65 languages."
 weight: 3
 link: https://www.udemy.com/
 repo: https://www.udemy.com/

@@ -8,14 +8,14 @@ date = "2019-02-28"
 
 ### Hi there 👋, my name is Mistry Siddh
 
-##### I am Blogger, Gamer, Wordpress Blogger
+##### I am Blogger, Gamer, WordPress Blogger
 
 ![I am Blogger, Gamer, Wordpress Blogger](/images/whoami/Banner.png)
 
 Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
 - 🔭 I’m currently working on Blogger this page. 
-- 🌱 I’m currently learning Nano technology, VSLI. 
+- 🌱 I’m currently learning Nanotechnology, VSLI. 
 - 📫 How to reach me: siddh.mistry396321@gmail.com 
 
 
