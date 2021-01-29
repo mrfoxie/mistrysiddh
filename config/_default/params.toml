@@ -88,7 +88,7 @@ enableSidebarPostsByOrder = true
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
@@ -170,9 +170,9 @@ commento = true
  name = "google"
 [[share]]
  name = "whatsapp"
-[[footerLinks]]
-  name = "Join On Signal"
-  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
+#[[footerLinks]]
+#  name = "Join On Signal"
+#  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
 #[[footerLinks]]
 #  name = ""
 #  link = ""

@@ -2,7 +2,7 @@
 title: "Announcement - 발표"
 date: 2021-01-28T18:16:27+05:30
 description: "Dear readers this translation may not be proper so please refer to the English version. 독자 여러분,이 번역이 적절하지 않을 수 있으므로 영어 버전을 참조하십시오."
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
