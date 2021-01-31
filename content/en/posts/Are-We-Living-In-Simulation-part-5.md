@@ -96,11 +96,11 @@ By now, researchers still can’t find out any information about him or his obit
 Proof of time travel: Physicists says that theorietical time trave is prossibel on both sides means in the future and the past. In fact, time travel to the future seems practically possible.
 1. [Mike Tyson Match](#mike-tyson-match)
 2. [Charlie Chaplin Moive](#charlie-chaplin-moive)
-3. London Bridge Opening
-4. A man from 2256
-5. Swiss ring watch
-6. 1500 years old mummy wearing adidas sneaker shoe and
-7. 17th century astronaut
+3. [London Bridge Opening](#london-bridge-opening)
+4. [A man from 2256](#a-man-from-2256)
+5. [Swiss ring watch](#swiss-ring-watch)
+6. [1500 years old mummy wearing adidas sneaker shoe](#1500-years-old-mummy-wearing-adidas-sneaker-shoe)
+7. [17th century astronaut](#17th-century-astronaut)
 8. The man from Taured
 9. John Titor
 
@@ -117,3 +117,101 @@ In 1995 a match was played between the legendary boxers Mike Tyson and Peter McN
 
 ### Charlie Chaplin Moive
 ![Charlie Chaplin Moive](/images/posts/charlie-chaplin-moive.jpg)
+
+“The Circus” was the super hit movie of Charlie Chaplin which was released in 1928.
+
+ Later, when someone was watching the movie closely, he saw unusual stuff in the movie.
+
+ He saw there was a scene in the movie in which a lady was talking on a mobile phone like device.
+
+ But at that time there was no existence of a mobile phone. The first mobile cell phone came into existence in 1973 which was of Motorola. Here is video of it.
+
+ {{< youtube XbO2a3hFmO0 >}}
+
+ ### London Bridge Opening
+ ![London Bridge Opening](/images/posts/bridge-time-traveler.jpg)
+
+ Out of all proofs of time travel, this assumes to be solid evidence of time travel.
+
+ This photo was captured in 1941, during the re-opening ceremony of the South Fork Bridge in Gold Bridge, British Columbia.
+
+ The style of wearing a man’s clothes in this photo is completely contrasting from other people.
+
+ One gentleman is wearing a graphic t-shirt and black sunglass.
+
+ Moreover, there is also a modern camera like device in his hand.
+
+ But at that time all these things were not existed, which means these kinds of stuff were not invented.
+
+ Later the forensic report was also carried out of this photo but this image was found clean and clear; there was no tampering with it.
+
+### A man from 2256
+![A man from 2256](/images/posts/man-from-2256.jpg)
+
+A 44-year-old man [Andrew Carlssin](https://www.quora.com/Was-Andrew-Carlssin-actually-from-the-future) was arrested on Jan 28, 2003, in Toronto, Canada, by FBI. He was detained on the suspicion of illegal inside information of the stock market.
+
+ Because on the course of two weeks by investing just $800 he made out with over $350 million.
+
+ How was it possible? He made out around 126 high-risk trades and never loses a single cent.
+
+ And, during the four-hour confession, he stated he came from 2256.
+
+ In fact, the FBI did not get any evidence of fraud from his side.
+
+ On 3rd April 2003, an unidentified person came in the courtroom for a bail hearing and deposited $1 million for the bail of Andrew Carlssin. But after, they disappeared in the way and never have been met again.
+
+ Later, the FBI could not find out where both of them came from and where they went.
+
+ {{< youtube YgfJ21CUvKI >}}
+
+ ### Swiss ring watch
+ ![Swiss ring watch](/images/posts/swiss-ring-watch.png)
+
+ A watch was discovered when archaeologists began unsealing a tomb in China. That tomb was from the Ming Dynasty, and it was of 400-year-old.
+
+ While unsealing they found a ring-like object inside the tomb. After investigation, it was found out that it was a small watch similar to be modern Swiss watch. This watch was 100 years old.
+ Interestingly, when you see the watch from the front, you can read the time clearly on it.
+
+ Moreover, archaeologists also found there was no tampering with the tomb.
+
+ Consequently, if there was no tampering then how this watch went inside the 300-year-old tomb.
+
+ Astonishingly, at that time even Switzerland didn’t become a country. Many people correlate this puzzling discovery to time travel.
+
+### 1500 years old mummy wearing adidas sneaker shoe
+![1500 years old mummy wearing adidas sneaker shoe](/images/posts/1500-years-old-mummy-wearing-adidas-sneaker-shoe.jpg)
+
+The Mongolian Mummy was found in the Altai Mountains at the height of 10,000 feet from the ocean.
+
+ This mummy was of the 1500 years old, and the stunning thing about this was that this mummy was wearing Adidas like sneakers in her feet. (this mummy was assumed to be of a woman)
+
+ Adidas is a German company started on August 18, 1949, by Adi Dassler and it is famous for its footwear.
+
+ Some people are relating the story of this mummy with the event of time travel.
+
+ This mummy was found in April 2016.
+
+### 17th century astronaut
+![17th century astronaut](/images/posts/Resolved_Mystery_Of_Salamanca_Astronaut_From_The_Cathedral_Of_16th_Century.png)
+Very few are aware that the Soviet pilot Yuri Gagarin was the first person to travel to outer space in 1961. But the mystery remains unveiled is why there a figure that exactly looks like an astronaut engraved in the stone of a 16th-century cathedral?
+
+Built between 1513 and 1733 there is a new cathedral of Salamanca, Spain when space travel was hardly thought of. This has made some people curious to speculate about the origin of the carving: is this the evidence of time travel? Or some other creatures from different planet engraved it? Or is some paranormal force at a play?
+
+The Salamanca’s Astronaut is not a joke or a hoax, but a modern addition to the Cathedral; however, it has all the reserves of something which may provide confusion some 400 years from now. 
+
+**New Cathedral Of Salamanca**
+The building began at a time when the Gothic style was merging with the new Renaissance style. This cathedral retained more of its gothic counter because the administrators and the supervisors wanted the new cathedral to merge with the old one. Two elements were added that broke with the predominant style of the building: a Baroque and the bell tower.
+
+The new cathedral of Salamanca was erected without the destruction of the old cathedral, but the walls of the newly erected lean on the North wall of the old one. This is the reason why the old cathedral had to be reinforced. The main entrance to the cathedral consists of three decorated arcs: each heading to the three naves of the church.
+
+**Who Did Carve The Astronaut Picture On The Cathedral?**
+
+The truth behind this carving is, unfortunately, less interesting. When the church was rebuilt centuries ago it went a restoration program and the stonemasons decided to carve some modern figures. It is a tradition of the cathedral builders to add details or new carvings as a sort of some signature. In this case with the cathedral, quarryman Jeronimo Garcia given the action to add more images to the front of the building including an astronaut among some vines.
+
+There also been a weird looking dragon eating ice cream (even the ice cream cones were not invented until the 20th century), a bull, a crayfish and a lynx.  But why the figures are chipped and broken even though it is not that much old? Vandalism in 2010
+
+![unidentified image](/images/posts/unidentified.jpg)
+The vandalism has been recovered and now it has clear pictures today.
+
+It is the only church that has some modern addition engraved on the building, Calahorra Cathedral in Spain (from the 16th century) has a cell phone that was added in 1996.
+![phone](/images/posts/phone.jpg)
