@@ -1,7 +1,7 @@
 ---
 title: "Capital Ranger"
 date: 2021-01-31T16:36:43Z
-description: "Saving owm master from great desaster that killed almost 40% of humanity on earth"
+description: "Saving own master from great desaster that killed almost 40% of humanity on earth"
 type: gallery
 enableBio: true
 mode: at-once # at-once or one-by-one
