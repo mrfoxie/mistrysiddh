@@ -92,8 +92,9 @@ Not only Richard wrote about it, but and many people over the years. Also he sai
 By now, researchers still can’t find out any information about him or his obituary. But it is sure that he has passed on.
 
 
-## Proof or Fake
+## Truth or Fake
 Proof of time travel: Physicists says that theorietical time trave is prossibel on both sides means in the future and the past. In fact, time travel to the future seems practically possible.
+
 1. [Mike Tyson Match](#mike-tyson-match)
 2. [Charlie Chaplin Moive](#charlie-chaplin-moive)
 3. [London Bridge Opening](#london-bridge-opening)
@@ -101,8 +102,8 @@ Proof of time travel: Physicists says that theorietical time trave is prossibel 
 5. [Swiss ring watch](#swiss-ring-watch)
 6. [1500 years old mummy wearing adidas sneaker shoe](#1500-years-old-mummy-wearing-adidas-sneaker-shoe)
 7. [17th century astronaut](#17th-century-astronaut)
-8. The man from Taured
-9. John Titor
+8. [The man from Taured](#the-man-from-taured)
+9. [John Titor](#john-titor)
 
 ### Mike Tyson Match
 ![Mike Tyson Match](/images/posts/mike-tyson-match.gif)
@@ -215,3 +216,133 @@ The vandalism has been recovered and now it has clear pictures today.
 
 It is the only church that has some modern addition engraved on the building, Calahorra Cathedral in Spain (from the 16th century) has a cell phone that was added in 1996.
 ![phone](/images/posts/phone.jpg)
+
+### The man from Taured
+![The man from Taured](/images/posts/the-Man-from-Taured.jpg)
+
+The Man from Taured (sometimes referred to as the Taured Mystery or the Man without a Country ) is a story about a man who arrives at a Japanese airport from a country called Taured. Many people have claimed this story to be true, so the crux of the problem pertains to Taured. One would notice that there is no country by the name of Taured, either today or during the purported period of time when the incident took place, i.e. the 1950s. The story ends with the man disappearing (forever) a day after arriving in Japan. Moreover, all of his personal documents, such as his passport and driver’s license also (conveniently) disappeared, thus making this strange story unsolvable.
+
+#### The Man’s ArrivalThe Man’s Arrival
+The story of the ‘Man from Taured’ begins quite specifically in many sources with a hot day in July 1954. On that particular day, a man was said to have arrived at Haneda Airport, known also as Tokyo International Airport. This man has been described as Caucasian looking with a beard. Whilst his primary language is said to have been French, it has been purported that he spoke Japanese and many other languages as well.
+
+![Customs service](/images/posts/Customs-service.jpg)
+The sequence of events then differs according to which version of the story one encounters. In one version, this man hands over his passport to be stamped, and the Japanese immigration officer notices something strange. Whilst the passport looked authentic, the country where it was issued, ‘Taured’, was recognized as non-existent, either by the officer or one of his / her colleagues, indicating that the man should be taken away for interrogation. In another version, the man mentioned that he was from Taured, and when the immigration officer did not believe him, he showed him / her his passport.
+
+#### Location of Taured
+
+The next part of the story details the man trying to convince the immigration officers that Taured does indeed exist. According to the traveler, Taured was located between France and Spain, and had by then been in existence for 1000 years.
+
+When shown a map, the man pointed to the area occupied by the Principality of Andorra, and was puzzled as to why his country was called Andorra on the map. Both sides refused to give in – the Japanese officers insisted that Taured did not exist, and the traveler argued otherwise.
+
+![Location of Andorra](/images/posts/Location-of-Andorra.jpg)
+<sup>Location of Andorra (center of green circle) in Europe  (dark grey).</sup>
+
+#### Vanished!
+Eventually, the man was held by the officers, as they were suspicious that he might be some kind of criminal. They brought him to a nearby hotel for the night, whilst they conducted their investigation. To ensure that the man did not escape during the night, two guards were placed outside his room. The next morning, when the officers went to the man’s room, they realized that he had simply vanished, as there were no signs of his escape. Additionally, all of his personal documents, which may serve as evidence for the story’s validity, had apparently disappeared as well.
+
+
+#### Travel Through Time or Space? Or Just an Exaggeration?
+One of the most notable explanations for this incident is that the man from Taured had somehow passed through a parallel dimension by accident, and ended up at Haneda Airport. It has been suggested that, based on this explanation, there is a parallel earth which is similar to ours with the exception that the locations called Andorra here is known as Taured over there. Another suggestion is that the man was a time traveler from the future, thou this interpretation is arguably more problematic than the one supposing inter-dimensional travel.
+
+It has also been suggested that an incident like that did indeed happen, though perhaps much less sensational. This more mundane story could have been embellished each time it was told, so much so that it eventually evolved into the great mystery that it is known as today.
+
+Finally, it is also entirely possible that this story is merely an urban legend. The story of the ‘Man from Taured’ might not have even occurred in the first place, and may have just been the creation of someone’s imagination.
+
+### John Titor
+![John Titor](/images/posts/john-titor.jpg)<sup> Is this true that this person who was seen on [London Bridge Opening](#london-bridge-opening).
+</sup>
+
+One legendary hoax captivated fans of the supernatural and the paranormal like few others. November 2, 2000 saw the first online post by the individual who would come to be known as "John Titor." Titor claimed to be a man from the future, sent to the past to retrieve... a portable computer. Though shrouded by forum avatars, his specific instructions on what he was here to accomplish, and what society would look like in his version of the future, kicked off a frenzy of investigation, speculation, and deception that has lasted for nearly two decades.
+
+Some people believed "John Titor" completely. Others became obsessed with errors and inconsistencies, digital detectives trying to uncover the truth behind the story. Before it was over, Titor would make his way to an animation studio in Japan, a wrestling ring in Pennsylvania, and a prison cell in Oregon.
+
+John Titor is a name used on several bulletin boards during 2000 and 2001 by a poster claiming to be an American military time traveler from 2036. Titor made numerous vague and specific predictions regarding calamitous events in 2004 and beyond, attracting world-wide attention during the ensuing decade. His descriptions of the aftermath of a nuclear war—including the devastation of numerous countries around the world, a breakup of the United States into five smaller sovereignties, and general destruction of the global environment and infrastructure—inspired fiction and music, and triggered investigations by journalists and others.Subsequent closer examination of Titor’s assertions provoked widespread skepticism. Inconsistencies in his explanations, the uniform inaccuracy of his predictions, and a private investigator’s findings all led to the general impression that the entire episode was an elaborate hoax. A 2009 investigation concluded that Titor was likely the creation of Larry Haber, a Florida entertainment lawyer, along with his brother John, a computer scientist.
+
+#### Titor's Post
+
+The first posts using John Titor’s military symbol appeared on the Time Travel Instituteforums on November 2, 2000, under the name TimeTravel_0. At that time the name “John Titor” was not being used. The posts discussed time travel in general, the first one being the “six parts” description of what a time machine would need to have to work (see below) and responses to questions about how such a machine would work. Early messages tended to be short. A second thread was also made due to shortcomings in the forum software at the time
+
+The name “John Titor” was not introduced until January 2001, when TimeTravel_0 began posting at the Art Bell BBS Forums (which required a name or pseudonym for every account). The Titor posts ended in late March 2001.
+
+Around 2003, various websites reproduced Titor’s posts, re-arranging them into narratives. Not all refer to the original dates posted.
+
+![IBM-5100](/images/posts/john-titor-ibm-5100.jpg)
+
+In his online postings, Titor claimed to be an American soldier from 2036, based in Tampa, Florida. He was assigned to a governmental time-travel project, and sent back to 1975 to retrieve an IBM 5100 computer which he said was needed to debug various legacy computer programs in 2036; a possible reference to the UNIX year 2038 problem. The IBM 5100 runs the APL and BASICprogramming languages.
+
+Titor had been selected for this mission specifically, given that his paternal grandfather was directly involved with the assembly and programming of the 5100. Titor claimed to be on a stopover in the year 2000 for “personal reasons,” to collect pictures lost in the (future) civil war and to visit his family, of whom he spoke often.
+
+Titor also said he had been, for a few months, trying to alert anyone that would listen about the threat of Creutzfeldt–Jakob diseasespread through beef products and about the possibility of civil war within the United States. When questioned about them by an online subscriber, Titor also expressed an interest in mysteries such as UFOs, which remained unexplained in his time. Titor suggested that UFOs and extraterrestrialsmight be travelers from much further into the future than his own time, with superior time machines.
+
+#### Time Machine
+
+Titor described his time machine on several occasions. In an early post, he described it as a “stationary mass, temporal displacement unit powered by two top-spin, dual positive singularities”, producing a “standard off-set Tipler sinusoid”.
+
+The earliest post was more explicit, saying it contained the following:
+
+- Two magnetic housing units for the dual micro singularities
+- An electron injection manifold to alter mass and gravity of the micro singularities
+- A cooling and X-ray venting system
+- Gravity sensors, or a variable gravity lock
+- Four main cesium clocks
+- Three main computer units
+
+According to the posts, the device was installed in the rear of a 1967 Chevrolet Corvette convertible and later moved to a 1987 truck having four-wheel drive.
+
+Titor shared several scans of the manual of a “C204 Time Displacement Unit” with diagrams and schematics and posted some photographs of the device installed in the car.
+
+Titor claimed that the “Everett–Wheeler model of quantum physics,” better known as the many-worlds interpretation, was correct. The model posits that every possible outcome of a quantum decision occurs in a separate “universe.” Titor stated that this was the reason the grandfather paradox would not happen; following the logic of the argument, Titor would be killing a different John Titor’s grandfather in a timeline other than his own.
+
+>The grandfather paradox is impossible.
+>In fact, all paradox is impossible. The Everett–Wheeler–Graham or multiple world theory is correct.
+>All possible quantum states, events, possibilities, and outcomes are real, eventual, and occurring.
+>The chances of everything happening someplace at some time in the superverse are 100%.
+
+#### Predictions
+Although invoking the many-worlds interpretation of quantum mechanics, whereby events from his timeline may differ from our own, Titor also expressed assurance that the differences were minimal. As such, his descriptions have been interpreted as predictions and compared with historical events since 2001.
+
+The most immediate of Titor’s predictions was of an upcoming civil war in the United States having to do with “order and rights”.He described it as beginning in 2004, with civil unrest surrounding the presidential election of that year. This civil conflict that he characterized as “having a Waco type event every month that steadily gets worse”would be “pretty much at everyone’s doorstep” and erupt by 2008.
+
+As a result of the war, the United States would split into five regions based on various factors and differing military objectives. This civil war, according to Titor, would end in 2015 with a brief but intense World War III.
+
+Titor refers to the exchange as “N Day”. Washington, D.C. and Jacksonville, Florida are specifically mentioned as being hit. After the war, Omaha, Nebraska would be the new U.S. capital. Titor was vague as to the exact motivations and causes for World War III. At one point, he characterized the hostilities as being led by “border clashes and overpopulation”. He also pointed to the contemporary conflict between Arabs and Israel as not a cause, but rather a milestone that precedes a World War III.
+
+Titor claimed that as a 13-year-old in 2011, he joined the Fighting Diamondbacks, a shotgun infantry unit in Florida, for at least four years. In other posts, he described himself as hiding from the war.
+
+#### Criticism and discussion
+As Titor gained significant attention, there also emerged analysis and discussion concerning the veracity of his claims about his origins and mission, and the future events he talked about. No John Titor or Titor family is known to exist, meaning that who posted as Titor used a pseudonym. The story has been called inconsistent as contradictions between statements at different times have been observed. Holding the many-worlds interpretation as correct, Titor claimed that his mission as a time traveler was to shape a timeline in which many chaotic events of his time, including World War III and the civil war in the US, never happened. In some supposed Titor’s appearances in the internet and other media segments prior to his main posts (notably in faxes to the radio talk show Coast to Coast AM in 1998), he stated that he was not able to change the future despite his efforts, suggesting one of the possible contradictions. Nevertheless, none of the specific events he predicted to a near future, chaotic or not, have come to happen (see below).
+
+Some issues with the technology have also been considered. In one of Titor’s pictures of a supposed time machine, a laser beam is seen allegedly being bent by gravitational distortion, but the view of nearby objects is not distorted as would be expected. Also, Titor knew about technical features of the IBM 5100 which were not available to the public at the time, albeit widely commented in the industry, suggesting he had some advanced understanding of the machine or computers in general.
+
+#### Predictive failures
+One of Titor’s earliest assertions was that CERN would discover the basis for time travel sometime around 2001, with the creation of miniature black holes about half a year after his departure. This did not occur. An article published around the time he had predicted about miniature black holes created by CERN (a recurring theme, also ascribed to Fermilab and Brookhaven at various times)was taken by some to be evidence of this claim, but these events did not occur either.
+
+Civil war did not break out after the 2004 US presidential election, nor did conflicts or military involvement in 2012. World War III did not happen in 2015.
+
+Titor unambiguously claimed that the last Olympics would occur in 2004. While it is unclear if he meant the summer or winter Olympics, both have occurred since this time.
+
+However, because Titor asserted that the many-worlds interpretation was proved correct by his time, his predictions could refer to another timeline and not ours, making them unfalsifiable. This led to different interpretations, including that he had effectively accomplished his mission by creating another timeline (despite his supposed previous statements that it would be too difficult), or that he inadvertently traveled to a different timeline (ours) and mistook it as his own, or that all time travel is pointless if the chaotic timeline would not cease to exist.
+
+#### Story and consistency
+Potential contradictions have been observed in different Titor’s posts. In some of the posts, he claims that he was homeschooled, while in others he states that his basic education was conducted at the University of Florida. Similarly, he stated that he hid himself during the civil war in the U.S., while also stating in other instances that he fought in the war. In some posts, he claims that money is widely used and people still have credit cards, despite his statement that centralized banking no longer exists (this is either an inconsistency or implies the rise of private currencies).
+
+Titor’s story could also have been inspired by science fiction works. The use of an automobile as a time machine, for example, had been a key plot device in the popular 1985 movie Back to the Future and its sequels (as the DeLorean sports car), among others. Additionally, commentators have pointed out similarities between the Titor story and Pat Frank‘s classic post-apocalyptic science fiction novel Alas, Babylon. Among other similarities, Alas, Babylon takes place in a small river-side town in Florida just before and after a nuclear war and describes the struggle to survive as a family in the aftermath. In the book, the protagonist lives in the fictional town of “Fort Repose”, while Titor claimed to live in the “Fort”, formerly the University of Florida. The prediction of tiny black holes as a result of time travel (specifically, the sending back of information) is a key plot point from the 1980 novel Thrice Upon A Time by James P. Hogan.
+
+Some suggested that, yet in the summer of 1998 prior to his posts, Titor sent two faxes to Art Bell’s radio program Coast to Coast AM, stating that “Y2K is a disaster. Many people freeze to death trying to get to warmer weather. The gov. tries to keep power by instituting martial law…” referring to popular legends of the time about the Y2K bug.
+
+In the online story, Titor stated that a part of his mission was to prevent the coming world war by changing history. Yet some claimed that during an IRC chat in October 2000, a month before he began posting, Titor was asked if the future could be changed from his predictions, and answered “It’s too late … I just wish things didn’t have to happen the way they will.”
+
+#### Technology
+Titor provided an image of a detail of a supposed time machine, with a laser pointerbeam “being bent by the gravitational field produced outside the vehicle by the distortion unit”. The beam being “bent” reveals an inconsistency of objects near the beam not appearing to be bent as well: the framing of the window visible in the background, for instance, should appear distorted in proximity to a large gravity gradient, but it does not. Some have speculated the “beam” is an optical fiber.
+
+Titor claimed that he was sent back to obtain an IBM 5100 because it could translate several types of computer code. According to IBM engineer Bob Dubke, Titor’s statements regarding the IBM 5100’s little-known ability to emulate and debug mainframe systems were correct. Supporters state that this information was not publicly available in 2000 or 2001 when Titor made his declaration,and Titor himself stated that this feature was “discovered” as late as 2036 when Unix, as the underlying source behind all computer operating systems still running local infrastructures and other computational tasks, was only two years away from no longer functioning due to 32-bit integer limitations. However, this emulation capability was widely known in the industry and commented on in depth in numerous publications dealing with both the 5100 and programmable microcode in general.References to this were also available on the Internet as early as 1999 and therefore predated Titor’s postings.
+
+#### Investigations
+An Italian television program, Voyager – Ai confini della conoscenza, aired the results of an investigation of John Titor on May 19, 2008. Private investigator Mike Lynch found no registry evidence, past or present, of any individual named John Titor. He did, however, identify the John Titor Foundation, a for-profit company formed on September 16, 2003, with no office or address other than a rented post box in Kissimmee, Florida. An IP address connected with Titor also geolocated to Kissimmee.
+
+In 2009, a report by John Hughston of the Hoax Hunter website named Larry Haber, a Florida entertainment lawyer, as the CEO of the foundation. Lynch concluded that Haber and his brother Morey Haber, a computer scientist, were very likely the men behind John Titor, whom they actually introduced in 1998, accompanied by different predictions, including chaos due to the Y2K“bug”. John Hughston also reported that John Titor is a registered trademark with the United States Patent and Trademark Office.
+
+#### In popular culture
+- In 2003, the John Titor Foundation published a book, John Titor: A Time Traveler’s Tale (ISBN 1-59196-436-9), discussing his claims; the book is now out of print.
+- In 2004, Time Traveler Zero, a play based on the John Titor story, was staged in the United States.
+- The 2009 visual novel Steins;Gate, which was adapted into a critically acclaimed anime in 2011, is centered on John Titor and his theories. A civil war caused by SERN (the fictional version of CERN), due to their discovery of time travel, is covered as well
