@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Sorry I'm late,
+      - Madness is like Gravity,
     subtitle:
-      - I'm afraid I got lost on the path of life.
+      - All you need is a little push.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -46,9 +46,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Sorry I'm late,
+      - Madness is like Gravity,
     subtitle:
-      - I'm afraid I got lost on the path of life.
+      - All you need is a little push.
     titleColor:
     titleShadow: false
     titleFontSize: 44
@@ -70,23 +70,8 @@ header:
     slide:
       - paddingX: 50
         paddingY: 0
-        align: left
-        imageSrc: images/header/background.jpg
-        imageSize: cover
-        imageRepeat: no-repeat
-        imagePosition: center
-        title:
-          - Sorry I'm late, I'm afraid I got lost on the path of life
-        subtitle:
-          - header subtitle1
-        titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
-
-      - paddingX: 50
-        paddingY: 0
         align: center
-        imageSrc: images/header/background.jpg
+        imageSrc: 
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
@@ -94,14 +79,18 @@ header:
           - header title2
         subtitle:
           - header subtitle2
+        titleColor: 
+        titleShadow: true
         titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
+        subtitleColor: 
+        subtitleCursive: true
+        subtitleFontSize: 18
+        spaceBetweenTitleSubtitle: 16
 
       - paddingX: 50
         paddingY: 0
-        align: right
-        imageSrc: images/header/background.jpg
+        align: center
+        imageSrc: 
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
@@ -109,8 +98,12 @@ header:
           - header title3
         subtitle:
           - header subtitle3
+        titleColor: 
+        titleShadow: true
         titleFontSize: 44
-        subtitleFontSize: 16
-        spaceBetweenTitleSubtitle: 20
+        subtitleColor: 
+        subtitleCursive: true
+        subtitleFontSize: 18
+        spaceBetweenTitleSubtitle: 16
 enableBio: true
 ---
