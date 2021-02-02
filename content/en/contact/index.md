@@ -5,5 +5,5 @@ description: "Get weakly news related to different kind of new, tips, tricks, et
 type: contact
 service: netlifyform # formspree, getform
 recaptcha: true
-redirect-after-submit: "/"
+redirect-after-submit: "/redirect"
 ---

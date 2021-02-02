@@ -27,3 +27,9 @@
   name = "More"
   weight = 5
   url = "showcase/"
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "contact"
+  weight = 6
