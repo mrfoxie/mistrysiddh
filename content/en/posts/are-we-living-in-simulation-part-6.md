@@ -1,7 +1,7 @@
 ---
 title: "Are We Living in Simulation Part 6"
 date: 2021-02-05T11:38:49+05:30
-description: "Have you thought that there are internet mysteries too where some are been solved and some are not internet is like an ocean where we don't know what will happen also we don't know who is spying on us what we search etc."
+description: "Have you thought that there are internet mysteries too where some are been solved and some are not the internet is like an ocean where we don't know what will happen also we don't know who is spying on us what we search etc."
 draft: true
 hideToc: false
 enableToc: true
@@ -58,7 +58,7 @@ Cicada 3301 is a nickname given to an organization and it is not related to a pa
 ### What is the mission of Cicada 3301?
 ![Mission](/images/posts/mission-cicada-3301.jpeg)
 
-The main mission of Cicada 3301 is still not known to the people due to its mysterious nature of work. As per some people reviews, it has been cleared that it is mainly for hiring intelligent and educated people in the organization. But the type of organization is still not known to the people and expected to be revealed very soon in the future for sure. This mysterious organization is trying to recruit the most fastest and intelligent code breakers from all around the world.
+The main mission of Cicada 3301 is still not known to the people due to its mysterious nature of work. As per some people reviews, it has been cleared that it is mainly for hiring intelligent and educated people in the organization. But the type of organization is still not known to the people and expected to be revealed very soon in the future for sure. This mysterious organization is trying to recruit the fastest and intelligent code breakers from all around the world.
 
 ### What happens to those who solve cicada 3301?
 
@@ -72,7 +72,7 @@ It is normally believed that the results of solving the puzzle would lead the in
 
 {{< youtube a9z7LPBMHTg >}}
 
-At the beginning of 2013, it was the time of round 3 puzzles. Once again the image includes the message and the message led to the book and also book led to the link. The procedure was same like before but this time message led to the book named as “ Liber Primus” ( First book). The book was written in Latin and originated from Russia. The book was a mystery for most people and many still not able to know the exact reason behind it. However, a significant portion of book has yet to be translated. Out of 74 pages, only 19 pages have been successful translated. In the year 2015 to till now, no puzzles have been found but still internet users all around the world waiting for this mystery.
+At the beginning of 2013, it was the time of round 3 puzzles. Once again the image includes the message and the message led to the book and also book led to the link. The procedure was the same like before but this time message led to the book named as “ Liber Primus” ( First book). The book was written in Latin and originated from Russia. The book was a mystery for most people and many still not able to know the exact reason behind it. However, a significant portion of the book has yet to be translated. Out of 74 pages, only 19 pages have been successfully translated. In the year 2015 to till now, no puzzles have been found but still internet users all around the world waiting for this mystery.
 
 ### Conclusion
 Finally, you are aware of the Cicada 3301 and how it was solved by Joel and Marcus. All the above-mentioned points will help you in knowing what is Cicada 3301 and how it becomes an internet mystery for the users worldwide. You should note that the Cicada puzzle is not simple as most of the other puzzles available online and you need to be very educated and highly intelligent for solving the complex puzzles for sure.
