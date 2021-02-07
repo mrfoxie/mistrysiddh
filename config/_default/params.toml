@@ -16,7 +16,7 @@ notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase",
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = true
-enablePinnedPosts = true
+enablePinnedPosts = false
 minItemsToShowInTagCloud = 2 # Minimum items to show in tag cloud
 
 # appbar
@@ -63,7 +63,7 @@ bioImageUrl = "/images/whoami/avatar.png"
 useGravatar = false
 location = "Valsad, Gujarat"
 organization = ""
-link = "https://mistrysiddh.tk"
+link = "https://www.mistrysiddh.tk"
 
 # sidebar
 enableBio = true
@@ -89,7 +89,7 @@ showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = false
-enableThemeChange = true
+enableThemeChange = false
 
 # service
 googleTagManager = "GTM-P5ZNLVH" # GTM-XXXXXX
@@ -100,8 +100,8 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "daily" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
-updateFrequency = ""
+updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updateFrequency = "1"
 fullContents = false
 
 # comment
@@ -170,6 +170,12 @@ commento = true
  name = "google"
 [[share]]
  name = "whatsapp"
+[[share]]
+ name = "pocket"
+[[share]]
+ name = "feedly"
+[[share]]
+ name = "pinterest"
 #[[footerLinks]]
 #  name = "Join On Signal"
 #  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
