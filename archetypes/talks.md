@@ -4,8 +4,8 @@ date: {{ .Date }}
 publishDate: {{ .Date }}
 description: ""
 series:
-- Fantasy
+- Talks
 titleWrap: wrap # wrap, noWrap
-image: 
+image: images/talks/
 ---
 {{< featuredImage >}}

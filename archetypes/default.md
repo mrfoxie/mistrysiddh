@@ -15,6 +15,6 @@ series:
 -
 categories:
 - 
-image: 
+image: images/posts/
 ---
 {{< featuredImage >}}
