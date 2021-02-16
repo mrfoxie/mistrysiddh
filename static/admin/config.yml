@@ -19,4 +19,5 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list'}	
       - { label: 'Series', name: 'series', widget: 'list'}	
       - {label: 'Title Wrap', name: 'titlewrap', widget: 'string'}	
+      - {label: 'Image', name 'image', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
