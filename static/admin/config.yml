@@ -14,13 +14,13 @@ collections:
     fields:		
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'datetime'}
-      - {label: 'Draft', name: 'draft', widget: 'bool'}
-      - {label: 'HideToc', name: 'hideToc', widget: 'bool'}
-      - {label: 'EnableToc', name: 'enableToc', widget: 'bool'}
-      - {label: 'EnableTocContent', name: 'enableTocContent', widget: 'bool'}
+      - {label: 'Draft', name: 'draft', widget: 'boolean'}
+      - {label: 'HideToc', name: 'hideToc', widget: 'boolean'}
+      - {label: 'EnableToc', name: 'enableToc', widget: 'boolean'}
+      - {label: 'EnableTocContent', name: 'enableTocContent', widget: 'boolean'}
       - {label: 'Author', name: 'author', widget: 'string'}
       - {label: 'AuthorEmoji', name: 'authorEmoji', widget: 'string'}
-      - {label: 'Pinned', name: 'pinned', widget: 'bool'}
+      - {label: 'Pinned', name: 'pinned', widget: 'boolean'}
       - {label: 'Tags', name: 'tags', widget: 'list'}
       - {label: 'Categories', name: 'categories', widget: 'list'}
       - {label: 'Series', name: 'series', widget: 'list'}
