@@ -4,6 +4,28 @@ backend:
 media_folder: static/images/talks	
 public_folder: /images/talks	
 collections:	
+  - name: 'Posts'
+    label: 'Posts'
+    folder: '/content/en/posts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'	
+    editor:	
+      preview: true	
+    fields:	
+      - {label: 'Title', name: 'name', widget: 'string'}
+      - {label: 'Date', name: 'date', widget: 'datetime'}
+      - {label: 'Draft', name: 'draft', widget: 'bool'}
+      - {label: 'HideToc', name: 'hideToc', widget: 'bool'}
+      - {label: 'EnableToc', name: 'enableToc', widget: 'bool'}
+      - {label: 'EnableTocContent', name: 'enableTocContent', widget: 'bool'}
+      - {label: 'Author', name: 'author', widget: 'string'}
+      - {label: 'AuthorEmoji', name: 'authorEmoji', widget: 'string'}
+      - {label: 'Pinned', name: 'pinned', widget: 'bool'}
+      - {label: 'Tags', name: 'tags', widget: 'list'}
+      - {label: 'Categories', name: 'categories', widget: 'list'}
+      - {label: 'Series', name: 'series', widget: 'list'}
+      - {label: 'Feature Image', name: 'image', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Talks'	
     label: 'Talks'	
     folder: '/content/en/talks/'	
