@@ -26,3 +26,21 @@ collections:
       - {label: 'Series', name: 'series', widget: 'list'}
       - {label: 'Feature Image', name: 'image', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown'}
+
+  - name: 'talks'	
+    label: 'Talks'	
+    folder: '/content/en/talks/'	
+    create: true	
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'	
+    editor:	
+      preview: true	
+    fields:	
+      - { label: 'Title', name: 'title', widget: 'string' }	
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }	
+      - { label: 'Description', name: 'description', widget: 'string' }	
+      - { label: 'Tags', name: 'tags', widget: 'list'}	
+      - { label: 'Categories', name: 'categories', widget: 'list'}	
+      - { label: 'Series', name: 'series', widget: 'list'}	
+      - {label: 'Title Wrap', name: 'titlewrap', widget: 'string'}	
+      - {label: 'Image', name 'image', widget: 'string'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
