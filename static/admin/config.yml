@@ -12,7 +12,7 @@ collections:
     editor:	
       preview: true	
     fields:		
-      - {label: 'Title', name: 'name', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'datetime'}
       - {label: 'Draft', name: 'draft', widget: 'bool'}
       - {label: 'HideToc', name: 'hideToc', widget: 'bool'}
