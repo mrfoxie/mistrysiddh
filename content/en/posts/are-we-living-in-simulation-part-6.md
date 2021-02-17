@@ -2,7 +2,7 @@
 title: "Are We Living in Simulation Part 6"
 date: 2021-02-05T11:38:49+05:30
 description: "Have you thought that there are internet mysteries too where some are been solved and some are not the internet is like an ocean where we don't know what will happen also we don't know who is spying on us what we search etc."
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -81,3 +81,33 @@ Here is the full solution of [Cicada 3301](https://www.youtube.com/playlist?list
 
 ## r/A858DE45F56D9BC9
 ![r/A858DE45F56D9BC9](/images/posts/r-A858DE45F56D9BC9.png)
+
+ It all started back in 2011 when a Reddit account began posting an indecipherable sequence of numbers and letters to a new subreddit, r/A858DE45F56D9BC9, or [r/A858](http://www.reddit.com/r/A858DE45F56D9BC9) for short. After languishing in Internet obscurity for nearly a year, another Reddit user requested more information, asking: "Do these seemingly random strings of numbers ... correlate to something; is there some big joke I’m missing out on?" There was no reply, but enough people began to wonder the same thing themselves, and soon a sister subreddit, r/Solving_A858, was born. It consisted of "a dedicated group of computer science students, amateur cryptographers, and motivated enthusiasts" working together to crack the code, if indeed that's what it was, reports the Daily Dot. At first the creator kept the subreddit private, with only those proving themselves worthy allowed in, but it eventually opened to the public. It all started back in 2011 when a Reddit account began posting an indecipherable sequence of numbers and letters to a new subreddit, r/A858DE45F56D9BC9, or r/A858 for short. After languishing in Internet obscurity for nearly a year, another Reddit user requested more information, asking: "Do these seemingly random strings of numbers ... correlate to something; is there some big joke I’m missing out on?" There was no reply, but enough people began to wonder the same thing themselves, and soon a sister subreddit, [r/Solving_A858](https://www.reddit.com/r/Solving_A858/), was born. It consisted of "a dedicated group of computer science students, amateur cryptographers, and motivated enthusiasts" working together to crack the code, if indeed that's what it was, reports the Daily Dot. At first the creator kept the subreddit private, with only those proving themselves worthy allowed in, but it eventually opened to the public.
+
+ Today only a few of the thousands of r/A858 posts have been decoded, but they themselves tend to be cryptic—such as an excerpt from the book Actions and Passions by Max Lerner, and the ASCII image of Stonehenge, reported Bustle last year. The subreddit creator was pretty much silent until August 2015 when an account appeared in the sister "solving" subreddit that (after appropriate code-breaking, of course) allowed users to ask questions. Still, any answers were themselves cryptic, such as: "We cannot disclose the purpose. A858 will end when the purpose is disclosed or discovered." Then on March 29, after having been private for some time (it switches between private and public regularly), r/A858 suddenly read: "The A858 Project Has Concluded. You may unsubscribe." Many still think the project isn't over. "I only hope A858 actually has a purpose," one user writes. "I don’t particularly care if it is a good one."
+
+## India
+![India](https://alochonaa.files.wordpress.com/2014/02/india.jpg)
+
+India has been called the land of mysteries since time immemorial, whether for its various enigmatic natural phenomena or eccentricities associated with its religions and culture. And while science has worked hard to debunk and find a logical reason behind every riddle, there still remain some that give rationalists a run for their money. Here are some of modern India’s most puzzling aspects that are bound to make your eyes pop!
+
+### Kodinhi – Kerala’s village of twins
+![Twin Town](https://3.bp.blogspot.com/-dC3fXAKSqsU/U5l3FHR6pfI/AAAAAAAABco/WbtxNtA_eLk/s1600/Kodinhi2.jpg)
+
+By any metric, conceiving twins and triplets is a rare natural occurrence around the world. In fact, on average only 16 out of 1,000 successful pregnancies in the world result in twins and this average is even lower in India at just 9. However, this ratio is heavily skewed in the sleepy hamlet of Kodinhi in Kerala, which has a record 400 pairs of twins in a population of just over 2,000 families! Geneticists and scientists have long tried to explain this rare phenomenon but are only now making some headway. While experts have pointed to genetics as an obvious factor, what’s even more mysterious is that irrespective of religion, lineage or their original heritage, all families living in the village have conceived more than the average pairs of twins over the last few generations, and the number is consistently growing.
+
+### Tanjore’s Brihadeeswara Temple
+![Tanjore’s Brihadeeswara Temple](https://3.bp.blogspot.com/-jXTo2ZBydmk/WKX35fAuIoI/AAAAAAAAFRU/CHTrCTtdOlAIfaE2O0UY0S6WiaAReVQJwCLcB/s1600/Brihadeeswarar_Temple_Full_View.jpg)
+
+The ‘Big Temple’ in Thanjavur is renowned across the world as an architectural marvel and is one India’s 36 World Heritage Sites. While there are many imposing and majestic temples in Tamil Nadu, what makes this temple particularly interesting is its architectural mysteries that still confound many. The granite structure is popular for having one of the tallest gopurams in India and at the apex lies an 81-tonne monolithic Shikhara mounted at a height of 66 meters. While architecture and science have advanced over centuries to create much greater marvels, taken in the context of its era of construction, dating back more than 1,000 years, this aspect of the temple still baffles experts. Questions about how the heavy and huge Shikhara was mounted at such a height and how such massive amounts of granite were carried to the site with no recorded quarries in the vicinity are still unanswered. By some accounts, the tower is constructed in such a way that it does not cast a shadow at noon on any day of the year as well!
+
+### Prahlad Jani – India’s fasting fakir!
+![Prahlad Jani – India’s fasting fakir!](https://www.guioteca.com/cultura-india/files/2014/01/Prahlad-Jani.jpg)
+
+India is a land of eccentric saints and sadhus, but none of these gurus have raised worldwide interest and flummoxed experts as much as Prahlad Jani, the sadhu who claims to have fasted without food or water for over 40 years. Obviously, his claims had long been taken with a pinch of salt by scientists and experts and outright dismissed by rationalists. However, in 2010, Jani was part of an extensive study by a team of 35 Indian experts from the Defence Institute of Physiology and Allied Science, which lasted over 15 days. While the study was shrouded in mystery with the government deciding not to divulge any details, it was widely publicised that the guru, also known as Mataji, was in good health despite not eating or drinking water and being in isolation for more than ten days. What’s more, it was further claimed that he did not urinate or excrete during the duration of the tests. While the veracity of this account is still an open question, it certainly has raised interest among the world’s leading experts.
+
+### Kirti Stambha – the Iron Pillar of Delhi
+![Kirti Stambha – the Iron Pillar of Delhi](https://i1.wp.com/www.opindia.com/wp-content/uploads/2015/01/Iron_pillar_delhi.jpg)
+
+While the concept of rust-resistant iron only became prominent during the industrial revolution in western civilization, there stands an iron pillar in Delhi that predates such known material technology by nearly a millennium! The Kirti Stambha or victory pillar of Delhi is a six-tonne structure that is constructed out of iron sometime in the 5th century and has stood the test of time without succumbing to rust. The science of this pillar has baffled scientists, primarily for the fact that such advanced technology for rust resistance were thought to be unknown elsewhere in the world at the time.
+
