@@ -105,8 +105,8 @@ updateFrequency = "1"
 fullContents = false
 
 # comment
-enableComment = true
-disqus_shortname = false
+enableComment = falae
+disqus_shortname = siddhmistry
 commento = true
 
 [telegram]
