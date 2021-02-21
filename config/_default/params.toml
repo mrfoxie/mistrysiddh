@@ -176,9 +176,9 @@ commento = true
  name = "feedly"
 [[share]]
  name = "pinterest"
-#[[footerLinks]]
-#  name = "Join On Signal"
-#  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
+[[footerLinks]]
+  name = "Join On Signal"
+  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
 #[[footerLinks]]
 #  name = ""
 #  link = ""
