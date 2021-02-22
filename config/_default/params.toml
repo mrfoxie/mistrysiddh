@@ -30,6 +30,9 @@ hideHomeHeaderWhenMobile = false
 # menu
 showMobileMenuTerms = ["categories", "series"]
 
+# navbar
+enableThemeChange = true
+
 # body
 enableBreadcrumb = true
 enablePhotoSwipe = true
@@ -89,7 +92,6 @@ showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = false
-enableThemeChange = false
 
 # service
 googleTagManager = "GTM-P5ZNLVH" # GTM-XXXXXX

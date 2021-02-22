@@ -37,8 +37,8 @@
   url = "showcase/"
 
 
-#[[main]]
-#  identifier = "talks"
-#  name = "Talks"
-#  url = "talks"
-#  weight = 7
+[[main]]
+  identifier = "talks"
+  name = "Talks"
+  url = "talks"
+  weight = 7
