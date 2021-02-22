@@ -43,3 +43,55 @@ collections:
       - { label: 'Series', name: 'series', widget: 'list'}
       - {label: 'Title Wrap', name: 'titlewrap', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  -name: "BadAss Quotes"
+   label: "Quotes"
+   folder: "/content/en/quotes/badass/"
+   create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'integer'}
+      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
+  -name: "Inspirational Quotes"
+   label: "Quotes"
+   folder: "/content/en/quotes/inspirational/"
+   create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'integer'}
+      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
+  -name: "Love Quotes"
+   label: "Quotes"
+   folder: "/content/en/quotes/love/"
+   create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'integer'}
+      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
+  -name: "Sad Quotes"
+   label: "Quotes"
+   folder: "/content/en/quotes/sad/"
+   create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'integer'}
+      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
