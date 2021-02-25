@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Talks on Mr. Blogger</title>
+    <link>https://mistrysiddh.tk/series/talks/</link>
+    <description>Recent content in Talks on Mr. Blogger</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 15 Feb 2021 16:21:10 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="https://mistrysiddh.tk/series/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>New Start</title>
+        <link>https://mistrysiddh.tk/talks/talk-1/</link>
+        <pubDate>Mon, 15 Feb 2021 16:21:10 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 22 Feb 2021 18:51:47 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/talks/talk-1/</guid>
+        <description>Intro We all know that life is unstable, unaccepted things can happen we don&amp;rsquo;t know what will happen until it arrives, there is a saying from my teaching from which is the truth of life.
+ Life take the exam first and then teaches you, whereas for school it teaches first then take the test, but children don&amp;rsquo;t take life lightly because when life takes exam first and then teaches you and when your prepare for first exam life takes exam for the second one.</description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        <media:content url="https://mistrysiddh.tk/images/talks/choice.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+          
+            
+              <category>Talks</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

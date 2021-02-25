@@ -9,22 +9,41 @@
     <title>Series on Mr. Blogger</title>
     <link>https://mistrysiddh.tk/series/</link>
     <description>Recent content in Series on Mr. Blogger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 26 Jan 2021 21:25:36 +0000</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <lastBuildDate>Mon, 15 Feb 2021 16:21:10 +0000</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     
         <atom:link href="https://mistrysiddh.tk/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Talks</title>
+        <link>https://mistrysiddh.tk/series/talks/</link>
+        <pubDate>Mon, 15 Feb 2021 16:21:10 +0000</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>https://mistrysiddh.tk/series/talks/</guid>
+        <description></description>
+        
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Truth</title>
         <link>https://mistrysiddh.tk/series/truth/</link>
-        <pubDate>Tue, 26 Jan 2021 21:25:36 +0000</pubDate>
+        <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
         <guid>https://mistrysiddh.tk/series/truth/</guid>
@@ -42,28 +61,10 @@
       <item>
         <title>World</title>
         <link>https://mistrysiddh.tk/series/world/</link>
-        <pubDate>Tue, 26 Jan 2021 21:25:36 +0000</pubDate>
+        <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
         <guid>https://mistrysiddh.tk/series/world/</guid>
-        <description></description>
-        
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Fantasy</title>
-        <link>https://mistrysiddh.tk/series/fantasy/</link>
-        <pubDate>Sun, 24 Jan 2021 15:53:38 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>https://mistrysiddh.tk/series/fantasy/</guid>
         <description></description>
         
         <dc:creator>Mistry Siddh</dc:creator>

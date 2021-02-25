@@ -9,13 +9,14 @@
     <title>Showcase overview on Mr. Blogger</title>
     <link>https://mistrysiddh.tk/showcase/</link>
     <description>Recent content in Showcase overview on Mr. Blogger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     
         <atom:link href="https://mistrysiddh.tk/showcase/index.xml" rel="self" type="application/rss+xml" />
     

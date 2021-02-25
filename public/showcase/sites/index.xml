@@ -9,13 +9,14 @@
     <title>Sites on Mr. Blogger</title>
     <link>https://mistrysiddh.tk/showcase/sites/</link>
     <description>Recent content in Sites on Mr. Blogger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 13 Dec 2020 17:28:57 +0530</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     
         <atom:link href="https://mistrysiddh.tk/showcase/sites/index.xml" rel="self" type="application/rss+xml" />
     
