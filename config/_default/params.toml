@@ -8,7 +8,7 @@ meta_image = "/images/whoami/avatar.png"
 themecolor = "#212121"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume", "gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "talks", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "quotes", "showcase", "publication", "presentation", "resume", "gallery"]
@@ -181,6 +181,6 @@ commento = true
 [[footerLinks]]
   name = "Join On Signal"
   link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
-#[[footerLinks]]
-#  name = ""
-#  link = ""
+[[footerLinks]]
+  name = "muftsabazaar"
+  link = "https://www.muftsabazaar.com"
