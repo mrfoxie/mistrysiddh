@@ -31,17 +31,13 @@
 #  url = "showcase/"
 
 [[main]]
-  name = "More"
-  weight = 5
-
-[[main]]
   identifier = "quotes"
   name = "Quotes"
-  url = "more/quotes"
-  weight = 6
+  url = "More/quotes"
+  weight = 5
 
 [[main]]
   identifier = "talks"
   name = "Talks"
-  url = "talks"
-  weight = 7
+  url = "More/talks"
+  weight = 6
