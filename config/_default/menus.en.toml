@@ -11,21 +11,14 @@
   weight = 2
 
 [[main]]
-  identifier = "gallery"
-  name = "Comics"
-  url = "gallery"
-  weight = 3
-
-
-[[main]]
   identifier = "contact"
   name = "Contact"
   url = "contact"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "More"
-  weight = 5
+  weight = 4
   
 [[main]]
   parent = "More"
@@ -34,10 +27,9 @@
   url = "More/quotes"
 
 [[main]]
-  parent = "gallery"
+  parent = "More"
   identifier = "showcase"
   name = "Sites"
-  weight = 5
   url = "More/showcase"
 
 [[main]]
