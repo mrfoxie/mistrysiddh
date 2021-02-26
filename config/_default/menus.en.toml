@@ -24,18 +24,17 @@
   weight = 4
 
 
-#[[main]]
-#  identifier = "quotes"
-#  name = "Quotes"
-#  url = "quotes"
-#  weight = 5
-
 [[main]]
   identifier = "showcase"
   name = "More"
-  weight = 6
+  weight = 5
   url = "showcase/"
 
+[[main]]
+  identifier = "quotes"
+  name = "Quotes"
+  url = "quotes"
+  weight = 6
 
 [[main]]
   identifier = "talks"
