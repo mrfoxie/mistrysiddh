@@ -31,13 +31,16 @@
 #  url = "showcase/"
 
 [[main]]
+  name = "More"
+  weight = 5
+[[main]]
+  parent = "More"
   identifier = "quotes"
   name = "Quotes"
   url = "More/quotes"
-  weight = 5
 
 [[main]]
+  parent = "More"
   identifier = "talks"
   name = "Talks"
   url = "More/talks"
-  weight = 6
