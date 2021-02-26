@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mistrysiddh.tk/quotes/badass/2021-02-26-quotes-0001/</loc>
+    <lastmod>2021-02-26T15:47:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/quotes/inspirational/2021-02-26-quotes-0001/</loc>
+    <lastmod>2021-02-26T15:47:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/quotes/sad/2021-02-26-quotes-0001/</loc>
+    <lastmod>2021-02-26T15:47:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/quotes/love/2021-02-26-quotes-0001/</loc>
+    <lastmod>2021-02-26T15:47:34+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mistrysiddh.tk/quotes/badass/</loc>
     <lastmod>2021-02-12T18:42:07+05:30</lastmod>
   </url>
@@ -103,6 +123,41 @@
   </url>
   
   <url>
+    <loc>https://mistrysiddh.tk/tags/infomation/</loc>
+    <lastmod>2021-02-26T15:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/talks/information/</loc>
+    <lastmod>2021-02-26T15:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/knowledge/</loc>
+    <lastmod>2021-02-26T15:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/</loc>
+    <lastmod>2021-02-26T15:43:12+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://mistrysiddh.tk/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mistrysiddh.tk/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/talk/</loc>
+    <lastmod>2021-02-26T15:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mistrysiddh.tk/talks/talk-1/</loc>
     <lastmod>2021-02-22T18:51:47+05:30</lastmod>
   </url>
@@ -190,21 +245,6 @@
   <url>
     <loc>https://mistrysiddh.tk/categories/simulations/</loc>
     <lastmod>2021-02-17T17:30:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/</loc>
-    <lastmod>2021-02-17T17:30:55+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://mistrysiddh.tk/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mistrysiddh.tk/tags/"
-                />
   </url>
   
   <url>
