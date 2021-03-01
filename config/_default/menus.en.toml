@@ -30,16 +30,16 @@
   parent = "More"
   identifier = "quotes"
   name = "Quotes"
-  url = "More/quotes"
+  url = "quotes"
 
 [[main]]
   parent = "More"
   identifier = "showcase"
   name = "Sites"
-  url = "More/showcase"
+  url = "showcase"
 
 [[main]]
   parent = "More"
   identifier = "talks"
   name = "Talks"
-  url = "More/talks"
+  url = "talks"
