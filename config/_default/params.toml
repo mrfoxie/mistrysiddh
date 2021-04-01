@@ -107,7 +107,7 @@ updateFrequency = "1"
 fullContents = false
 
 # comment
-enableComment = false
+enableComment = true
 disqus_shortname = "siddhmistry"
 commento = false
 
