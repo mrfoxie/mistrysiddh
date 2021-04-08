@@ -26,11 +26,11 @@
   name = "More"
   weight = 5
   
-[[main]]
-  parent = "More"
-  identifier = "quotes"
-  name = "Quotes"
-  url = "quotes"
+#[[main]]
+#  parent = "More"
+#  identifier = "quotes"
+#  name = "Quotes"
+#  url = "quotes"
 
 [[main]]
   parent = "More"
