@@ -32,4 +32,6 @@ User-agent: yahoo-blogs/v3.9
 Disallow: 
 User-agent: *
 Disallow: 
+Disallow: /images
 Sitemap: https://www.mistrysiddh.tk/sitemap.xml
+
