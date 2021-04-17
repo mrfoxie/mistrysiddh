@@ -123,48 +123,58 @@
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/talks/talk-2/</loc>
-    <lastmod>2021-02-26T09:35:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/information/</loc>
-    <lastmod>2021-02-26T09:35:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/knowledge/</loc>
-    <lastmod>2021-02-26T09:35:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/</loc>
-    <lastmod>2021-02-26T09:35:43+00:00</lastmod>
+    <loc>https://mistrysiddh.tk/categories/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://mistrysiddh.tk/ko/tags/"
+                href="https://mistrysiddh.tk/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mistrysiddh.tk/tags/"
+                href="https://mistrysiddh.tk/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/tags/talk/</loc>
-    <lastmod>2021-02-26T09:35:43+00:00</lastmod>
+    <loc>https://mistrysiddh.tk/tags/factory-automation/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/talks/talk-1/</loc>
-    <lastmod>2021-02-22T18:51:47+05:30</lastmod>
+    <loc>https://mistrysiddh.tk/tags/industrial-automation/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/categories/industrial-automation/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/series/industry-4.0/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/posts/robotics/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/robotics/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/categories/robotics/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mistrysiddh.tk/series/</loc>
-    <lastmod>2021-02-22T18:51:47+05:30</lastmod>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -178,7 +188,77 @@
   </url>
   
   <url>
+    <loc>https://mistrysiddh.tk/tags/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://mistrysiddh.tk/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mistrysiddh.tk/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/technology/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/3d-printing/</loc>
+    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/posts/agnikul-cosmos/</loc>
+    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/information/</loc>
+    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/inventions/</loc>
+    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/categories/technology/</loc>
+    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/talks/talk-3/</loc>
+    <lastmod>2021-03-15T23:19:41+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mistrysiddh.tk/series/talks/</loc>
+    <lastmod>2021-03-15T23:19:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/talks/talk-2/</loc>
+    <lastmod>2021-03-06T09:56:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/knowledge/</loc>
+    <lastmod>2021-03-06T09:56:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/talk/</loc>
+    <lastmod>2021-03-06T09:56:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/talks/talk-1/</loc>
     <lastmod>2021-02-22T18:51:47+05:30</lastmod>
   </url>
   
@@ -195,21 +275,6 @@
   <url>
     <loc>https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-6/</loc>
     <lastmod>2021-02-17T17:30:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/categories/</loc>
-    <lastmod>2021-02-17T17:30:55+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://mistrysiddh.tk/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mistrysiddh.tk/categories/"
-                />
   </url>
   
   <url>
@@ -234,6 +299,11 @@
   
   <url>
     <loc>https://mistrysiddh.tk/tags/reality/</loc>
+    <lastmod>2021-02-17T17:30:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/categories/simulation/</loc>
     <lastmod>2021-02-17T17:30:55+05:30</lastmod>
   </url>
   
@@ -388,17 +458,7 @@
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/categories/simulation/</loc>
-    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mistrysiddh.tk/posts/artificial-sun/</loc>
-    <lastmod>2021-01-03T15:18:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/technology/</loc>
     <lastmod>2021-01-03T15:18:55+05:30</lastmod>
   </url>
   
