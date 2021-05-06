@@ -3,41 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mistrysiddh.tk/quotes/badass/2021-02-26-quotes-0001/</loc>
-    <lastmod>2021-02-26T16:15:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/inspirational/2021-02-26-quotes-0001/</loc>
-    <lastmod>2021-02-26T16:15:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/sad/2021-02-26-quotes-0001/</loc>
-    <lastmod>2021-02-26T16:15:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/love/2021-02-26-quotes-0001/</loc>
-    <lastmod>2021-02-26T16:15:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/badass/</loc>
-    <lastmod>2021-02-12T18:42:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/inspirational/</loc>
-    <lastmod>2021-02-12T18:42:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/sad/</loc>
-    <lastmod>2021-02-12T18:42:07+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mistrysiddh.tk/showcase/sites/flutter/</loc>
     <lastmod>2021-01-24T17:33:19+05:30</lastmod>
   </url>
@@ -124,7 +89,7 @@
   
   <url>
     <loc>https://mistrysiddh.tk/categories/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -138,43 +103,38 @@
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/tags/factory-automation/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/tags/industrial-automation/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <loc>https://mistrysiddh.tk/series/industrial-4.0/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mistrysiddh.tk/categories/industrial-automation/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/series/industry-4.0/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <loc>https://mistrysiddh.tk/tags/industrial-automation/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mistrysiddh.tk/posts/robotics/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <loc>https://mistrysiddh.tk/posts/nanotechnology/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mistrysiddh.tk/tags/robotics/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mistrysiddh.tk/categories/robotics/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mistrysiddh.tk/series/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -189,7 +149,7 @@
   
   <url>
     <loc>https://mistrysiddh.tk/tags/</loc>
-    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -204,6 +164,31 @@
   
   <url>
     <loc>https://mistrysiddh.tk/tags/technology/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/categories/technology/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/series/world/</loc>
+    <lastmod>2021-05-06T22:59:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/tags/factory-automation/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/series/industry-4.0/</loc>
+    <lastmod>2021-04-13T18:00:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mistrysiddh.tk/posts/robotics/</loc>
     <lastmod>2021-04-13T18:00:57+05:30</lastmod>
   </url>
   
@@ -224,11 +209,6 @@
   
   <url>
     <loc>https://mistrysiddh.tk/tags/inventions/</loc>
-    <lastmod>2021-03-29T15:53:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/categories/technology/</loc>
     <lastmod>2021-03-29T15:53:14+05:30</lastmod>
   </url>
   
@@ -260,16 +240,6 @@
   <url>
     <loc>https://mistrysiddh.tk/talks/talk-1/</loc>
     <lastmod>2021-02-22T18:51:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/love/</loc>
-    <lastmod>2021-02-12T18:42:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/quotes/</loc>
-    <lastmod>2021-02-12T18:42:07+05:30</lastmod>
   </url>
   
   <url>
@@ -324,11 +294,6 @@
   
   <url>
     <loc>https://mistrysiddh.tk/tags/truth/</loc>
-    <lastmod>2021-02-17T17:30:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mistrysiddh.tk/series/world/</loc>
     <lastmod>2021-02-17T17:30:55+05:30</lastmod>
   </url>
   
