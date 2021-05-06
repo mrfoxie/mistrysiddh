@@ -33,5 +33,5 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /images
-Disallow: /files
 Sitemap: https://www.mistrysiddh.tk/sitemap.xml
+

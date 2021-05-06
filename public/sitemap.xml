@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://mistrysiddh.tk/en/sitemap.xml</loc>
-    
-      <lastmod>2021-02-26T16:15:36+05:30</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://mistrysiddh.tk/ko/sitemap.xml</loc>
-    
-  </sitemap>
-  
+	
+	<sitemap>
+	   	<loc>https://mistrysiddh.tk/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-04-13T18:00:57+05:30</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://mistrysiddh.tk/ko/sitemap.xml</loc>
+		
+	</sitemap>
+	
 </sitemapindex>
