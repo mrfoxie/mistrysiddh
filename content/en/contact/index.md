@@ -7,3 +7,4 @@ service: netlifyform # formspree, getform
 recaptcha: true
 redirect-after-submit: "/redirect"
 ---
+{{ partial "service/google-adsense" . }}
