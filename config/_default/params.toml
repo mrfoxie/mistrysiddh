@@ -184,3 +184,6 @@ commento = false
 [[footerLinks]]
   name = "Muftsabazaar"
   link = "https://www.muftsabazaar.com"
+[[footerLinks]]
+  name = "Discord"
+  link = "https://discord.gg/ZYs5syGy"
