@@ -65,7 +65,7 @@ whoami = "Blogger"
 bioImageUrl = "/images/whoami/avatar.png"
 useGravatar = false
 location = "Valsad, Gujarat"
-organization = ""
+organization = "Hello World!"
 link = "https://www.mistrysiddh.tk"
 
 # sidebar
@@ -131,7 +131,7 @@ commento = false
   linkedin = "https://www.linkedin.com/in/SiddhMistry/"
   pinterest = "https://www.pinterest.com/siddhmistry/"
   stack-exchange = ""
-  telegram = "https://t.me/MrFoxie"
+  telegram = ""
   steam = ""
   weibo = ""
   douban = ""
@@ -179,11 +179,8 @@ commento = false
 [[share]]
  name = "pinterest"
 [[footerLinks]]
-  name = "Join On Signal"
-  link = "https://signal.group/#CjQKIAaSiHttha6Qtib8n3ZOM41eimz25MtKQvKu84XQLFXMEhDCH5kRNXwPSNZBmUr2gFkH"
-[[footerLinks]]
   name = "Muftsabazaar"
   link = "https://www.muftsabazaar.com"
 [[footerLinks]]
   name = "Discord"
-  link = "https://discord.gg/ZYs5syGy"
+  link = "https://discord.gg/tfxN2Ws92Q"

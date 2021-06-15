@@ -53,3 +53,8 @@ disableAdsense = false
   tag = "tags"
   series = "series"
 enableRobotsTXT = "true"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
