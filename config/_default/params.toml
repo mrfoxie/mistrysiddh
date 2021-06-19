@@ -95,7 +95,6 @@ enableLangChange = false
 
 # service
 googleTagManager = "GTM-P5ZNLVH" # GTM-XXXXXX
-googleRecaptcha = "6LesNi8aAAAAAGfQ6mXSkFJIVTpDpywrUUHTdxBj"
 baiduAnalytics = ""
 enableBusuanzi = true
 busuanziSiteUV = true
