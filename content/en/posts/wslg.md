@@ -10,11 +10,15 @@ author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
 tags:
-- 
+- technology
+- wsl
+- wsl2
+- Linux
+- ubuntu
 series:
--
+- Hacking
 categories:
-- 
+- technology
 image: images/posts/WSLg_IntegratedDesktop.png
 ---
 ## Recaps
