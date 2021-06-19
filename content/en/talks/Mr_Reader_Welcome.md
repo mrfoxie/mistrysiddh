@@ -6,6 +6,6 @@ description: ""
 series:
 - Talks
 titleWrap: nowrap # wrap, noWrap
-image: images/talks/
+image: images/talks/choice.jpg
 ---
 {{< featuredImage >}}
