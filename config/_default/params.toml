@@ -105,7 +105,7 @@ busuanziPagePV = true
 # rss
 updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = "1"
-fullContents = false
+fullContents = true
 
 # comment
 enableComment = true
