@@ -1,0 +1,3 @@
+{{ if .Site.Params.enableRecaptcha }} 
+<script src="https://www.google.com/recaptcha/api.js?render={{$.Config "googleRecaptcha"}}"></script>
+{{ end }}
