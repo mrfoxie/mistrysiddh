@@ -290,4 +290,61 @@ capture.release()
 cv2.destroyAllWindows()
 ```
 
-Now press <kbd>shift + F10</kbd> from keyboard or go-to menu Run > Run 'main' to run the program 
+Now press <kbd>shift + F10</kbd> from keyboard or go-to menu Run > Run 'main' to run the program you may be able to see a new window with the name `Video Feed` try it yourself and you will be able to see your face. 
+
+![Test image](/images/posts/vLylUVtgbB.png)This is test image which I will be using it.
+
+#### OpenCV Cascade
+
+It means that our camera of our system is working properly now we need face detection cascades there are two ways of finding that files first is by downloading from [here](/files/cascades.zip) or by following commands open your cmd and type `python` or `py` after that type following commands
+
+```python
+import cv2
+print(cv2.__file__)
+```
+
+![CV2 Path](/images/posts/WindowsTerminal_vDoEGwj6gk.png)
+
+Go to the highlighted path and in there you will be able to see all the files and in that file there will be a folder called data will be there
+
+![Data](/images/posts/explorer_Ixdq0hGTPD.png)
+
+Copy that folder and past it in your project and rename from `data` to `cascade` like this.
+
+![Cascade](/images/posts/explorer_sCfK1JWEKV.png)
+
+After doing we will be creating a new variable called `face_cascade` and in that variable we will use OpenCV, paste this code in your main.py file
+
+```python
+import cv2 #add bellow this line
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt.xml') 
+```
+
+#### Using Face Classifier
+
+Now we will be converting our colored BGR color to Gray color so that our cascade can understand the image properly, mostly face detection works in gray scale so we will be converting our colored frame to gray scale. For that you have to create a new variable called gray under `ret, frame = capture.read()`. Remember OpenCV uses BGR method while for other color code it is RGB you must be familiar with RGB so you will understand BGR. Now we will add this line into our code 
+
+```python
+ret, frame = capture.read() # add bellow this line
+gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+```
+
+
+
+ and don't worry if your not able to understand the code I will be giving you project like so that you can download it and run it on your own. We will now detect faces in webcam, photo frame or video. For that we will be using gray scale which we have converted from BGR ti GRAY so for that we need `detectMultiScale` function for scale factor and minimum neighbors detection.
+
+```python
+gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) #add bellow this
+faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5) # you can play with the numbers as much as you want
+```
+
+now we will pe finding our face in frame by finding position and checking whether the face is present or not for that we will be using width, height, x direction, y direction of the video feed.
+
+```python
+faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5) 
+    for (x, y, w, h) in faces:
+        # print(x,y,w,h)
+```
+
+
+
