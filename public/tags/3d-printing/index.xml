@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>3d printing on Mr. Blogger</title>
+    <link>https://mistrysiddh.tk/tags/3d-printing/</link>
+    <description>Recent content in 3d printing on Mr. Blogger</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 29 Mar 2021 15:29:18 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="https://mistrysiddh.tk/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Agnikul Cosmos</title>
+        <link>https://mistrysiddh.tk/posts/agnikul-cosmos/</link>
+        <pubDate>Mon, 29 Mar 2021 15:29:18 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Thu, 06 May 2021 23:34:30 +0530</atom:modified>
+        <guid>https://mistrysiddh.tk/posts/agnikul-cosmos/</guid>
+        <description>Agnikul &amp;ldquo;Agnikul” is a derivative of the Sanskrit word - “Gurukul” and it could be interpreted to mean “a place where people learn to use fire”. They are a group of enthusiasts, rocket scientists, engineers, programmers, lawyers, and more.
+First we will see little bit of information of 3D printer.
+3D Printer 3D printing, or additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model.</description>
+        <content:encoded>&lt;h2 id=&#34;agnikul&#34;&gt;Agnikul&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+  
+
+
+
+  &lt;div class=&#34;featured-image__wrapper&#34;&gt;
+    &lt;img src=&#34;https://mistrysiddh.tk/images/posts/agnikul-cosmos.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+  &lt;/div&gt;
+&lt;br /&gt;
+&amp;ldquo;Agnikul” is a derivative of the Sanskrit word - “Gurukul” and it could be interpreted to mean “a place where people learn to use fire”. They are a group of enthusiasts, rocket scientists, engineers, programmers, lawyers, and more.&lt;/p&gt;
+&lt;p&gt;First we will see little bit of information of 3D printer.&lt;/p&gt;
+&lt;h2 id=&#34;3d-printer&#34;&gt;3D Printer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://mistrysiddh.tk/images/posts/3d_printer.jpg&#34; alt=&#34;3D Printer&#34; /&gt;&lt;br /&gt;
+3D printing, or additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model. The term &amp;ldquo;3D printing&amp;rdquo; can refer to a variety of processes in which material is deposited, joined or solidified under computer control to create a three-dimensional object, with material being added together (such as plastics, liquids or powder grains being fused together), typically layer by layer.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-3d-printer&#34;&gt;What is 3D Printer?&lt;/h3&gt;
+&lt;p&gt;3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced cross-section of the object. 3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine. 3D printing enables you to produce complex shapes using less material than traditional manufacturing methods.&lt;/p&gt;
+&lt;h3 id=&#34;how-does-3d-printer-works&#34;&gt;How does 3D Printer works?&lt;/h3&gt;
+&lt;p&gt;3D printing also called additive manufacturing can be thought has creative object using successive addition. 3D printer usually works by printing a layer over a previous printed layer and repeating the task till the objective is completed. Just like 2D printers, 3D printers also come equipped with different techniques to achieve the same task. Each having it&amp;rsquo;s own advantages. FDM method being the most widely used, achieves the printing task by melting a filament and tracing a pre determined path with the extruder and then rising the extruder and then tracing the next path over the previous one.&lt;/p&gt;
+&lt;h2 id=&#34;agnikul-1&#34;&gt;Agnikul&lt;/h2&gt;
+&lt;p&gt;Bringing Space Within Everyone&amp;rsquo;s Reach&lt;br /&gt;
+Going to space shouldn’t be the hardest part of utilizing, living in or working from space. So, why not design &amp;amp; build a product that makes the earth-to-space journey as simple, as quick and as affordable as possible?&lt;/p&gt;
+&lt;h3 id=&#34;configuration&#34;&gt;Configuration&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parameters&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Max Payload&lt;/td&gt;
+&lt;td&gt;100kg to 700KM LEO (Low Earth Orbit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Height&lt;/td&gt;
+&lt;td&gt;18M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diameter&lt;/td&gt;
+&lt;td&gt;1.3M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lift off Mass&lt;/td&gt;
+&lt;td&gt;14000KG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;stage-1&#34;&gt;Stage 1&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://agnikul.in/static/media/rocket-3.0a209845.png&#34; alt=&#34;Stage 1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Agnibaan’s first stage is powered by 7 Agnite engines each delivering 25 kN of thrust at sea level. All of these engines are electric pump fed engines allowing for simplified engine design and highly configurable engine clustering architectures.&lt;/p&gt;
+&lt;p&gt;Capable of operating with a sea level Isp of 285 seconds, the entire combustion section here is a single piece assembly and 100% 3D printed.&lt;/p&gt;
+&lt;h3 id=&#34;stage-2&#34;&gt;Stage 2&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://agnikul.in/static/media/rocket-2.98105b45.png&#34; alt=&#34;Stage 2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Our second stage is powered by the Agnite vacuum optimized engine. Agnite is the same engine that powers our first stage as well. It can deliver upto 355 seconds of Isp in vacuum. Running an electric pump fed engine offers greater &amp;amp; finer propellant utilization techniques to enhance payload capacity.&lt;/p&gt;
+&lt;h3 id=&#34;stage-3---baby-stage&#34;&gt;Stage 3 - Baby Stage&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://agnikul.in/static/media/rocket-1.8a3f3800.png&#34; alt=&#34;Stage 3&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;An optional baby stage sits inside the payload fairing with an envelope large enough for almost all small satellite needs.&lt;/p&gt;
+&lt;p&gt;Agnibaan is a customizable vehicle. When we were at the drawing board, we carefully analyzed what our customers really needed. We then engineered enough flexibility into the vehicle while carefully designing to ensure reliability. Removing a few engines and flying is more involved than it sounds. We had to ensure vehicle controllability, stability, lift off thrust-to-weight ratio (&amp;amp; many other parameters) made sense for each of these versions.&lt;/p&gt;
+&lt;p&gt;Technology is eveloving day by day we don&amp;rsquo;t know what&amp;rsquo;s will the next invention will be done by human being no one can predict, also not that the technology has reach to that level that we can create own hyperdrive and travel through gallaxys in the space from one to anther.&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="https://mistrysiddh.tk/images/posts/agnikul-cosmos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+            
+              <category>information</category>
+            
+          
+            
+              <category>3d printing</category>
+            
+          
+            
+              <category>inventions</category>
+            
+          
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

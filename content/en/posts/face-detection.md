@@ -280,7 +280,7 @@ Now we will be coding a small program on video detection.
 import cv2 #importing opencv package
 capture = cv2.VideoCapture(0) # we will create a variable name capture to capture webcam of our device which is "0" or else you can write ip address in '' of your webcam
 
-while True:
+while(True):
     ret, frame = capture.read() # to read data from video capture variable
     cv2.imshow("Video Feed",frame) # to show live video camera feed
     if cv2.waitKey(1) & 0xFF == ord('q'): # we have set waitKey at 0 means infinite or you can write any miliseconds and for ord('q') for quiting in live feed by pressing q on keyboard
@@ -326,7 +326,7 @@ Now we will be converting our colored BGR color to Gray color so that our cascad
 
 ```python
 ret, frame = capture.read() # add bellow this line
-gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) # to convert BGR image to grayscale image
 ```
 
 
@@ -341,10 +341,184 @@ faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5) # y
 now we will pe finding our face in frame by finding position and checking whether the face is present or not for that we will be using width, height, x direction, y direction of the video feed.
 
 ```python
-faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5) 
+faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5)  # add bellow this line
     for (x, y, w, h) in faces:
-        # print(x,y,w,h)
+        print(x,y,w,h) # print coordinates of your face
+```
+
+This command will show you the coordinates of your face in the frame so that we can identify that someone is present here.
+
+![Face Coordinate's](/images/posts/9GZxLCVtAp.png)
+
+Now we will be drawing a square around our face so that we can clearly identify it for that we will be will be using gray scale image. Now we will make a region of interest or ROI using gray scale image to determine its width and height
+
+```python
+   for (x, y, w, h) in faces:
+        print(x,y,w,h) # print bellow this line
+        roi_gray = gray[y:y + h, x:x + h] # regoin of interest of gray scale image
+        roi_color = frame[y:y + h, x:x + w] # regoin of interest of colored image
+```
+
+so now as we have found our region of interest we will check that whether it is working properly or not so we will capture our face by making a PNG fine
+
+```python
+		roi_color = frame[y:y + h, x:x + w] # add bellow this
+    	img_item = "my-image.png" # creating a variable name img_item
+    	cv2.imwrite(img_item, roi_color) # to create an image file where we can see our face only
+```
+
+What this above line will do is that it will create an PNG file with the name `my-image.png` in your project folder so that we can understand that which portion of our face is been captured.
+
+ ![my-image.png](/images/posts/ATItkXEuFa.png)
+
+After detecting our face and saving it in a PNG file what we will do is that we will create a border and track our live feed cam and see it more clearly
+
+```python
+    	cv2.imwrite(img_item, roi_color) # add bellow this
+    	color = (0,0,255) # BGR format you can choose whatever you want go to this site to choose color https://wamingo.net/rgbbgr/
+        stroke = 2
+        end_cord_x = x + w
+        end_cord_y = y + h
+        cv2.rectangle(frame,(x, y), (end_cord_x, end_cord_y), color, stroke)
+```
+
+![Drawing rectangle on face](/images/posts/bzUl6UbhVI.png)
+
+Until now what we have done is that we have just detecting our face using `Cascades` but as we have successfully done it so now we will be creating recognizer to recognize who is that person is for that we will be creating an algorithm. So now we will be creating new python file `train-faces.py` so that we will be writing all the algorithm in it to train our facial recognition system. After creating `train-faces.py` file we will create a folder of name `images` where we will be adding all images in it to train our trainer. Open train-faces.py and type the following code:
+
+```python
+import os # to detect which kind of operating system we are been using example: Windows, Linux, Debian, Mac, etc.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # to automatical find out the path of our project
+```
+
+What we have done is that we told the system to find the path of our project automatically and also to detect os also and after detecting our project folder we will be adding our images directory so that we will be able to find all images at one place.
+
+```python
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # add bellow this
+image_dir = os.path.join(BASE_DIR, "images") # this will add images at the end of our base dir example: C:\User\Admin\Desktop\facedetection\images\
+```
+
+As our system or file has detected the path we will check all the images which are present in it.
+
+```python
+image_dir = os.path.join(BASE_DIR, "images") # add bellow this line
+for root, dirs, files in os.walk(image_dir): # this will detect our image path
+    for file in files: 
+        if file.endswith("png") or file.endswith("jpg"): # this is use to check whether there are png file or jpg files
+            path = os.path.join(root, file) # this will join our project director and images folder path
+            print(path) # to check all the apth of images
+```
+
+![Image path](/images/posts/pycharm64_QFG764uyci.png)
+
+Now what we will do is that we will be giving labels to our directories which are present in images folder 
+
+```python
+            path = os.path.join(root, file) # add bellow this line
+    		label = os.path.basename(root) # to give the label of our image folder
+        	print(label, path) # add label in old print function
+```
+
+So when we will run the code now we will be able to see path as well as label. So now we will be creating empty list.
+
+```python
+image_dir = os.path.join(BASE_DIR, "images") # add bellow this
+y_labels = []
+x_train = []
+```
+
+Training images using `NumPy` array also we will be using `PIL` python library to grab pill of image
+
+```python
+import cv2 #add bellow this
+import numpy as np
+from PIL import Image
+```
+
+After importing Image from PIL library we will be converting image into gray
+
+```python
+        	print(label, path) # add bellow this
+    		pil_image = Image.open(path).convert("L") # to convert colored image to gray scale
+```
+
+Now we will be using NumPy array to train our images
+
+```
+    		pil_image = Image.open(path).convert("L") # add bellow this line
+    		image_array = np.array(pil_image, "uint8")
+    		print(image_array) # to check images array
+```
+
+![Image Array](/images/posts/pycharm64_D0vgyFuYoF.png)
+
+We will check ROI of images so that we can train our trainer for that we need to `import cv2` into our `train-faces.py` using our Cascades
+
+```python
+import cv2 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # to automatical find out the path of our project
+
+image_dir = os.path.join(BASE_DIR, "images") # this will add images at the end of our base dir example: C:\User\Admin\Desktop\facedetection\images\
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml') # add this line
+```
+
+After importing OpenCV and Cascades we will be detecting faces using `detectMultiScale`.
+
+```python
+            print(image_array) # add bellow this
+    		faces = face_cascade.detectMultiScale(image_array, scaleFactor=1.5, minNeighbors=5)
+            for (x, y, w, h) in faces:
+                roi = image_array[y:y + h, x:x + w]
+                x_train.append(roi)
+```
+
+We will be giving labels so that it would be easy to understand it properly, also not that it would be easy to see who is the person in the video feed or photo frame for that we will be creating a variable.
+
+```python
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml') # add bellow this line
+current_id = 0 # creating an id starting with 0
+label_ids = {} # to create and empty directory
+# Now come down to this line 
+        	print(label, path) # ad bellow this
+            if not label in label_ids: # it will check whether the labels are there or not
+                label_ids[label] = current_id
+                current_id += 1
+            id_ = label_ids[label]
+            print(label_ids) # to print label ids
+# Now come down to this line 
+				x_train.append(roi) # add bellow this line
+                y_labels.append(id_)
+print(y_labels)
+print(x_train)
 ```
 
 
 
+What we have done is that we have created labels ids for each and every image we have so after doing that we will saving all thoes lables so that it would be easy for our program to recognize it for that we need pickle so I assume that you know who to import any library so import pickle. Now go to the bottom of you train-faces.py file and paste bellow code but before pasting this code make sure to add `#` infront of `print` function.
+
+```python
+with open("labels.pickle", "wb") as f:
+    pickle.dump(label_ids, f)
+```
+
+After this we will train our OpenCV recognizer for each an evey images so that it can recognize it propelly so for that we will create a variable call recognizer.
+
+```python
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml') # add bellow this line
+recognizer = cv2.face.LBPHFaceRecognizer_create() #creating our face recognizer
+```
+
+Successful creation of our recognizer we will be needing numpy array to save all those array in a single file and remember one thing the more numbers of photo will take more time to write it also it deppends on speed of your devices also.
+
+```python
+with open("labels.pickle", "wb") as f:
+    pickle.dump(label_ids, f) # add bellow this
+recognizer.train(x_train, np.array(y_labels)) # using numpy array we will be training our recognizer
+recognizer.save("trainner.yml") # and from above training we will be saving it in a single file called trainner.yml
+```
+
+{{<alert theme="info">}}
+
+Remember one thing is that if the numbers of images are more or your processing speed is low then it may take hours also. The less number images result in less accuracy same as for more numbers of images ar there accuracy level will be more.
+
+{{</alert>}}
