@@ -2,7 +2,7 @@
 title: "Face Detection using OpenCV + Python (🐍)"
 date: 2021-06-21T16:05:37+05:30
 description: "Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene."
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -266,6 +266,12 @@ I have already installed it so it will give me this output
 
 #### Video detection
 
+{{<alert theme="danger">}}
+
+Your laptop camera may not have good quality of video so I suggest you to use remote camera of your phone(recommended) or webcam for better quality
+
+{{</alert>}}
+
 Close cmd and come back to your PyCharm, after we have installed all the required packages we will make a simple program for video capture so that we know that our video camera is working or not, but before we code in PyCharm we have to import all this packages we installed so follow me. First got to menu then File > Settings and you will see this window.
 
 ![Project Settings](/images/posts/pycharm64_PxPA5214bM.png)
@@ -501,7 +507,7 @@ with open("labels.pickle", "wb") as f:
     pickle.dump(label_ids, f)
 ```
 
-After this we will train our OpenCV recognizer for each an evey images so that it can recognize it propelly so for that we will create a variable call recognizer.
+After this we will train our OpenCV recognizer for each an every images so that it can recognize it propely so for that we will create a variable call recognizer.
 
 ```python
 face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml') # add bellow this line
@@ -514,11 +520,210 @@ Successful creation of our recognizer we will be needing numpy array to save all
 with open("labels.pickle", "wb") as f:
     pickle.dump(label_ids, f) # add bellow this
 recognizer.train(x_train, np.array(y_labels)) # using numpy array we will be training our recognizer
-recognizer.save("trainner.yml") # and from above training we will be saving it in a single file called trainner.yml
+recognizer.save("trainer.yml") # and from above training we will be saving it in a single file called trainner.yml
 ```
 
 {{<alert theme="info">}}
 
-Remember one thing is that if the numbers of images are more or your processing speed is low then it may take hours also. The less number images result in less accuracy same as for more numbers of images ar there accuracy level will be more.
+Remember one thing is that if the numbers of images are more or your processing speed is low then it may take hours also. The less number images result in less accuracy same as for more numbers of images there accuracy level will be more.
 
 {{</alert>}}
+
+As we have completed our `train-faces.py` we will run it and train our project so that we can recognize our faces, so now go to your cmd and `type py tain-faces.py` and wait until you get this message
+
+```
+Process finished with exit code 0
+```
+
+
+
+After you see this message it means that our trainer has been successfully trained so main.py is been left to update for final run. Now open your main.py file and past this line
+
+```python
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml') # add bellow this
+recognizer = cv2.face.LBPHFaceRecognizer_create() #creating our face recognizer
+recongnizer.read("trainer.yml")
+with open("labels.pickle", "rb") as f:
+    og_labels = pickle.load(f)
+```
+
+What we did is imported `trainer.yml` so that we can read all the data we have been trained data. After that we will be import all the the tags and ids we have created.
+
+```python
+        roi_color = img[y:y + h, x:x + w] # add bellow this line
+        id_, conf = recognizer.predict(roi_gray)
+		        if conf>= 45:
+            print(id_)
+```
+
+#### Loading Label Names from Pickle
+
+Now we will labels from `labels.pickle` so that we can identify labels, so what we will do is fetch all the labels from that file.
+
+```
+recognizer.read("trainer.yml") # add bellow this
+
+labels = {"person_name": 1} # display person name
+```
+
+What we did is we will display person name so to do that we are going to add this line to display it
+
+```python
+    og_labels = pickle.load(f) # add bellow this
+    labels = {v:k for k,v in labels.items()}
+```
+
+Now we will print ids
+
+```python
+            print(id_) # add bellow this
+    
+```
+
+#### Put Text on your face
+
+We will put text on our webcam face recognition so that we can identify who is that person is for that we will be using `putText` function.
+
+```python
+        if conf >= 45:
+            print(id_)
+            print(labels[id_]) # add bellow this
+            font = cv2.FONT_HERSHEY_SIMPLEX
+            name = labels[id_]
+            color = (0,0,255) # BGR choose any color you like
+```
+
+We will resize little bit so that it reads perfectly in `train-faces.py`
+
+```python
+            pil_image = Image.open(path).convert("L") # add bellow this
+			size = (500,500)
+            final_image = pil_image.rezise(size, Image.ANTIALIAS)
+```
+
+After saving both the files run your main.py file and check the output of it.
+
+#### Complete Code
+
+**requirement.txt**
+
+```text
+opencv-python
+opencv-contrib-python
+numpy
+pillow
+```
+
+
+
+**main.py**
+
+```python
+import cv2 
+import pickle
+# url = '' # add your remote ip of webcam example 'http://192.168.0.1/video' or 'http://192.168.0.1' depending on your ip even you can use security camera ip also
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_alt2.xml')
+
+
+recognizer = cv2.face.LBPHFaceRecognizer_create()
+recognizer.read("trainer.yml")
+labels = {"person_name": 1}
+with open("labels.pickle","rb") as f:
+    og_labels = pickle.load(f)
+    labels = {v:k for k,v in og_labels.items()}
+cap = cv2.VideoCapture(0) # comment this if your using ip camera
+# cap = cv2.VideoCapture(url) # uncomment this line to use remote camera url
+cap.set(3,512)
+cap.set(4,512)
+cap.set(10,150)
+
+while True:
+    # Capture frame-by-frame
+    ret, frame = cap.read()
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    faces = face_cascade.detectMultiScale(gray, scaleFactor=1.5, minNeighbors=5)
+    for (x, y, w, h) in faces:
+        # print(x,y,w,h)
+        roi_gray = gray[y:y+h, x:x+w]
+        roi_color = frame[y:y+h, x:x+w]
+        id_, conf = recognizer.predict(roi_gray)
+        if conf>=45: # and conf<=85:
+            # print(id_)
+            # print(labels[id_])
+            font = cv2.FONT_HERSHEY_SIMPLEX
+            name = labels[id_]
+            color = (0,255,0)
+            stroke = 2
+            cv2.putText(frame, name, (x,y), font, 1, color, stroke, cv2.LINE_AA)
+
+        img_item = "test.png"
+        cv2.imwrite(img_item, roi_color)
+        color = (0,255,0) # BGR
+        stroke = 2
+        end_cord_x = x + w
+        end_cord_y = y + h
+        cv2.rectangle(frame, (x, y), (end_cord_x, end_cord_y), color, stroke)
+
+    # Display the resulting frame
+    cv2.imshow('Frame',frame)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
+```
+
+**train-faces.py**
+
+```python
+import cv2
+import os
+from PIL import Image
+import numpy as np
+import pickle
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+image_dir = os.path.join(BASE_DIR, "images")
+
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_default.xml')
+recognizer = cv2.face.LBPHFaceRecognizer_create()
+
+current_id = 0
+label_ids = {}
+y_labels = []
+x_train = []
+
+for root, dirs, files in os.walk(image_dir):
+    for file in files:
+        if file.endswith("png") or file.endswith("jpg"):
+            path = os.path.join(root, file)
+            label = os.path.basename(root).replace(" ", " ") #.upper()
+            # print(label,path)
+            if not label in label_ids:
+                label_ids[label] = current_id
+                current_id += 1
+            id_ = label_ids[label]
+            # print(label_ids )
+            # y_labels.append(label)
+            # x_train.append(path)
+            pil_image = Image.open(path).convert("L")
+            size = (512,512)
+            final_image = pil_image.resize(size, Image.ANTIALIAS)
+            image_array = np.array(pil_image, "uint8")
+            # print(image_array)
+            faces = face_cascade.detectMultiScale(image_array, scaleFactor=1.5, minNeighbors=5)
+            for (x,y,w,h) in faces:
+                roi = image_array[y:y+h, x:x+w]
+                x_train.append(roi)
+                y_labels.append(id_)
+
+# print(y_labels)
+# print(x_train)
+
+with open("labels.pickle","wb") as f:
+    pickle.dump(label_ids, f)
+
+recognizer.train(x_train, np.array(y_labels))
+recognizer.save("trainer.yml")
+```
+
