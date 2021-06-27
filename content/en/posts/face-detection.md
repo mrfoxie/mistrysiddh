@@ -1,7 +1,10 @@
 ---
-title: "Face Detection using OpenCV + Python (🐍)"
+title: Face Detection using OpenCV + Python (🐍)
 date: 2021-06-21T16:05:37+05:30
-description: "Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene."
+description: Face detection is a computer technology being used in a variety of
+  applications that identifies human faces in digital images. Face detection
+  also refers to the psychological process by which humans locate and attend to
+  faces in a visual scene.
 draft: false
 hideToc: false
 enableToc: true
@@ -9,19 +12,19 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
-tags:
-- technology 
-- industrial automation
-- ubuntu
-- information
-- robotics
-series:
-- World
-categories:
-- Industrial automation
-- Simulation
-- technology
 image: https://i.ytimg.com/vi/t-MDoI7MuY0/maxresdefault.jpg
+tags:
+  - technology
+  - industrial automation
+  - ubuntu
+  - information
+  - robotics
+categories:
+  - Industrial automation
+  - Simulation
+  - technology
+series:
+  - World
 ---
 {{< featuredImage >}}
 
@@ -41,16 +44,16 @@ To make algorithms as accurate as possible, they must be trained with huge data 
 
 Also, now would be a good time to give you definitions of the main types of algorithms – ML, AI, and Deep Learning.
 
-- **Machine Learning (ML)**: ML algorithms use statistics to find patterns in huge amounts of data. This data can include words, numbers, images, clicks, and more. ML is the process behind many modern services – voice assistants (Siri and Alexa), search engines (Google and Baidu), and recommendation systems (Spotify and Netflix);
-- **Artificial Intelligence (AI)**: If an ML solution is programmed to learn how to perform a task, rather than just simple performance, then it is AI. Systems that use AI demonstrate behaviors similar to human intelligence – for instance, problem solving, planning, learning, perception, manipulation, and reasoning;
-- **Deep Learning:** This algorithm is a subset of machine learning, and it is what forms deep neural networks; essentially, machines are given a greater ability to find and amplify tiny patterns. Such networks have any layers of computational nodes that collaborate to sift through data and deliver predictions.
+* **Machine Learning (ML)**: ML algorithms use statistics to find patterns in huge amounts of data. This data can include words, numbers, images, clicks, and more. ML is the process behind many modern services – voice assistants (Siri and Alexa), search engines (Google and Baidu), and recommendation systems (Spotify and Netflix);
+* **Artificial Intelligence (AI)**: If an ML solution is programmed to learn how to perform a task, rather than just simple performance, then it is AI. Systems that use AI demonstrate behaviors similar to human intelligence – for instance, problem solving, planning, learning, perception, manipulation, and reasoning;
+* **Deep Learning:** This algorithm is a subset of machine learning, and it is what forms deep neural networks; essentially, machines are given a greater ability to find and amplify tiny patterns. Such networks have any layers of computational nodes that collaborate to sift through data and deliver predictions.
 
 Now, as for the exact technologies used to develop face detection applications; these include:
 
-- OpenCV;
-- Matlab;
-- Tensorflow;
-- Neural Networks.
+* OpenCV;
+* Matlab;
+* Tensorflow;
+* Neural Networks.
 
 All of these follow almost the exact same procedure for face detection.
 
@@ -96,16 +99,14 @@ When the aforementioned strategies are combined, they can create a comprehensive
 
 Researchers Ashu Kumar, Amandeep Kaur, and Munish Kumar published a [review of face detection techniques](https://www.researchgate.net/publication/326667118_Face_Detection_Techniques_A_Review), which included a detailed explanation of the challenges that facial detection faces. To sum up their findings, the challenges in face detection include:
 
-- Odd expressions. A human face might have an odd expression, making it difficult for facial detection algorithms to identify it as a face;
-- Face occlusion. If a face is hidden by hair, a hat, a hand, glasses, or a scarf, it may result in a false negative;
-- Illuminations. An image might not have uniform lighting effects; part of the image may be overexposed, while another part is very dark. Again, this can contribute to false negatives;
-- Complex background. When lots of objects are present in an image, face detection’s accuracy is reduced;
-- Too many faces. If there is a large number of human faces in an image, face detection software may have a hard time distinguishing between some of them;
-- Low resolution. If an image’s resolution is poor, it is more difficult to detect faces;
-- Skin color. If somebody’s skin color falls outside of the gradient that is recognized by the algorithm,
+* Odd expressions. A human face might have an odd expression, making it difficult for facial detection algorithms to identify it as a face;
+* Face occlusion. If a face is hidden by hair, a hat, a hand, glasses, or a scarf, it may result in a false negative;
+* Illuminations. An image might not have uniform lighting effects; part of the image may be overexposed, while another part is very dark. Again, this can contribute to false negatives;
+* Complex background. When lots of objects are present in an image, face detection’s accuracy is reduced;
+* Too many faces. If there is a large number of human faces in an image, face detection software may have a hard time distinguishing between some of them;
+* Low resolution. If an image’s resolution is poor, it is more difficult to detect faces;
+* Skin color. If somebody’s skin color falls outside of the gradient that is recognized by the algorithm,
   their face might not be detected.
-
-
 
 ## HOW DOES FACE DETECTION WORK WITH DEEP LEARNING?
 
@@ -133,8 +134,6 @@ While face detection systems can be powerful, they are by no means foolproof, as
 2. Easy to integrate. Most face detection solutions are compatible with security software;
 3. Automated identification. Face detection lets facial identification be automated, thus increasing efficiency alongside a heightened rate of accuracy.
 
-
-
 ### DISADVANTAGES OF FACE DETECTION
 
 1. Huge storage requirements. Machine learning technology requires powerful data storage;
@@ -144,7 +143,7 @@ While face detection systems can be powerful, they are by no means foolproof, as
 ### PROS AND CONS TABLE SUMMARY
 
 | Advantages of Face Detection | Disadvantages of Face Detection |
-| :--------------------------- | :------------------------------ |
+| ---------------------------- | ------------------------------- |
 | Better security              | Huge storage requirements       |
 | Easy to integrate            | Vulnerable detection            |
 | Automated identification     | Potential privacy issues        |
@@ -181,11 +180,11 @@ The detection, modeling, and tracking of lips during videos can be used to gener
 
 To sum up the key points of this guide:
 
-- Face detection is AI-based computer technology that is used to extract and identify human faces from
+* Face detection is AI-based computer technology that is used to extract and identify human faces from
   digital images;
-- Face detection algorithms can be feature-based, knowledge-based, template matching, appearance- based, or a combination of methods;
-- Advantages of face detection include better security, easy integration, and automated identification;
-- Disadvantages include huge storage requirements, vulnerable detection, and potential privacy issues.
+* Face detection algorithms can be feature-based, knowledge-based, template matching, appearance- based, or a combination of methods;
+* Advantages of face detection include better security, easy integration, and automated identification;
+* Disadvantages include huge storage requirements, vulnerable detection, and potential privacy issues.
 
 Face detection is the foundation of a huge number of facial applications – we can see it in our day-to-day life. When we unlock our smartphone via face recognition, that would not be possible without face detection. The same goes for facial recognition surveillance systems, photo tagging, and Snapchat filters. There are many exciting applications in the works that we can thank face detection for!
 
@@ -245,7 +244,7 @@ Now clear everything in `main.py` and it should be empty after that we will be c
 
 ![CMD](/images/posts/cmd_CnLDIMeHY8.png)
 
-now type ` notepad.exe requirement.txt ` it will ask you for create a new file and click on yes after that paste bellow packages name there.
+now type `notepad.exe requirement.txt` it will ask you for create a new file and click on yes after that paste bellow packages name there.
 
 ```text
 opencv-python
@@ -334,8 +333,6 @@ Now we will be converting our colored BGR color to Gray color so that our cascad
 ret, frame = capture.read() # add bellow this line
 gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) # to convert BGR image to grayscale image
 ```
-
-
 
  and don't worry if your not able to understand the code I will be giving you project like so that you can download it and run it on your own. We will now detect faces in webcam, photo frame or video. For that we will be using gray scale which we have converted from BGR ti GRAY so for that we need `detectMultiScale` function for scale factor and minimum neighbors detection.
 
@@ -498,8 +495,6 @@ print(y_labels)
 print(x_train)
 ```
 
-
-
 What we have done is that we have created labels ids for each and every image we have so after doing that we will saving all thoes lables so that it would be easy for our program to recognize it for that we need pickle so I assume that you know who to import any library so import pickle. Now go to the bottom of you train-faces.py file and paste bellow code but before pasting this code make sure to add `#` infront of `print` function.
 
 ```python
@@ -534,8 +529,6 @@ As we have completed our `train-faces.py` we will run it and train our project s
 ```
 Process finished with exit code 0
 ```
-
-
 
 After you see this message it means that our trainer has been successfully trained so main.py is been left to update for final run. Now open your main.py file and past this line
 
@@ -613,8 +606,6 @@ opencv-contrib-python
 numpy
 pillow
 ```
-
-
 
 **main.py**
 
@@ -727,3 +718,6 @@ recognizer.train(x_train, np.array(y_labels))
 recognizer.save("trainer.yml")
 ```
 
+#### Source Code
+
+Here is the source code [OpenCV Facial Recognition](https://github.com/mrfoxie/OpenCV-Facial-Recognition) on GitHub if you have any issues then you can ask there.
