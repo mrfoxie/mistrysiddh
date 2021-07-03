@@ -37,7 +37,7 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/background.jpg
+    imageSrc: /images/whoami/banner.png
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center

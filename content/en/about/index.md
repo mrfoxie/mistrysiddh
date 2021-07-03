@@ -10,7 +10,7 @@ date = "2019-02-28"
 
 ##### I am Blogger, Gamer, WordPress Blogger
 
-![I am Blogger, Gamer, Wordpress Blogger](/images/whoami/Banner.png)
+![I am Blogger, Gamer, Wordpress Blogger](/images/whoami/banner.png)
 
 Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
