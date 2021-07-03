@@ -9,7 +9,7 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 pinned: true
-image: images/posts/Banner.png
+image: images/whoami/Banner.png
 tags:
   - null
 categories:
