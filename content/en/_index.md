@@ -46,9 +46,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Madness is like Gravity,
+      - 
     subtitle:
-      - All you need is a little push.
+      - 
     titleColor:
     titleShadow: false
     titleFontSize: 44
