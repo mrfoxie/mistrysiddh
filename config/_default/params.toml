@@ -25,7 +25,7 @@ enableAppbarLangIcon = false
 
 # header
 homeHeaderType = "img" # text, img, slide, typewriter
-hideHomeHeaderWhenMobile = false
+hideHomeHeaderWhenMobile = true
 
 # menu
 showMobileMenuTerms = ["categories", "series"]
