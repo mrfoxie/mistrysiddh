@@ -1,7 +1,7 @@
 ---
 title: Announcement
-date: 2021-06-30T18:21:45+05:30
-description: "Finally application has been accepted by Google Play Store."
+date: 2021-07-07T05:52:36.378Z
+description: Finally application has been accepted by Google Play Store.
 draft: false
 hideToc: false
 enableToc: true
@@ -11,11 +11,11 @@ authorEmoji: 🤯
 pinned: true
 image: /images/posts/play-store.jpg
 tags:
-  - 
+  - null
 categories:
-  - 
+  - null
 series:
-  - 
+  - null
 ---
 {{< featuredImage >}}
 ## Application Launched
