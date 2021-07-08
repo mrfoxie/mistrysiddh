@@ -115,5 +115,8 @@ other = "solarized"
 [skin-kimbie]
 other = "kimbie"
 
+[skin-blogger]
+other = "blogger"
+
 [no-contents]
 other = "Nada que Mostrar"

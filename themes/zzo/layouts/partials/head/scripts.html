@@ -530,6 +530,8 @@
     var skinSolarizedCode = JSON.parse({{ $skinSolarizedCode | jsonify }});
     {{ $skinKimbieCode := (i18n "skin-kimbie") }}
     var skinKimbieCode = JSON.parse({{ $skinKimbieCode | jsonify }});
+    {{ $skinbloggerCode := (i18n "skin-blogger") }}
+    var skinbloggerCode = JSON.parse({{ $skinbloggerCode | jsonify }});
 
     var setMetaColor = function(themeColor) {
       var metaMsapplicationTileColor = document.getElementsByName('msapplication-TileColor')[0];
@@ -562,6 +564,11 @@
         metaThemeColor.setAttribute('content', '#eee8d5');
         metaMsapplicationNavbuttonColor.setAttribute('content', '#eee8d5');
         metaAppleMobileWebAappStatusBarStyle.setAttribute('content', '#eee8d5');
+      } else if (themeColor.includes('blogger')) {
+        metaMsapplicationTileColor.setAttribute('content', '#004FDA');
+        metaThemeColor.setAttribute('content', '#004FDA');
+        metaMsapplicationNavbuttonColor.setAttribute('content', '#004FDA');
+        metaAppleMobileWebAappStatusBarStyle.setAttribute('content', '#004FDA');
       }
     }
 
@@ -576,6 +583,8 @@
         return 'solarized';
       } else if (themeText === skinKimbieCode) {
         return 'kimbie';
+      } else if (themeText === skinbloggerCode) {
+        return 'blogger';
       }
     }
     
