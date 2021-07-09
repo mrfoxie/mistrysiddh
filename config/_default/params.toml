@@ -31,7 +31,7 @@ hideHomeHeaderWhenMobile = false
 showMobileMenuTerms = ["categories", "series"]
 
 # navbar
-enableThemeChange = true
+enableThemeChange = false
 
 # body
 enableBreadcrumb = true
