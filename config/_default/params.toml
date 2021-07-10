@@ -153,10 +153,10 @@ commento = false
   enable = true
   alipay = "" 
   wechat = ""
-  bitcoin = "122TFoeXM29qw1of2yPZntsVeZHKDbxTin"
+  bitcoin = "" #122TFoeXM29qw1of2yPZntsVeZHKDbxTin
   paypal = "https://paypal.me/mistrysiddh"
   patreon = "https://www.patreon.com/siddhmistry"
-  buymeacoffee = "https://www.buymeacoffee.com/mistrysiddh"
+  buymeacoffee = ""
 
 [[share]]
   name = "facebook"
