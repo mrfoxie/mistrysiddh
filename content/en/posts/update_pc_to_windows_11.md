@@ -1,7 +1,8 @@
 ---
-title: "Update_pc_to_windows_11"
+title: Update any PC to Windows 11
 date: 2021-07-10T19:06:27+05:30
-description: "This is a guide going over updating any PC to Windows 11 that “doesn’t meet requirements” or doesn’t use Secure Boot or has a TPM 2.0 chip."
+description: This is a guide going over updating any PC to Windows 11 that
+  “doesn’t meet requirements” or doesn’t use Secure Boot or has a TPM 2.0 chip.
 draft: false
 hideToc: false
 enableToc: true
@@ -9,14 +10,14 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 pinned: false
-tags:
-- technology
-- windows 11
-series:
-- technology
-categories:
-- Windows
 image: images/posts/winver_KHcHK2lCu3.png
+tags:
+  - technology
+  - windows 11
+categories:
+  - Windows
+series:
+  - technology
 ---
 {{< featuredImage >}}
 ## Requirement software
