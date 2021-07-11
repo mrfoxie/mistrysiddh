@@ -9,7 +9,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
-pinned: false
+pinned: true
 image: images/posts/winver_KHcHK2lCu3.png
 tags:
   - technology
