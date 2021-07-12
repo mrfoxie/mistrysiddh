@@ -17,6 +17,7 @@ tags:
 - ubuntu
 series:
 - Hacking
+- Windows
 categories:
 - technology
 image: images/posts/WSLg_IntegratedDesktop.png

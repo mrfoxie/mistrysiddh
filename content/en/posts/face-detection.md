@@ -23,6 +23,7 @@ categories:
   - Industrial automation
   - Simulation
   - technology
+  - Windows
 series:
   - World
 ---
