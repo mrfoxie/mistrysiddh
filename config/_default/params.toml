@@ -100,7 +100,7 @@ baiduAnalytics = ""
 enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
-busuanziPagePV = true
+busuanziPagePV = false
 
 # rss
 updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
