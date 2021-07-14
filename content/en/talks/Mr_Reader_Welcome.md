@@ -13,4 +13,6 @@ image: images/talks/choice.jpg
 ---
 {{< featuredImage >}}
 
-## Hello Readers!
+## Hello
+
+As you all know me that I'm not good at anything and just making a bluff of myself on the site. I don't know what I'm writing in the site all I just know is that the content which I write is with my heart, I don't know how many people visit my site or how many of them comment but I'm sure that if they find valuable content here. I'm trying my best to entertain you and give you knowledge to as many people as i can
