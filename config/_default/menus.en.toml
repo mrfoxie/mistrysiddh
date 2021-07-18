@@ -22,24 +22,19 @@
   url = "contact"
   weight = 4
 
-[[main]]
-  name = "More"
-  weight = 5
-  
 #[[main]]
-#  parent = "More"
-#  identifier = "quotes"
-#  name = "Quotes"
-#  url = "quotes"
+#  name = "More"
+#  weight = 5
 
 [[main]]
-  parent = "More"
+  #parent = "More"
   identifier = "showcase"
   name = "Sites"
   url = "showcase"
+  weight = 5
 
-[[main]]
-  parent = "More"
-  identifier = "talks"
-  name = "Talks"
-  url = "talks"
+#[[main]]
+#  parent = "More"
+#  identifier = "talks"
+#  name = "Talks"
+#  url = "talks"
