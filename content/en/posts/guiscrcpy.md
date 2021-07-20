@@ -1,0 +1,72 @@
+---
+title: "Guiscracpy"
+date: 2021-07-20T14:22:15+05:30
+description: "Screen cast your phone and record high quality games on your laptop or desktop"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+author: Siddh Mistry
+authorEmoji: 🤯
+pinned: false
+tags:
+- technology
+- ubuntu
+- Linux
+- windows 11
+- pubg
+- gaming
+series:
+- Windows
+- technology
+- Game
+categories:
+- Windows
+- Game
+- technology
+image: https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif
+---
+{{< featuredImage >}}
+
+## Requirement
+
+1. Android Phone
+2. Data cable
+3. Scrcpy - [https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+4. Guiscrcpy - [https://github.com/srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy)
+
+### Enabling Usb debugging
+
+First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap **Settings** > **About Device** > **Software information** (or **System** in some Android version) > **Android version** and then you can know which Android version your phone have on.
+
+![ find Android version in your phone](https://www.isunshare.com/images/article/android/enable-usb-debugging/find-android-version-in-smartphone.png)
+
+Now connect your phone with your desktop.
+
+## Guiscrcpy & Scrcpy installation
+
+Goto [Guiscrcpy release](https://github.com/srevinsaju/guiscrcpy/releases/tag/continuous) and scrcpy files and place it in one folder like this
+
+![Guiscrcpy & scrcpy](/images/posts/m8KuMHCCeA.png)
+
+Extract all the file of scrcpy*.zip into a folder after doing that open Guiscrcpy. It will ask you to locate `scrcpy.exe` no go into the extraced folder and select `scrcpy.exe` 
+
+![Select scrcpy.exe](/images/posts/e2GmICGlGd.png)
+
+![Select scrcpy.exe](/images/posts/cjqDYpptso.png)
+
+!![Guiscrcpy](/images/posts/moSrWxBbhA.png)
+
+After doing that connect your phone to your device and `Start Scrcpy`
+
+![Screencasting phone](/images/posts/AFjGGRSe3F.png)
+
+**Congratulations** now you can cast you screen on your laptop or Desktop.
+
+## Watch Netflix Movie on larger screen with mobile plan (Top Secret)
+
+<video width="100%" height="250" controls>
+    <source src="/videos/Screencast_Netflix.mkv">
+</video>
+
+Use this method to trick your friends. Enjoy
