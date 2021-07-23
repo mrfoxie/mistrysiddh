@@ -1,44 +1,20 @@
-const CACHE_NAME = "version-1";
-const urlsToCache = ['index.html', '404.html'];
-
-const self = this;
-
-// Install SW
-self.addEventListener('install', (event) => {
+// On install - caching the application shell
+self.addEventListener('install', function(event) {
     event.waitUntil(
-        caches.open(CACHE_NAME)
-        .then((cache) => {
-            console.log('Opened cache');
-
-            return cache.addAll(urlsToCache);
+        caches.open('sw-cache').then(function(cache) {
+            // cache any static files that make up the application shell
+            return cache.add('index.html');
         })
-    )
+    );
 });
 
-// Listen for requests
-self.addEventListener('fetch', (event) => {
+// On network request
+self.addEventListener('fetch', function(event) {
     event.respondWith(
-        caches.match(event.request)
-        .then(() => {
-            return fetch(event.request)
-                .catch(() => caches.match('404.html'))
+        // Try the cache
+        caches.match(event.request).then(function(response) {
+            //If response found return it, else fetch again
+            return response || fetch(event.request);
         })
-    )
-});
-
-// Activate the SW
-self.addEventListener('activate', (event) => {
-    const cacheWhitelist = [];
-    cacheWhitelist.push(CACHE_NAME);
-
-    event.waitUntil(
-        caches.keys().then((cacheNames) => Promise.all(
-            cacheNames.map((cacheName) => {
-                if (!cacheWhitelist.includes(cacheName)) {
-                    return caches.delete(cacheName);
-                }
-            })
-        ))
-
-    )
+    );
 });
