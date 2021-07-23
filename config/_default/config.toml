@@ -55,6 +55,6 @@ disableAdsense = false
 enableRobotsTXT = "true"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
