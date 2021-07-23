@@ -12,6 +12,8 @@
     {{ partial "head/meta_json_ld" . }}
     {{ partial "head/services" . }}
     {{ partial "head/custom-head" . }}
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json">
 </head>
 
 <body id="root" class="theme__{{ index .Site.Params.themeOptions 0 }}">
@@ -32,6 +34,7 @@
         </div>
         {{ partial "body/main-right" . }}
     </div>
+    {{ partial "service-worker.html" . }}
 </body>
 
 </html>
