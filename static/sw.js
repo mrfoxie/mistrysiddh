@@ -1,37 +1,44 @@
-// sw.js
+const CACHE_NAME = "version-1";
+const urlsToCache = ['index.html', '404.html'];
 
-/**
-  References:
+const self = this;
 
-  1. https://developers.google.com/web/fundamentals/primers/service-workers
-  2. https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook
-  3. https://googlechrome.github.io/samples/service-worker/
-  4. https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
-  5. https://serviceworke.rs/
-*/
+// Install SW
+self.addEventListener('install', (event) => {
+    event.waitUntil(
+        caches.open(CACHE_NAME)
+        .then((cache) => {
+            console.log('Opened cache');
 
-const RUNTIME = 'runtime';
+            return cache.addAll(urlsToCache);
+        })
+    )
+});
 
-self.skipWaiting();
-
+// Listen for requests
 self.addEventListener('fetch', (event) => {
-    if (event.request.url.startsWith(self.location.origin)) {
-        event.respondWith(
-            (async () => {
-                const cache = await caches.open(RUNTIME);
-                const cachedResponse = await cache.match(event.request);
-                const networkResponsePromise = fetch(event.request);
+    event.respondWith(
+        caches.match(event.request)
+        .then(() => {
+            return fetch(event.request)
+                .catch(() => caches.match('404.html'))
+        })
+    )
+});
 
-                event.waitUntil(
-                    (async () => {
-                        const networkResponse = await networkResponsePromise;
-                        await cache.put(event.request, networkResponse.clone());
-                    })()
-                );
+// Activate the SW
+self.addEventListener('activate', (event) => {
+    const cacheWhitelist = [];
+    cacheWhitelist.push(CACHE_NAME);
 
-                // Returned the cached response if we have one, otherwise return the network response.
-                return cachedResponse || networkResponsePromise;
-            })()
-        );
-    }
+    event.waitUntil(
+        caches.keys().then((cacheNames) => Promise.all(
+            cacheNames.map((cacheName) => {
+                if (!cacheWhitelist.includes(cacheName)) {
+                    return caches.delete(cacheName);
+                }
+            })
+        ))
+
+    )
 });
