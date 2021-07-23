@@ -24,7 +24,7 @@ categories:
 - Windows
 - Game
 - technology
-image: https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif
+image: https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png
 ---
 {{< featuredImage >}}
 
