@@ -9,6 +9,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /update-any-pc-to-windows-11/
 pinned: true
 image: images/posts/winver_KHcHK2lCu3.png
 tags:

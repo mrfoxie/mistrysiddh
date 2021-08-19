@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /create-own-website-at-home/
 pinned: false
 tags:
 - new site

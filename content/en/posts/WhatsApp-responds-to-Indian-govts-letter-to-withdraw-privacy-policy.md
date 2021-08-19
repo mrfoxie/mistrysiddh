@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /whatsapp-responds-to-indian-government/
 pinned: false
 tags:
   - Facebook

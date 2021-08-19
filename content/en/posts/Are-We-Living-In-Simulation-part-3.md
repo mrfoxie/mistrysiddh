@@ -10,6 +10,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /simulation-3/
 pinned: false
 image: images/posts/They-Lived-1988.jpg
 tags:

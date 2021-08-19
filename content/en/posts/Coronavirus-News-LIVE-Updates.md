@@ -8,6 +8,7 @@ enableToc: false
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /us-cases-top-25-million/
 pinned: false
 tags:
 - corona

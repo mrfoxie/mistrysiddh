@@ -6,8 +6,9 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Technovision
-authorEmoji: ✍️
+author: Siddh Mistr
+authorEmoji: 🤯
+url: /robotics/
 pinned: false
 tags:
 - robotics

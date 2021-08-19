@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /corona-virus-at-the-end-of-earth/
 pinned: false
 tags:
 - corona

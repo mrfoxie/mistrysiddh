@@ -11,6 +11,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /face-detection/
 pinned: false
 image: https://i.ytimg.com/vi/t-MDoI7MuY0/maxresdefault.jpg
 tags:

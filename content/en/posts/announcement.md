@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /announcement/
 pinned: true
 image: /images/posts/play-store.jpg
 tags:

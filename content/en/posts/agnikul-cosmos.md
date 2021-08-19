@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /agnikul-cosmos/
 pinned: false
 tags:
 - technology

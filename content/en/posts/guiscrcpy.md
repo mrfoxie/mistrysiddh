@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /netflix-screencast-on-mobile-plan/
 pinned: false
 tags:
 - technology

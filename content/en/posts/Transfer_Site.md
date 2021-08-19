@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /blogger-to-hugo/
 pinned: false
 tags:
 - new site 

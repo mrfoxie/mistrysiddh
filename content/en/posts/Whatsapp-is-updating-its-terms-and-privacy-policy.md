@@ -10,6 +10,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /whatsapp-updating-terms-and-policies/
 pinned: false
 tags:
   - Facebook

@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /install-linux-on-windows/
 pinned: false
 tags:
 - technology

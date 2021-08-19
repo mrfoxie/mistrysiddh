@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 author Emoji: 🤯
+url: /simulation/
 pinned: false
 tags:
 - matrix

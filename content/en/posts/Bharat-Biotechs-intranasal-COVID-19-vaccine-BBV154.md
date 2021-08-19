@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /covid-19_vaccine/
 pinned: false
 tags:
 - corona

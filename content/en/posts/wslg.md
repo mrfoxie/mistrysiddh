@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
+url: /run-linux-GUI-apps-on-wsl2/
 pinned: false
 tags:
 - technology
