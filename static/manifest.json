@@ -1,5 +1,6 @@
 {
     "name": "Mr. Blogger",
+    "short_name": "Mr. Blogger",
     "icons": [{
             "src": "favicon/android-icon-192x192.png",
             "sizes": "192x192",
@@ -11,9 +12,9 @@
             "type": "image/png",
         }
     ],
-    "start_url": "/index.html",
-    "theme_color": "#fcfcfc",
-    "background_color": "#fcfcfc",
+    "theme_color": "#fff",
+    "background_color": "#fff",
     "display": "standalone",
-    "orientation": "portrait-primary"
+    "orientation": "portrait-primary",
+    "start_url": "/?utm_source=homescreen"
 }
