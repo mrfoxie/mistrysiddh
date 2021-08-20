@@ -1,5 +1,5 @@
 {{ if and .Site.Params.enableServiceWorker }} <!-- (eq hugo.Environment "production") -->
-{{- $sw := resources.Get "js/sw.js" -}}
+{{- $sw := resources.Get "assets/js/sw.js" -}}
 {{- $dummy := "" | resources.FromString "dummy.js" -}}
 {{- $url := (slice $sw $dummy | resources.Concat "sw.js").RelPermalink -}}
 <script>
