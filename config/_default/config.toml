@@ -1,8 +1,8 @@
-baseURL = "https://www.mistrysiddh.tk/"
+baseURL = "https://www.mistrysiddh.tk"
 title = "Mistry Siddh"
 theme = "zzo"
 
-defaultContentLanguage = ""
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
