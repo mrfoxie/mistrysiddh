@@ -7,7 +7,7 @@ useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.png"
 themecolor = "#CCCCCC"
 
-themeOptions = ["light", "dark", "solarized", "kimbie"]
+themeOptions = ["dark", "light", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume", "gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "talks", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -88,7 +88,7 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = true
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = false
@@ -109,7 +109,7 @@ updateFrequency = "1"
 fullContents = true
 
 # comment
-enableComment = false
+enableComment = true
 disqus_shortname = "siddhmistry"
 commento = false
 
@@ -182,9 +182,9 @@ commento = false
  name = "feedly"
 [[share]]
  name = "pinterest"
-[[footerLinks]]
-  name = "Muftsabazaar"
-  link = "https://www.muftsabazaar.com"
+#[[footerLinks]]
+#  name = "Muftsabazaar"
+#  link = "https://www.muftsabazaar.com"
 [[footerLinks]]
   name = "HackerIdiot"
   link = "https://www.hackeridiot.com"
