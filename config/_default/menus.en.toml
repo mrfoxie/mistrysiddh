@@ -32,9 +32,3 @@
   name = "Sites"
   url = "showcase"
   #weight = 5
-
-[[main]]
-  parent = "More"
-  identifier = "talks"
-  name = "Talks"
-  url = "talks"
