@@ -5,6 +5,7 @@ publishDate: 2021-10-16T04:13:35Z
 description: "Please don't look at this page this is all about my nonsense things which I will be doing to impress everyone"
 series:
 - Talks
+url: /python/
 titleWrap: wrap # wrap, noWrap
 image: https://getwallpapers.com/wallpaper/full/d/5/1/14904.jpg
 ---
@@ -47,10 +48,10 @@ This are the operation which will be using in the programming where it may be so
 
 ## Data Types
 
-- String = " (quotes) or " " (quotation marks) e.g. 'Python' or "Python!"
-- Float = decimal points `.` e.g. `34.546`
-- Int = integer value or whole number e.g. `564`
-- Concatenation = concatenation is used to add any 2 or more than 2 data either it may be string or float or int e.g. "hey my no. is " + 53 = hey my no. is 53
+- String = " (quotes) or " " (quotation marks) e. g. 'Python' or "Python!"
+- Float = decimal points `.` e. g. `34.546`
+- Int = integer value or whole number e. g. `564`
+- Concatenation = concatenation is used to add any 2 or more than 2 data either it may be string or float or int e. g. "hey my no. is " + 53 = hey my no. is 53
 
 ```python
 # example code
@@ -68,5 +69,45 @@ print("a" * 5)
 
 # output
 aaaaa
+```
+
+## Variables
+- Variables are used to get data to predefined data which is feed into the system.
+  - E. g. user = Python
+  - result: Print(user) = Python
+- Input() = It is use to collect data from user manually so that it can be used in the program to use as the data into it (its always take the data as a string no matter it's a float or int).
+- Input("some text") = In input you can use quote as a place holder so that you can tell the user that what kind of input are been needed to be take from user to process the data.
+- int() or float() or str() = you can wrap float or int or str around input so that you can change the property of the variable according to your need.
+  - E. g. int(input("Integer: ")) = Integer: 532
+  - E. g. float(input("Float: ")) = 2.25
+  - E. g. str(input("String: ")) = String: ABC123
+- Here input can be taken multiple of time as per requirement used in the program.
+
+```python
+age = int(input("Age: "))
+name = str(input("Name: "))
+print(name + " is " + age + " years old.") # Python is 30 years old.
+```
+
+
+
+
+
+## In-place operator
+
+- In-place operator is used to do mathematical operation so that it become easier to write the code
+
+```python
+x = 2
+y = 3
+print(x+y) # you will get result 5
+```
+
+- Even you can use string also to add 2 string characters
+
+```python
+x = "Python"
+x += " is fun."
+print(x) # Python is fun.
 ```
 
