@@ -1,4 +1,3 @@
----
 title: "Python Tutorial"
 date: 2021-10-16T04:13:35Z
 publishDate: 2021-10-16T04:13:35Z
@@ -28,7 +27,6 @@ image: https://getwallpapers.com/wallpaper/full/d/5/1/14904.jpg
 ```python
 # example code
 print('first line\nsecond line')
-
 # output
 first line
 second line
@@ -39,7 +37,6 @@ second line
 ```python
 # example code
 print('this is a \ttab.')
-
 # output
 this is a	tab.
 ```
@@ -56,7 +53,6 @@ This are the operation which will be using in the programming where it may be so
 ```python
 # example code
 print("hey my no. is " + 53)
-
 # output
 hey my no. is 53
 ```
@@ -66,10 +62,8 @@ hey my no. is 53
 ```python 
 # example code
 print("a" * 5)
-
 # output
 aaaaa
-```
 
 ## Variables
 - Variables are used to get data to predefined data which is feed into the system.
@@ -111,3 +105,4 @@ x += " is fun."
 print(x) # Python is fun.
 ```
 
+```
