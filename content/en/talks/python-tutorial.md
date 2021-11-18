@@ -83,10 +83,6 @@ name = str(input("Name: "))
 print(name + " is " + age + " years old.") # Python is 30 years old.
 ```
 
-
-
-
-
 ## In-place operator
 
 - In-place operator is used to do mathematical operation so that it become easier to write the code
