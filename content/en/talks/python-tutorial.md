@@ -1,12 +1,15 @@
+---
 title: "Python Tutorial"
 date: 2021-10-16T04:13:35Z
 publishDate: 2021-10-16T04:13:35Z
 description: "Please don't look at this page this is all about my nonsense things which I will be doing to impress everyone"
 series:
+
 - Talks
 url: /python/
 titleWrap: wrap # wrap, noWrap
 image: https://getwallpapers.com/wallpaper/full/d/5/1/14904.jpg
+
 ---
 {{< featuredImage >}}
 
@@ -18,11 +21,11 @@ image: https://getwallpapers.com/wallpaper/full/d/5/1/14904.jpg
 - `/` = division (use for mathematical operation)
 - `*` = multiplication (use for mathematical operation)
 - `()` = circular brackets (parentheses use for mathematical operation)
-- `**` = exponentiation (power of the value e.g. `2^2` or `2**2` = 4 like a square or cube)
-- `%` = modulo operator (to get remainder of given division e.g. `5%2 = 1` where 1 is remainder)
-- `//` = quotient (two forward slashes which is used to get quotient of given division e.g. `5//2 = 2` where 2 is the quotient)
-- `\` = backslash (use for escaping e.g. `"He\'s good at games."` which will appear as He's good at games.)
-- `\n` = new lines (to print new line in a single code) e.g.
+- `**` = exponentiation (power of the value e. g. `2^2` or `2**2` = 4 like a square or cube)
+- `%` = modulo operator (to get remainder of given division e. g. `5%2 = 1` where 1 is remainder)
+- `//` = quotient (two forward slashes which is used to get quotient of given division e. g. `5//2 = 2` where 2 is the quotient)
+- `\` = backslash (use for escaping e. g. `"He\'s good at games."` which will appear as He's good at games.)
+- `\n` = new lines (to print new line in a single code) e. g.
 
 ```python
 # example code
@@ -57,14 +60,14 @@ print("hey my no. is " + 53)
 hey my no. is 53
 ```
 
-- If you use multiplication in concatenation than it will print the statement as many time as the number, you have been multiplied e.g. "a"*3 = aaa
+- If you use multiplication in concatenation than it will print the statement as many time as the number, you have been multiplied e. g. "a"*3 = aaa
 
 ```python 
 # example code
 print("a" * 5)
 # output
 aaaaa
-
+```
 ## Variables
 - Variables are used to get data to predefined data which is feed into the system.
   - E. g. user = Python
@@ -101,4 +104,44 @@ x += " is fun."
 print(x) # Python is fun.
 ```
 
+## Booleans &  Comparators
+
+- `True` or `False` = Booleans values to show True or False
+- The following operators give you results in Booleans that means True or False.
+```python
+# explanation
+print(Sourcee 1 comparator Source 2)
+print(1=1)
+
+
+# less than
+print(50<40) # False
+print(40<50) # True
+
+
+# greater than
+print(47>10) # True
+print(10>47) # False
+
+
+# less than equal to
+print(10<=45) # True
+print(45<=10) # False
+print(45<=45) # True
+
+
+# greater than equal to
+print(12>=78) # False
+print(78>=12) # True
+print(86>=86) # True
+
+
+# equal to
+print(45==45) # True
+print(42==47) # False
+
+
+# not equal to
+print(7!=8) # True
+print(7!=7) # False
 ```
