@@ -2,7 +2,7 @@
 title: "Are We Living in Simulation Part 7"
 date: 2021-11-22T21:44:37+05:30
 description: "Are you yourself, Are you living, Are you a program, Are you a virus, Are you a creator, Are you agent, Are you a spy, Are you the one."
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
