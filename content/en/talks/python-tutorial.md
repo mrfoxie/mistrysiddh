@@ -45,7 +45,96 @@ this is a	tab.
 ```
 
 This are the operation which will be using in the programming where it may be some addition some conditions etc. there may be more but I know this much only. So stick with it.
+### Practice
+Ever wondered how many seconds are there in a month (30 days)?
+Write a program to calculate and output the answer.
+{{< alert theme="warning" dir="ltr" >}}
+Remember, there are 24 hours in a day, 60 minutes in an hour, and 60 seconds in a minute.
+Use the **print()** statement to output the result.
+{{< /alert >}}
 
+Try it yourself.
+
+{{< expand "Answer" >}}
+#### Explanation
+A minute consist of 60s, an hour consist of 60 minute or 3600 seconds, a day consit of 24 house or 1440 minutes or 86400 seconds, 30 days means a month consist of 720 hours or 43200 minutes or 2592000 seconds.
+#### Code
+```python
+print((((60*60)*24)*30))
+```
+#### Output
+```
+2592000
+```
+So `2592000` seconds are there in 30 days(1 month).
+If you got this answer without looking at it then congratulation.
+{{< /expand >}}
+
+### Practice 1
+
+Exponentiation
+
+Did you know that there are more bacteria cells in your body than cells that make up your body? Weird!
+A bacteria culture starts with 500 bacteria and doubles in size every hour.
+Which means, after 1 hour the number of bacteria is 1000, after 2 hours - 2000, and so on.
+Let’s calculate and output the number of bacteria that will be in the culture after 24 hours.
+{{< alert theme="warning" dir="ltr" >}}
+The formula to calculate the bacteria after N hours will be: 500*2<sup>N</sup>
+{{< /alert >}}
+
+Try it yourself.
+{{< expand "Answer" >}}
+#### Explanation
+Just imagine that in an hour bacteria will become double of it's original count 500 bacteria will become 1000 in an hour so every hour it will become 2x the last count so after an hour it count is 1000 so after 2 hour it will become 2000 so the formula will be 500*2<sup>N</sup>
+Where 500 is number will be count of bacteria, 2 is double of it's count every hour, <sup>N</sup> is total number of hour so that we get the value of bacteria after that many number of hours.
+
+#### Code
+```python
+print(500*2**24)
+```
+#### Answer
+```
+8388608000
+```
+So after 24 hours it number of count will be `8388608000`.
+If you got this answer without looking at it then congratulation.
+{{< /expand >}}
+
+
+### Practice 2
+#### Time is ticking away ~~(Tricky question)~~
+Random task! You need to calculate the number of hours in 888 minutes.
+Your program needs to output the number of hours and then the number of remaining minutes, on separate lines.
+For example, 72 minutes are equal to 1 hour and 12 minutes, so your program would output:
+1
+12
+
+{{< alert theme="warning" dir="ltr" >}}
+You can use **floor division** to find the number of hours, and the **modulo** operator to find the remaining minutes.
+Use separate **print()** statements for each output.
+{{< /alert >}}
+Try it yourself
+
+{{< expand "Answer" >}}
+
+#### Explanation
+Here we have given 888 minutes so what we have to do is that we have to divide 888 minutes with an hour, what will happen is that we will get total number of hours and minutes.
+What we will do is that we will use `Quotient` & `Remainder` method where Quotient will give us numbers of hours and `Reminder` will give total numbers of minutes left out of 888 minutes
+
+#### Code
+```python
+print("hours: " + 888//60) # no. of hours from 888 minutes
+print("minute:" + 888%60) # no. of minutes left from last hour
+```
+
+#### Answer
+```
+hours: 14
+minutes: 48
+```
+So you get total 14 hours and 48 minutes from 888 minutes.
+Time for small code project.
+{{< /expand >}}
 ## Data Types
 
 - String = " (quotes) or " " (quotation marks) e. g. 'Python' or "Python!"
