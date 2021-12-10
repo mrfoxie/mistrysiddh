@@ -133,8 +133,33 @@ hours: 14
 minutes: 48
 ```
 So you get total 14 hours and 48 minutes from 888 minutes.
-Time for small code project.
 {{< /expand >}}
+
+### Code Project
+Flight Time
+You need to calculate the flight time of an upcoming trip. You are flying from LA to Sydney, covering a distance of 7425 miles, the plane flies at an average speed of 550 miles an hour.
+
+Calculate and output the total flight time in hours.
+
+Hint
+The result should be a float.
+{{< alert theme="warning" dir="ltr" >}}
+Use the **print()** statement to output the result.
+{{< /alert >}}
+{{< expand "Answer" >}}
+So in the question it is told that a flight can travel 550 miles in an single hour so simple answer will be total number of distance trave divided by total number of distance traveled in an hour
+
+#### Code
+```python
+print(float(7425/550))
+```
+
+#### Answer
+```python
+13.5 # it will take 13.5 hours to travel 7425 miles
+```
+I hope your getting along 
+{{</ expand >}}
 ## Data Types
 
 - String = " (quotes) or " " (quotation marks) e. g. 'Python' or "Python!"
