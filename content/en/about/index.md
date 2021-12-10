@@ -6,12 +6,9 @@ date = "2019-02-28"
 
 +++
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b116972-923c-4ad3-a0fa-f42f8c2c9934/deploy-status)](https://app.netlify.com/sites/mistrysiddh/deploys) ![Profile views](https://gpvc.arturio.dev/mrfoxie) ![Last Commit](https://img.shields.io/github/last-commit/mrfoxie/mistrysiddh) ![GitHub repo size](https://img.shields.io/github/repo-size/mrfoxie/mistrysiddh?color=green&style=for-the-badge) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fmistrysiddh.tk?color=green&style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mrfoxie/mistrysiddh?color=green&style=for-the-badge) [![GitHub license](https://img.shields.io/github/license/mrfoxie/mistrysiddh?style=for-the-badge)](https://github.com/mrfoxie/mistrysiddh/blob/master/LICENSE) [![Twitter](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FHacking_Tiger)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmrfoxie%2Fmistrysiddh) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfoxie%2Fmistrysiddh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Android](https://img.shields.io/badge/OS-Android-informational?logo=Android)](https://bit.ly/2Vch9gi)
-
-
 ### Hi there 👋, Mistry Siddh
 
-![](https://github.com/mrfoxie/mistrysiddh/blob/master/static/images/whoami/Banner.png)
+![](https://www.mistrysiddh.tk/images/whoami/Banner.png)
 
 I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
