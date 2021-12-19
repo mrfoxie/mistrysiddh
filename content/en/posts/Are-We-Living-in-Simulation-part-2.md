@@ -1,4 +1,4 @@
----
+    ---
 title: "Are We Living in Simulation Part 2"
 date: 2020-12-19T14:39:09+05:30
 description: "Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment; but you humans do not. Instead you multiply, and multiply, until every resource is consumed. The only way for you to survive is to spread to another area. There is another organism on this planet that follows the same pattern... a virus" 

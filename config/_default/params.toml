@@ -5,9 +5,9 @@ custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = "/images/whoami/avatar.png"
-themecolor = "#CCCCCC"
+themecolor = "#b42000"
 
-themeOptions = ["dark", "light", "solarized", "kimbie"]
+themeOptions = ["light", "dark", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume", "gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "talks", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
@@ -183,8 +183,8 @@ commento = false
 [[share]]
  name = "pinterest"
 #[[footerLinks]]
-#  name = "Muftsabazaar"
-#  link = "https://www.muftsabazaar.com"
+#  name = "Reddit"
+#  link = "https://www.reddit.com/r/MrBlogger_Offical/"
 [[footerLinks]]
   name = "HackerIdiot"
   link = "https://www.hackeridiot.com"
