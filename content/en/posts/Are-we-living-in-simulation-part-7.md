@@ -34,7 +34,7 @@ As in [part 1](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation/), w
 
 ## Are you human?
 
-Recently we got the news of The Matrix 4 Reconstruction release which shows us the different between real world and simualtion, in which it is been shown that the human were treated as if they are been presious to them. I don't know what will be they doing with human body come to think of that what is real.
+Recently we got the news of The Matrix 4 Reconstruction release which shows us the different between real world and simualtion, in which it is been shown that the human were treated as if they are been presious to them. I don't know what will be they doing with human body the were been repairing and connecting back to simulation.
 
 
 
