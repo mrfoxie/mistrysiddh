@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/presentation/</link>
+    <link>/presentation/</link>
     <description>Recent content in Presentations on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -17,17 +17,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Test</title>
-        <link>https://www.mistrysiddh.tk/presentation/test/</link>
+        <link>/presentation/test/</link>
         <pubDate>Sun, 04 Jul 2021 00:34:10 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 08 Jul 2021 11:12:41 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/presentation/test/</guid>
+        <guid>/presentation/test/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -53,15 +53,15 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://www.mistrysiddh.tk/presentation/dir/fourth/</link>
+        <link>/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 08 Jul 2021 11:12:41 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/presentation/dir/fourth/</guid>
+        <guid>/presentation/dir/fourth/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk//images/whoami/Banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="//images/whoami/Banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

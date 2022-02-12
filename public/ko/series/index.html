@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.498676c34eb225e85357ab0ce19c3c1244f3bd0bf595e5684d1b9d50ea4fbc42.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.efa35f4c090622130b3f4cfae6971448b5ffb61c5f0a8f21cdfd157fa712abc4.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -530,6 +530,8 @@
     var skinSolarizedCode = JSON.parse("\"solarized\"");
     
     var skinKimbieCode = JSON.parse("\"kimbie\"");
+    
+    var skinBloggerCode = JSON.parse("\"blogger\"");
 
     var setMetaColor = function(themeColor) {
       var metaMsapplicationTileColor = document.getElementsByName('msapplication-TileColor')[0];
@@ -576,6 +578,8 @@
         return 'solarized';
       } else if (themeText === skinKimbieCode) {
         return 'kimbie';
+      } else if (themeText === skinBloggerCode) {
+        return 'blogger';
       }
     }
     
@@ -651,9 +655,9 @@
 
   
     
-    var baseurl = JSON.parse("\"https://www.mistrysiddh.tk/\"");
+    var baseurl = JSON.parse("\"/\"");
     
-    var permalink = JSON.parse("\"https://www.mistrysiddh.tk/ko/series/\"");
+    var permalink = JSON.parse("\"/ko/series/\"");
     
     var langprefix = JSON.parse("\"/ko\"");
     var searchResults = null;
@@ -669,7 +673,7 @@
     
     var sectionType = JSON.parse("\"series\"");
     
-    var kind = JSON.parse("\"taxonomy\"");
+    var kind = JSON.parse("\"taxonomyTerm\"");
     
     var fuse = null;
 
@@ -1323,7 +1327,7 @@
 
 
     
-<link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://www.mistrysiddh.tk/ko/series/index.xml">
+<link rel="alternate" type="application/rss&#43;xml" title="RSS" href="/ko/series/index.xml">
 
 <meta name="description" content="Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post." />
 
@@ -1337,20 +1341,20 @@
 
 <meta property="og:site_name" content="Blogger 씨">
 <meta property="og:title" content="Series">
-<meta property="og:url" content="https://www.mistrysiddh.tk/ko/series/">
+<meta property="og:url" content="/ko/series/">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.">
 
   
-    <meta property="og:image" content="https://www.mistrysiddh.tk/images/whoami/avatar.png">
-    <meta property="og:image:url" content="https://www.mistrysiddh.tk/images/whoami/avatar.png">
+    <meta property="og:image" content="/images/whoami/avatar.png">
+    <meta property="og:image:url" content="/images/whoami/avatar.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="Blogger 씨">
     <meta property="twitter:title" content="Blogger 씨">
     <meta property="twitter:description" content="Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.">
   
 
-<meta name="generator" content="Hugo 0.85.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1359,7 +1363,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="https://www.mistrysiddh.tk/ko/series/">
+<link rel="canonical" href="/ko/series/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1369,21 +1373,22 @@
   
 
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
     <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "https://www.mistrysiddh.tk/ko/series/",
+    "url" : "/ko/series/",
     "name": "Series",
     "description": "Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://www.mistrysiddh.tk/"
+      "@id": "/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Blogger 씨",
-      "url": "https://www.mistrysiddh.tk/"
+      "url": "/"
     }
   }
 </script>
@@ -1402,6 +1407,7 @@ if (!doNotTrack) {
 	ga('send', 'pageview');
 }
 </script>
+
   
 <script type="application/javascript">
 var doNotTrack = false;
@@ -1460,15 +1466,15 @@ if (!doNotTrack) {
 
 <meta name="yandex-verification" content="cabeeec39b925e63" />
 
-
+<link rel="manifest" href="/manifest.json" />
 <script>
+    
     if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-            navigator.serviceWorker.register('/sw.js');
-        });
-    }
+        navigator.serviceWorker.register('sw.js');
+    };
 </script>
-
+    
+    <link rel="manifest" href="/manifest.json">
 </head>
 
 <body id="root" class="theme__light">
@@ -1485,16 +1491,16 @@ if (!doNotTrack) {
 
 
 
-        <div class="wrapper" data-type="series" data-kind="taxonomy">
+        <div class="wrapper" data-type="series" data-kind="taxonomyTerm">
             <nav class="navbar scrolling" role="navigation" aria-label="main navigation" data-dir="ltr">
   <div class="navbar__brand">
     
-    <a href="/ko/" title="홈페이지" rel="home" class="navbar__logo-link">
+    <a href="/ko" title="홈페이지" rel="home" class="navbar__logo-link">
       <img src="/images/whoami/avatar.png" alt="Home" class="navbar__logo">
     </a>
     
     
-      <a href="/ko/" title="홈페이지" rel="home" class="navbar__title-link">
+      <a href="/ko" title="홈페이지" rel="home" class="navbar__title-link">
         <h6 class="navbar__title">Mistry Siddh</h6>
       </a>
     
@@ -1655,28 +1661,24 @@ if (!doNotTrack) {
 
 <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
 
-
 <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-analytics.js"></script>
-
 <script>
-  
-  
-  var firebaseConfig = {
-    apiKey: "AIzaSyD_LWTt9IC-FScucV6QQrFONroelZiufeE",
-    authDomain: "mrblogger-fb0a3.firebaseapp.com",
-    projectId: "mrblogger-fb0a3",
-    storageBucket: "mrblogger-fb0a3.appspot.com",
-    messagingSenderId: "405358387366",
-    appId: "1:405358387366:web:a119bbe86ec5ad95251467",
-    measurementId: "G-CS2DMYGV7Z"
-  };
-  
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
+    
+    
+    var firebaseConfig = {
+        apiKey: "AIzaSyD_LWTt9IC-FScucV6QQrFONroelZiufeE",
+        authDomain: "mrblogger-fb0a3.firebaseapp.com",
+        projectId: "mrblogger-fb0a3",
+        storageBucket: "mrblogger-fb0a3.appspot.com",
+        messagingSenderId: "405358387366",
+        appId: "1:405358387366:web:a119bbe86ec5ad95251467",
+        measurementId: "G-CS2DMYGV7Z"
+    };
+    
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
 </script>
-
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="" data-description="Support me on Buy me a coffee!" data-message="" data-color="#b20000" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="mistrysiddh" data-description="Support me on Buy me a coffee!" data-message="" data-color="#bb2000" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
             <footer class="footer">
   
@@ -1797,7 +1799,7 @@ if (!doNotTrack) {
   
   
     
-      <a href="https://www.mistrysiddh.tk/ko/series//index.xml" type="application/rss+xml" title="RSS" aria-label="RSS Feed Link">
+      <a href="/ko/series//index.xml" type="application/rss+xml" title="RSS" aria-label="RSS Feed Link">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><circle fill="currentColor" cx="6.18" cy="17.82" r="2.18"/><path fill="currentColor" d="M5.59 10.23c-.84-.14-1.59.55-1.59 1.4 0 .71.53 1.28 1.23 1.4 2.92.51 5.22 2.82 5.74 5.74.12.7.69 1.23 1.4 1.23.85 0 1.54-.75 1.41-1.59-.68-4.2-3.99-7.51-8.19-8.18zm-.03-5.71C4.73 4.43 4 5.1 4 5.93c0 .73.55 1.33 1.27 1.4 6.01.6 10.79 5.38 11.39 11.39.07.73.67 1.28 1.4 1.28.84 0 1.5-.73 1.42-1.56-.73-7.34-6.57-13.19-13.92-13.92z"/></svg>
       </a>
     
@@ -1819,11 +1821,7 @@ if (!doNotTrack) {
     <div class="basicflex flexwrap">
         
             
-                <a href="https://www.muftsabazaar.com" class="footer__link" target="_blank" rel="noreferrer">Muftsabazaar</a>
-            
-        
-            
-                <a href="https://discord.gg/tfxN2Ws92Q" class="footer__link" target="_blank" rel="noreferrer">Discord</a>
+                <a href="https://www.hackeridiot.com" class="footer__link" target="_blank" rel="noreferrer">HackerIdiot</a>
             
         
     </div>
@@ -1855,13 +1853,11 @@ if (!doNotTrack) {
                 
             <p class="caption">
                 
-                    ©2021, All Rights Reserved
+                    ©2022, All Rights Reserved
                 
             </p>
         
 
-        
-            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> Hosted by <a href="http://github.com" target="_blank" rel="noreferrer">Github</a> Server Provided by <a href="https://netlify.com/" target="_blank" rel="noreferrer">Netlify</a></p>
         
         
     </div> 
@@ -1880,6 +1876,15 @@ if (!doNotTrack) {
 </div>
 
     </div>
+     <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('\/sw.js');
+            });
+        }
+    </script>
+
+
 </body>
 
 </html>

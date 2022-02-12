@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.498676c34eb225e85357ab0ce19c3c1244f3bd0bf595e5684d1b9d50ea4fbc42.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.efa35f4c090622130b3f4cfae6971448b5ffb61c5f0a8f21cdfd157fa712abc4.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -530,6 +530,8 @@
     var skinSolarizedCode = JSON.parse("\"solarized\"");
     
     var skinKimbieCode = JSON.parse("\"kimbie\"");
+    
+    var skinBloggerCode = JSON.parse("\"blogger\"");
 
     var setMetaColor = function(themeColor) {
       var metaMsapplicationTileColor = document.getElementsByName('msapplication-TileColor')[0];
@@ -576,6 +578,8 @@
         return 'solarized';
       } else if (themeText === skinKimbieCode) {
         return 'kimbie';
+      } else if (themeText === skinBloggerCode) {
+        return 'blogger';
       }
     }
     
@@ -651,9 +655,9 @@
 
   
     
-    var baseurl = JSON.parse("\"https://www.mistrysiddh.tk/\"");
+    var baseurl = JSON.parse("\"/\"");
     
-    var permalink = JSON.parse("\"https://www.mistrysiddh.tk/about/\"");
+    var permalink = JSON.parse("\"/about/\"");
     
     var langprefix = JSON.parse("\"\"");
     var searchResults = null;
@@ -1327,7 +1331,7 @@
 
 
 <meta name="created" content="2019-02-28T00:00:00&#43;0000">
-<meta name="modified" content="2021-07-20T22:18:39&#43;0530">
+<meta name="modified" content="2021-12-10T09:41:38&#43;0530">
 <meta property="article:published_time" content="2019-02-28T00:00:00&#43;0000">
 
 <meta name="author" content="Mistry Siddh">
@@ -1335,20 +1339,20 @@
 
 <meta property="og:site_name" content="Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.">
 <meta property="og:title" content="About Me">
-<meta property="og:url" content="https://www.mistrysiddh.tk/about/">
+<meta property="og:url" content="/about/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="Information Regarding author.">
 
   
-    <meta property="og:image" content="https://www.mistrysiddh.tk/images/whoami/avatar.png">
-    <meta property="og:image:url" content="https://www.mistrysiddh.tk/images/whoami/avatar.png">
+    <meta property="og:image" content="/images/whoami/avatar.png">
+    <meta property="og:image:url" content="/images/whoami/avatar.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.">
     <meta property="twitter:title" content="About Me">
     <meta property="twitter:description" content="Information Regarding author.">
   
 
-<meta name="generator" content="Hugo 0.85.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1357,7 +1361,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="https://www.mistrysiddh.tk/about/">
+<link rel="canonical" href="/about/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1367,23 +1371,24 @@
   
 
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
     <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "headline": "About Me",
     "datePublished": "2019-02-28T00:00:00Z",
-    "dateModified": "2021-07-20T22:18:39+05:30",
-    "url" : "https://www.mistrysiddh.tk/about/",
+    "dateModified": "2021-12-10T09:41:38+05:30",
+    "url" : "/about/",
     "description": "Information Regarding author.",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://www.mistrysiddh.tk/"
+      "@id": "/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.",
-      "url": "https://www.mistrysiddh.tk/"
+      "url": "/"
     }
   }
 </script>
@@ -1402,6 +1407,7 @@ if (!doNotTrack) {
 	ga('send', 'pageview');
 }
 </script>
+
   
 <script type="application/javascript">
 var doNotTrack = false;
@@ -1460,15 +1466,15 @@ if (!doNotTrack) {
 
 <meta name="yandex-verification" content="cabeeec39b925e63" />
 
-
+<link rel="manifest" href="/manifest.json" />
 <script>
+    
     if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-            navigator.serviceWorker.register('/sw.js');
-        });
-    }
+        navigator.serviceWorker.register('sw.js');
+    };
 </script>
-
+    
+    <link rel="manifest" href="/manifest.json">
 </head>
 
 <body id="root" class="theme__light">
@@ -1613,8 +1619,18 @@ if (!doNotTrack) {
 
       
         <li class="navbarm__menu--item ">
-          <a href="/showcase">Sites</a>
+          <a href="/">
+            More
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
+          </a>
         </li>
+
+        
+          <li class="navbarm__menu--item navbarm__menu--subitem">
+            <a href="/showcase">Sites</a>
+          </li>
+        
+
       
       
     
@@ -1716,7 +1732,18 @@ if (!doNotTrack) {
   
   
   
-  <a href="/showcase" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Sites</a>
+  <div class="navbar__dropdown navbar__slide-down" data-ani="true">
+    <a href="/" class="navbar__menu-item "
+      dir="ltr">
+      More
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
+    </a>
+    <div class="navbar__dropdown--content">
+      
+      <a href="/showcase" class="navbar__dropdown--item" dir="ltr">Sites</a>
+      
+    </div>
+  </div>
   
   
 </div>
@@ -1731,16 +1758,8 @@ if (!doNotTrack) {
 </header>
 <main class="main about">
   <article class="single__contents single__contents--about" data-dir="ltr" data-ani="true">
-    <p><a href="https://app.netlify.com/sites/mistrysiddh/deploys"><img src="https://api.netlify.com/api/v1/badges/5b116972-923c-4ad3-a0fa-f42f8c2c9934/deploy-status" alt="Netlify Status" /></a> <img src="https://gpvc.arturio.dev/mrfoxie" alt="Profile views" /> <img src="https://img.shields.io/github/last-commit/mrfoxie/mistrysiddh" alt="Last Commit" /> <img src="https://img.shields.io/github/repo-size/mrfoxie/mistrysiddh?color=green&amp;style=for-the-badge" alt="GitHub repo size" /> <img src="https://img.shields.io/security-headers?url=https%3A%2F%2Fmistrysiddh.tk?color=green&amp;style=for-the-badge" alt="Security Headers" /> <img src="https://img.shields.io/github/commit-activity/m/mrfoxie/mistrysiddh?color=green&amp;style=for-the-badge" alt="GitHub commit activity" /> <a href="https://github.com/mrfoxie/mistrysiddh/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mrfoxie/mistrysiddh?style=for-the-badge" alt="GitHub license" /></a> <a href="https://twitter.com/intent/tweet?text=Wow:&amp;url=https%3A%2F%2Fgithub.com%2Fmrfoxie%2Fmistrysiddh"><img src="https://img.shields.io/twitter/url?style=for-the-badge&amp;url=https%3A%2F%2Ftwitter.com%2FHacking_Tiger" alt="Twitter" /></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfoxie%2Fmistrysiddh&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" alt="Hits" /></a> <a href="https://bit.ly/2Vch9gi"><img src="https://img.shields.io/badge/OS-Android-informational?logo=Android" alt="Android" /></a></p>
-<h3 id="hi-there--mistry-siddh">Hi there 👋, Mistry Siddh</h3>
-<p><img src="https://github.com/mrfoxie/mistrysiddh/blob/master/static/images/whoami/Banner.png" alt="" /></p>
-<p>I&rsquo;m a blogger who loves to write conspiracy theories, NEWS, tips&amp;tricks, etc.</p>
-<ul>
-<li>🔭 I’m currently working on this page.</li>
-<li>📫 How to reach me: <a href="mailto:siddh.mistry396321@gmail.com">siddh.mistry396321@gmail.com</a></li>
-</ul>
-<p><a href="https://github.com/mrfoxie"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  <a href="https://www.linkedin.com/in/siddhmistry/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  <a href="https://www.facebook.com/tigersid1997"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>  <a href="https://www.instagram.com/mistrysiddh/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>  <a href="https://twitter.com/Hacking_Tiger"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>  <a href="https://hackeridiot.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a></p>
-<p><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </p>
+    <h3 id="hi-there--mistry-siddh">Hi there 👋, Mistry Siddh</h3>
+<p><img src="https://www.mistrysiddh.tk/images/whoami/Banner.png" alt="Banner" /></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfoxie" alt="Top Langs" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mrfoxie&amp;show_icons=true" alt="GitHub stats" /></p>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=mrfoxie" alt="GitHub Activity Graph" /></p>
@@ -1956,28 +1975,24 @@ if (!doNotTrack) {
 
 <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
 
-
 <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-analytics.js"></script>
-
 <script>
-  
-  
-  var firebaseConfig = {
-    apiKey: "AIzaSyD_LWTt9IC-FScucV6QQrFONroelZiufeE",
-    authDomain: "mrblogger-fb0a3.firebaseapp.com",
-    projectId: "mrblogger-fb0a3",
-    storageBucket: "mrblogger-fb0a3.appspot.com",
-    messagingSenderId: "405358387366",
-    appId: "1:405358387366:web:a119bbe86ec5ad95251467",
-    measurementId: "G-CS2DMYGV7Z"
-  };
-  
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
+    
+    
+    var firebaseConfig = {
+        apiKey: "AIzaSyD_LWTt9IC-FScucV6QQrFONroelZiufeE",
+        authDomain: "mrblogger-fb0a3.firebaseapp.com",
+        projectId: "mrblogger-fb0a3",
+        storageBucket: "mrblogger-fb0a3.appspot.com",
+        messagingSenderId: "405358387366",
+        appId: "1:405358387366:web:a119bbe86ec5ad95251467",
+        measurementId: "G-CS2DMYGV7Z"
+    };
+    
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
 </script>
-
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="" data-description="Support me on Buy me a coffee!" data-message="" data-color="#b20000" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="mistrysiddh" data-description="Support me on Buy me a coffee!" data-message="" data-color="#bb2000" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
             <footer class="footer">
   
@@ -2113,11 +2128,7 @@ if (!doNotTrack) {
     <div class="basicflex flexwrap">
         
             
-                <a href="https://www.muftsabazaar.com" class="footer__link" target="_blank" rel="noreferrer">Muftsabazaar</a>
-            
-        
-            
-                <a href="https://discord.gg/tfxN2Ws92Q" class="footer__link" target="_blank" rel="noreferrer">Discord</a>
+                <a href="https://www.hackeridiot.com" class="footer__link" target="_blank" rel="noreferrer">HackerIdiot</a>
             
         
     </div>
@@ -2149,13 +2160,11 @@ if (!doNotTrack) {
                 
             <p class="caption">
                 
-                    ©2021, All Rights Reserved
+                    ©2022, All Rights Reserved
                 
             </p>
         
 
-        
-            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> Hosted by <a href="http://github.com" target="_blank" rel="noreferrer">Github</a> Server Provided by <a href="https://netlify.com/" target="_blank" rel="noreferrer">Netlify</a></p>
         
         
     </div> 
@@ -2174,6 +2183,15 @@ if (!doNotTrack) {
 </div>
 
     </div>
+     <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('\/sw.js');
+            });
+        }
+    </script>
+
+
 </body>
 
 </html>

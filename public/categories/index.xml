@@ -7,28 +7,46 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 20 Jul 2021 14:22:15 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 10:34:48 +0530</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>Windows</title>
+        <link>/categories/windows/</link>
+        <pubDate>Fri, 20 Aug 2021 10:34:48 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/categories/windows/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Game</title>
-        <link>https://www.mistrysiddh.tk/categories/game/</link>
+        <link>/categories/game/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/game/</guid>
+        <guid>/categories/game/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -42,29 +60,11 @@
       
       <item>
         <title>technology</title>
-        <link>https://www.mistrysiddh.tk/categories/technology/</link>
+        <link>/categories/technology/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/technology/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Windows</title>
-        <link>https://www.mistrysiddh.tk/categories/windows/</link>
-        <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>https://www.mistrysiddh.tk/categories/windows/</guid>
+        <guid>/categories/technology/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Hacking</title>
-        <link>https://www.mistrysiddh.tk/categories/hacking/</link>
+        <link>/categories/hacking/</link>
         <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/hacking/</guid>
+        <guid>/categories/hacking/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>Industrial automation</title>
-        <link>https://www.mistrysiddh.tk/categories/industrial-automation/</link>
+        <link>/categories/industrial-automation/</link>
         <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/industrial-automation/</guid>
+        <guid>/categories/industrial-automation/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>website</title>
-        <link>https://www.mistrysiddh.tk/categories/website/</link>
+        <link>/categories/website/</link>
         <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/website/</guid>
+        <guid>/categories/website/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>Simulation</title>
-        <link>https://www.mistrysiddh.tk/categories/simulation/</link>
+        <link>/categories/simulation/</link>
         <pubDate>Mon, 21 Jun 2021 16:05:37 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/simulation/</guid>
+        <guid>/categories/simulation/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>robotics</title>
-        <link>https://www.mistrysiddh.tk/categories/robotics/</link>
+        <link>/categories/robotics/</link>
         <pubDate>Tue, 20 Apr 2021 20:43:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/robotics/</guid>
+        <guid>/categories/robotics/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -168,11 +168,11 @@
       
       <item>
         <title>Government</title>
-        <link>https://www.mistrysiddh.tk/categories/government/</link>
+        <link>/categories/government/</link>
         <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/government/</guid>
+        <guid>/categories/government/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -186,11 +186,11 @@
       
       <item>
         <title>Mind Control</title>
-        <link>https://www.mistrysiddh.tk/categories/mind-control/</link>
+        <link>/categories/mind-control/</link>
         <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/mind-control/</guid>
+        <guid>/categories/mind-control/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -204,11 +204,11 @@
       
       <item>
         <title>Simulations</title>
-        <link>https://www.mistrysiddh.tk/categories/simulations/</link>
+        <link>/categories/simulations/</link>
         <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/simulations/</guid>
+        <guid>/categories/simulations/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -222,11 +222,11 @@
       
       <item>
         <title>medical</title>
-        <link>https://www.mistrysiddh.tk/categories/medical/</link>
+        <link>/categories/medical/</link>
         <pubDate>Mon, 25 Jan 2021 15:41:52 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/medical/</guid>
+        <guid>/categories/medical/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -240,11 +240,11 @@
       
       <item>
         <title>vaccination</title>
-        <link>https://www.mistrysiddh.tk/categories/vaccination/</link>
+        <link>/categories/vaccination/</link>
         <pubDate>Mon, 25 Jan 2021 15:41:52 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/vaccination/</guid>
+        <guid>/categories/vaccination/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -258,11 +258,11 @@
       
       <item>
         <title>social media</title>
-        <link>https://www.mistrysiddh.tk/categories/social-media/</link>
+        <link>/categories/social-media/</link>
         <pubDate>Thu, 21 Jan 2021 14:54:38 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/social-media/</guid>
+        <guid>/categories/social-media/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -276,11 +276,11 @@
       
       <item>
         <title>Covid19</title>
-        <link>https://www.mistrysiddh.tk/categories/covid19/</link>
+        <link>/categories/covid19/</link>
         <pubDate>Thu, 24 Dec 2020 17:14:35 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/covid19/</guid>
+        <guid>/categories/covid19/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -294,11 +294,11 @@
       
       <item>
         <title>DDOS attack</title>
-        <link>https://www.mistrysiddh.tk/categories/ddos-attack/</link>
+        <link>/categories/ddos-attack/</link>
         <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/ddos-attack/</guid>
+        <guid>/categories/ddos-attack/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -312,11 +312,11 @@
       
       <item>
         <title>welcome</title>
-        <link>https://www.mistrysiddh.tk/categories/welcome/</link>
+        <link>/categories/welcome/</link>
         <pubDate>Sat, 12 Dec 2020 14:26:46 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/categories/welcome/</guid>
+        <guid>/categories/welcome/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

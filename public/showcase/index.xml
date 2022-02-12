@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/showcase/</link>
+    <link>/showcase/</link>
     <description>Recent content in Showcase overview on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/showcase/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Sites</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/</link>
+        <link>/showcase/sites/</link>
         <pubDate>Sun, 13 Dec 2020 17:28:57 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/</guid>
+        <guid>/showcase/sites/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Community</title>
-        <link>https://www.mistrysiddh.tk/showcase/community/</link>
+        <link>/showcase/community/</link>
         <pubDate>Fri, 11 Dec 2020 17:59:55 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/community/</guid>
+        <guid>/showcase/community/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Online Editor</title>
-        <link>https://www.mistrysiddh.tk/showcase/online-editor/</link>
+        <link>/showcase/online-editor/</link>
         <pubDate>Fri, 11 Dec 2020 17:23:05 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/online-editor/</guid>
+        <guid>/showcase/online-editor/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Learn</title>
-        <link>https://www.mistrysiddh.tk/showcase/learn/</link>
+        <link>/showcase/learn/</link>
         <pubDate>Fri, 11 Dec 2020 16:25:11 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sat, 12 Dec 2020 20:19:33 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/learn/</guid>
+        <guid>/showcase/learn/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>inventions on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/inventions/</link>
+    <link>/tags/inventions/</link>
     <description>Recent content in inventions on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/inventions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/inventions/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Agnikul Cosmos</title>
-        <link>https://www.mistrysiddh.tk/posts/agnikul-cosmos/</link>
+        <link>/agnikul-cosmos/</link>
         <pubDate>Mon, 29 Mar 2021 15:29:18 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 06 May 2021 23:34:30 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/agnikul-cosmos/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/agnikul-cosmos/</guid>
         <description>Agnikul &amp;ldquo;Agnikul” is a derivative of the Sanskrit word - “Gurukul” and it could be interpreted to mean “a place where people learn to use fire”. They are a group of enthusiasts, rocket scientists, engineers, programmers, lawyers, and more.
 First we will see little bit of information of 3D printer.
 3D Printer 3D printing, or additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model.</description>
@@ -42,13 +42,13 @@ First we will see little bit of information of 3D printer.
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/agnikul-cosmos.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/agnikul-cosmos.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 &lt;br /&gt;
 &amp;ldquo;Agnikul” is a derivative of the Sanskrit word - “Gurukul” and it could be interpreted to mean “a place where people learn to use fire”. They are a group of enthusiasts, rocket scientists, engineers, programmers, lawyers, and more.&lt;/p&gt;
 &lt;p&gt;First we will see little bit of information of 3D printer.&lt;/p&gt;
 &lt;h2 id=&#34;3d-printer&#34;&gt;3D Printer&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/3d_printer.jpg&#34; alt=&#34;3D Printer&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/3d_printer.jpg&#34; alt=&#34;3D Printer&#34; /&gt;&lt;br /&gt;
 3D printing, or additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model. The term &amp;ldquo;3D printing&amp;rdquo; can refer to a variety of processes in which material is deposited, joined or solidified under computer control to create a three-dimensional object, with material being added together (such as plastics, liquids or powder grains being fused together), typically layer by layer.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-3d-printer&#34;&gt;What is 3D Printer?&lt;/h3&gt;
 &lt;p&gt;3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced cross-section of the object. 3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine. 3D printing enables you to produce complex shapes using less material than traditional manufacturing methods.&lt;/p&gt;
@@ -98,7 +98,7 @@ Going to space shouldn’t be the hardest part of utilizing, living in or workin
 &lt;p&gt;Technology is eveloving day by day we don&amp;rsquo;t know what&amp;rsquo;s will the next invention will be done by human being no one can predict, also not that the technology has reach to that level that we can create own hyperdrive and travel through gallaxys in the space from one to anther.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/agnikul-cosmos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/agnikul-cosmos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

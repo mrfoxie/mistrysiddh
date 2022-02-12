@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Comics on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/gallery/</link>
+    <link>/gallery/</link>
     <description>Recent content in Comics on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,22 +18,22 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Capital Ranger</title>
-        <link>https://www.mistrysiddh.tk/gallery/roboto-02/</link>
+        <link>/gallery/roboto-02/</link>
         <pubDate>Sun, 31 Jan 2021 16:36:43 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 31 Jan 2021 23:53:05 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/gallery/roboto-02/</guid>
+        <guid>/gallery/roboto-02/</guid>
         <description></description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/gallery/Roboto-02/ROBOTO_comic_02-1.jpg&#34; alt=&#34;Capital Raanger&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/gallery/Roboto-02/ROBOTO_comic_02-1.jpg&#34; alt=&#34;Capital Raanger&#34; /&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/gallery/Roboto-02/ROBOTO_comic_02-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/gallery/Roboto-02/ROBOTO_comic_02-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -43,16 +43,16 @@
       
       <item>
         <title>Engineer VS Robot</title>
-        <link>https://www.mistrysiddh.tk/gallery/roboto-01/</link>
+        <link>/gallery/roboto-01/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/gallery/roboto-01/</guid>
+        <guid>/gallery/roboto-01/</guid>
         <description>Click on image to read offline</description>
-        <content:encoded>&lt;p&gt;&lt;a href=&#34;https://www.mistrysiddh.tk/files/ROBOTO_comic_01.pdf&#34;&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/gallery/Roboto-01/ROBOTO_comic_01-1.jpg&#34; alt=&#34;Engineer VS Robot&#34; /&gt;&lt;/a&gt;&lt;strong&gt;Click on image to read offline&lt;/strong&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;a href=&#34;/files/ROBOTO_comic_01.pdf&#34;&gt;&lt;img src=&#34;/gallery/Roboto-01/ROBOTO_comic_01-1.jpg&#34; alt=&#34;Engineer VS Robot&#34; /&gt;&lt;/a&gt;&lt;strong&gt;Click on image to read offline&lt;/strong&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/gallery/Roboto-01/ROBOTO_comic_01-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/gallery/Roboto-01/ROBOTO_comic_01-1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

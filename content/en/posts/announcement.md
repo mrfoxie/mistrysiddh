@@ -9,7 +9,7 @@ enableTocContent: false
 author: Siddh Mistry
 authorEmoji: 🤯
 url: /announcement/
-pinned: true
+pinned: false
 image: /images/posts/play-store.jpg
 tags:
   - null

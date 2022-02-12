@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>windows 1 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
+    <link>/tags/windows-1/</link>
+    <description>Recent content in windows 1 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 10:34:48 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/tags/windows-1/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Uninstall Edge</title>
+        <link>/remove-edge-completely/</link>
+        <pubDate>Fri, 20 Aug 2021 10:34:48 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Fri, 20 Aug 2021 12:46:11 +0530</atom:modified>
+        <guid>/remove-edge-completely/</guid>
+        <description>&lt;div class=&#34;featured-image__wrapper&#34;&gt;
+    &lt;img src=&#34;/images/posts/uninstall-edge.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;This goes over Removing Microsoft Edge Chromium edition and keeping it removed.&lt;/p&gt;</description>
+        <content:encoded>&lt;div class=&#34;featured-image__wrapper&#34;&gt;
+    &lt;img src=&#34;/images/posts/uninstall-edge.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;This goes over Removing Microsoft Edge Chromium edition and keeping it removed.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Microsoft Edge has taken over PDF viewer, and other default web tasks. Even when manually removing it will reinstall via windows updates.&lt;/p&gt;
+&lt;h2 id=&#34;removing-the-base-install&#34;&gt;Removing the Base Install&lt;/h2&gt;
+&lt;p&gt;We first need to find the Edge install of the chromium edition in your Program Files.&lt;/p&gt;
+&lt;p&gt;Location:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C:\Program Files (x86)\Microsoft\Edge\Application\
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The setup program is what we need to uninstall edge. Go to the location above and drill down from the number and Install folder&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.62\Installer
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once you find your path you can now uninstall edge with the following command &lt;em&gt;(Note: YOURS WILL BE DIFFERENT!)&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.62\Installer\setup.exe --uninstall --system-level --verbose-logging --force-uninstall
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;keep-it-from-coming-back-for-now&#34;&gt;Keep it from coming back&amp;hellip; for now&lt;/h2&gt;
+&lt;p&gt;You now need to add a registry entry. The following location &lt;code&gt;Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\EdgeUpdate&lt;/code&gt; needs to be added with a DWORD called &lt;code&gt;DoNotUpdateToEdgeWithChromium&lt;/code&gt; with a value of &lt;code&gt;1&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;You can do this with a simply reg file. (&lt;code&gt;stopedge.reg&lt;/code&gt;)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\EdgeUpdate]
+&amp;quot;DoNotUpdateToEdgeWithChromium&amp;quot;=dword:00000001
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create this file or download the file @ &lt;a href=&#34;https://www.mistrysiddh.tk/files/stopedge.zip&#34;&gt;https://www.mistrysiddh.tk/files/stopedge.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Run this to prevent edge reinstallation. &lt;em&gt;Note: Microsoft will kill this workaround in the future and force edge on you&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mr-blogger&#34;&gt;Mr. Blogger&lt;/h2&gt;
+&lt;h3 id=&#34;podcast&#34;&gt;Podcast&lt;/h3&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/show/6p14uYsO8NtWD8tM3wEd4o&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram - &lt;a href=&#34;https://instagram.com/mistrysiddh&#34;&gt;https://instagram.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github - &lt;a href=&#34;https://guthub.com/mrfoxie&#34;&gt;https://guthub.com/mrfoxie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin - &lt;a href=&#34;https://www.linkedin.com/in/SiddhMistry/&#34;&gt;https://www.linkedin.com/in/SiddhMistry/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Whatsapp - &lt;a href=&#34;https://api.whatsapp.com/send?phone=916355040470&amp;amp;text=http%3A%2F%2Fmistrysiddh.tk%2F&#34;&gt;Message Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord - &lt;a href=&#34;https://discord.gg/bPrBSbQ2W4&#34;&gt;https://discord.gg/bPrBSbQ2W4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;donation&#34;&gt;Donation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Paypal - &lt;a href=&#34;https://paypal.me/mistrysiddh&#34;&gt;https://paypal.me/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Patreon - &lt;a href=&#34;https://www.patreon.com/siddhmistry&#34;&gt;https://www.patreon.com/siddhmistry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buymeacoffee - &lt;a href=&#34;https://www.buymeacoffee.com/mistrysiddh&#34;&gt;https://www.buymeacoffee.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;play-store&#34;&gt;Play Store&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2Vch9gi&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="/images/posts/uninstall-edge.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>windows 1</category>
+            
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

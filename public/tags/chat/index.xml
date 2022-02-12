@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Chat on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/chat/</link>
+    <link>/tags/chat/</link>
     <description>Recent content in Chat on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/chat/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/chat/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>WhatsApp Responds to Indian Govt&#39;s Letter to Withdraw Privacy Policy</title>
-        <link>https://www.mistrysiddh.tk/posts/whatsapp-responds-to-indian-govts-letter-to-withdraw-privacy-policy/</link>
+        <link>/whatsapp-responds-to-indian-government/</link>
         <pubDate>Thu, 21 Jan 2021 14:54:38 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 24 Jan 2021 17:33:19 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/whatsapp-responds-to-indian-govts-letter-to-withdraw-privacy-policy/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/whatsapp-responds-to-indian-government/</guid>
         <description>On Tuesday, the Ministry of Electronics and Information Technology (MeitY) sent a letter to WhatsApp CEO Will Cathcart stating that the new privacy policy “raise grave concerns regarding the implications for the choice and autonomy of Indian citizens.” MeitY also asked the messaging platform to withdraw the changes and “reconsider its approach to information privacy, freedom of choice and data security.”
 Facebook-owned messaging platform has finally responded to the Indian government.</description>
         <content:encoded>
@@ -54,7 +54,7 @@ Facebook-owned messaging platform has finally responded to the Indian government
 &lt;p&gt;The messaging platform previously set the deadline for accepting the updated privacy policy as February 8. The deadline of accepting the policy has been extended further to May 15. This means if you are unable to accept the updated WhatsApp privacy policy by this time you will lose access to your account.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -100,15 +100,15 @@ Facebook-owned messaging platform has finally responded to the Indian government
       
       <item>
         <title>Whatsapp Is Updating Its Terms and Privacy Policy</title>
-        <link>https://www.mistrysiddh.tk/posts/whatsapp-is-updating-its-terms-and-privacy-policy/</link>
+        <link>/whatsapp-updating-terms-and-policies/</link>
         <pubDate>Mon, 11 Jan 2021 18:18:30 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 24 Jan 2021 17:33:19 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/whatsapp-is-updating-its-terms-and-privacy-policy/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/whatsapp-updating-terms-and-policies/</guid>
         <description>Key Update  Last modified: January 04, 2021
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’ve built our services with a set of strong privacy principles in mind. In our updated Terms of Service and Privacy Policy you’ll find:
  Additional Information On How We Handle Your Data. Our updated Terms and Privacy Policy provide more information on how we process your data, and our commitment to privacy.</description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/talks/whatsapp.png&#34; alt=&#34;Whatsapp&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/talks/whatsapp.png&#34; alt=&#34;Whatsapp&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;key-update&#34;&gt;Key Update&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Last modified: January 04, 2021&lt;/p&gt;
@@ -130,9 +130,9 @@ Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’
 &lt;p&gt;So, shouldn’t the government step in and protect its citizens from this gross violation? In reality, in a rule-based governance system, there is little that the government can do based on the current regulations. The Personal Data Privacy Act essentially says that if you give consent to share your data, then there is nothing illegal that the company is doing and the government cannot do anything about it. If you do not want to give consent to share your data, then you are free to quit WhatsApp. The current regulations do not factor in the Network Effect and hence the unfair trade practices emerging from the Network Effect. This is similar to the big builders getting the gullible customers to sign on large detailed agreements for buying their expensive apartments, where the terms of the agreements are completely one-sided, in favour of the builders. The government did change the regulations under RERA to ensure that the builders cannot dictate such unfair terms to the buyers. It is about time that we extend a similar regulation to the digital world, where digital services that have become a necessity and have become a digital monopoly, cannot impose unfair terms on the citizens of India.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
-        <media:content url="https://www.mistrysiddh.tk/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="/https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

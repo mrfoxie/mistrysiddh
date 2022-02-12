@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>new site on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/new-site/</link>
+    <link>/tags/new-site/</link>
     <description>Recent content in new site on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/new-site/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/new-site/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Creating a Website on Raspberry Pi at home</title>
-        <link>https://www.mistrysiddh.tk/posts/pi-site/</link>
+        <link>/create-own-website-at-home/</link>
         <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 18 Jul 2021 23:12:37 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/pi-site/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/create-own-website-at-home/</guid>
         <description>Overview This is perfect for setting up your first website and learning not only administering a wordpress site, but learning Linux. You will need a Raspberry Pi, a couple hours, and a computer to download the image on. The Raspberry Pi (RPI) is a perfect device for learning these things.
 Also check out the official projects site from RaspberryPi
 Source: https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress
@@ -135,7 +135,7 @@ sudo nano /etc/apache2/sites-available/000-default.conf
 &lt;p&gt;&lt;a href=&#34;https://bit.ly/2Vch9gi&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -183,11 +183,11 @@ sudo nano /etc/apache2/sites-available/000-default.conf
       
       <item>
         <title>Changing Site</title>
-        <link>https://www.mistrysiddh.tk/posts/transfer_site/</link>
+        <link>/blogger-to-hugo/</link>
         <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/transfer_site/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/blogger-to-hugo/</guid>
         <description>What is Wordpress? WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes.
 Example of wordpress admin panel
 Wordpress is the most leading CMS (Content management system) right now in current generation there are also many similar to wordpress.
@@ -205,7 +205,7 @@ List of other CMS:  Wix (most flexible designs) Weebly (extremely easy) Jimdo (A
 &lt;/ol&gt;
 &lt;p&gt;There are many site which are running this CMS top popular site to non-popular sites, small scale developer to large scale developer. My first site was also a blog which was hosted on &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress&lt;/a&gt; which had limited function after then i found a free hosting server where i manually hosted my site but due to server went down i stopped developing my site.&lt;/p&gt;
 &lt;p&gt;There are many plugin and theme for the sites to customize the way you want also there are some plugins which are payable but give you customize the way you want. It has a large archive or you can say storage of plugins, theme etc. This type of hosting has many disadvantage and many advantages depending on which type of hosting you want. &lt;a href=&#34;https://remote.softaculous.com/&#34;&gt;Softaculous&lt;/a&gt; is a software which is been used by hosting provider to install different types of forums, blog, portal/CMS, wikis, mail, e-commerce, frameworks etc.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/softaculous.png&#34; alt=&#34;Softaculous&#34; /&gt;&lt;strong&gt;Softaculous script install panel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/softaculous.png&#34; alt=&#34;Softaculous&#34; /&gt;&lt;strong&gt;Softaculous script install panel&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;pros--cons&#34;&gt;Pros &amp;amp; Cons&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -230,7 +230,7 @@ List of other CMS:  Wix (most flexible designs) Weebly (extremely easy) Jimdo (A
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;what-is-headless-cms&#34;&gt;What is headless CMS?&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/headless-cms.jpg&#34; alt=&#34;Headless CMS&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/headless-cms.jpg&#34; alt=&#34;Headless CMS&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A headless content management system, or headless CMS, is a back-end only content management system built from the ground up as a content repository that makes content accessible via an API for display on any device. The term “headless” comes from the concept of chopping the “head” off the “body”.&lt;/p&gt;
 &lt;h3 id=&#34;what-does-headless-cms-mean&#34;&gt;What does headless CMS mean?&lt;/h3&gt;
 &lt;p&gt;It’s like a shop with no front window. There are customers inside and cashiers processing orders but you can’t see that from the outside. That’s how a headless CMS works. It&amp;rsquo;s a traditional CMS (such as Drupal or Wordpress) without a frontend. The page designs are built using a frontend framework and the data from these headless CMS systems is exposed so that the frontend can grab the data and use it there instead.&lt;/p&gt;
@@ -270,7 +270,7 @@ For instance, you may have wanted a custom CMS created with a React-powered back
 &lt;/table&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

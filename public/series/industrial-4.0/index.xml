@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Industrial 4.0 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/series/industrial-4.0/</link>
+    <link>/series/industrial-4.0/</link>
     <description>Recent content in Industrial 4.0 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/series/industrial-4.0/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/series/industrial-4.0/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Nanotechnology</title>
-        <link>https://www.mistrysiddh.tk/posts/nanotechnology/</link>
+        <link>/nanotechnology/</link>
         <pubDate>Tue, 20 Apr 2021 20:43:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 06 May 2021 23:34:30 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/nanotechnology/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/nanotechnology/</guid>
         <description>What is Nanotechnology? Nanotechnology is science, engineering, and technology conducted at the nanoscale, which is about 1 to 100 nanometers. Nanoscience and nanotechnology are the study and application of extremely small things and can be used across all the other science fields, such as chemistry, biology, physics, materials science, and engineering. It is the leading technology in the world where all the material are been made on the nanoscale level, you must have not been noticed that Microcontroller which we are using in our circuits and much more applications are been made up to the nanoscale level which is called VLSI Very Large Scale Integration.</description>
         <content:encoded>&lt;h2 id=&#34;what-is-nanotechnology&#34;&gt;What is Nanotechnology?&lt;/h2&gt;
 &lt;p&gt;
@@ -40,7 +40,7 @@
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/nanotechnology.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/nanotechnology.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 &lt;br /&gt;
 Nanotechnology is science, engineering, and technology conducted at the nanoscale, which is about 1 to 100 nanometers. Nanoscience and nanotechnology are the study and application of extremely small things and can be used across all the other science fields, such as chemistry, biology, physics, materials science, and engineering. It is the leading technology in the world where all the material are been made on the nanoscale level, you must have not been noticed that &lt;code&gt;Microcontroller&lt;/code&gt; which we are using in our circuits and much more applications are been made up to the nanoscale level which is called &lt;code&gt;VLSI&lt;/code&gt; Very Large Scale Integration. Nanotechnology is also called nanotech.&lt;/p&gt;
@@ -140,7 +140,7 @@ Nanotechnology is science, engineering, and technology conducted at the nanoscal
 &lt;/table&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/nanotechnology.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/nanotechnology.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

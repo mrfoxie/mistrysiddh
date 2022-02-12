@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Sites on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/showcase/sites/</link>
+    <link>/showcase/sites/</link>
     <description>Recent content in Sites on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/showcase/sites/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/showcase/sites/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Flutter</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/flutter/</link>
+        <link>/showcase/sites/flutter/</link>
         <pubDate>Sun, 17 Jan 2021 12:38:36 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 24 Jan 2021 17:33:19 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/flutter/</guid>
+        <guid>/showcase/sites/flutter/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Canva</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/canva/</link>
+        <link>/showcase/sites/canva/</link>
         <pubDate>Sun, 17 Jan 2021 12:28:47 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 24 Jan 2021 17:33:19 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/canva/</guid>
+        <guid>/showcase/sites/canva/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Uplabs</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/uplabs/</link>
+        <link>/showcase/sites/uplabs/</link>
         <pubDate>Sun, 17 Jan 2021 12:33:04 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 24 Jan 2021 17:33:19 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/uplabs/</guid>
+        <guid>/showcase/sites/uplabs/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Awwwards</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/awwwards/</link>
+        <link>/showcase/sites/awwwards/</link>
         <pubDate>Tue, 15 Dec 2020 18:11:38 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/awwwards/</guid>
+        <guid>/showcase/sites/awwwards/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>Hacker News</title>
-        <link>https://www.mistrysiddh.tk/showcase/sites/hacker-news/</link>
+        <link>/showcase/sites/hacker-news/</link>
         <pubDate>Tue, 15 Dec 2020 18:19:12 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Sun, 17 Jan 2021 12:42:43 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/sites/hacker-news/</guid>
+        <guid>/showcase/sites/hacker-news/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

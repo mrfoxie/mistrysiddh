@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Industry 4.0 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/series/industry-4.0/</link>
+    <link>/series/industry-4.0/</link>
     <description>Recent content in Industry 4.0 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/series/industry-4.0/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/series/industry-4.0/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Robotics</title>
-        <link>https://www.mistrysiddh.tk/posts/robotics/</link>
+        <link>/robotics/</link>
         <pubDate>Tue, 13 Apr 2021 15:02:14 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 06 May 2021 23:34:30 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/robotics/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/robotics/</guid>
         <description>Robotics Robotics is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions. As you have seen in the movie such as I robot, wall-e, Transformer etc. where robots are been there. As time passes technology also evolves not also that it gets smatter and smatter also.
 What is a Robot? A robot is the product of the robotics field, where programmable machines are built that can assist humans or mimic human actions.</description>
         <content:encoded>
@@ -40,16 +40,16 @@ What is a Robot? A robot is the product of the robotics field, where programmabl
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/robotics.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/robotics.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;h2 id=&#34;robotics&#34;&gt;Robotics&lt;/h2&gt;
 &lt;p&gt;Robotics is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions. As you have seen in the movie such as I robot, wall-e, Transformer etc. where robots are been there. As time passes technology also evolves not also that it gets smatter and smatter also.&lt;/p&gt;
 &lt;h3 id=&#34;what-is-a-robot&#34;&gt;What is a Robot?&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/robotic-arm.jpg&#34; alt=&#34;Robotic Arm&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/robotic-arm.jpg&#34; alt=&#34;Robotic Arm&#34; /&gt;&lt;br /&gt;
 A robot is the product of the robotics field, where programmable machines are built that can assist humans or mimic human actions. Robots were originally built to handle monotonous tasks (like building cars on an assembly line), but have since expanded well beyond their initial uses to perform tasks like fighting fires, cleaning homes and assisting with incredibly intricate surgeries. Each robot has a differing level of autonomy, ranging from human-controlled bots that carry out tasks that a human has full control over to fully-autonomous bots that perform tasks without any external influences.&lt;/p&gt;
 &lt;h3 id=&#34;characteristics&#34;&gt;Characteristics&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/robot.jpg&#34; alt=&#34;Robot Characteristics&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/robot.jpg&#34; alt=&#34;Robot Characteristics&#34; /&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Robots all consist of some sort of mechanical construction. The mechanical aspect of a robot helps it complete tasks in the environment for which it’s designed. For example, the Mars 2020 Rover’s wheels are individually motorized and made of titanium tubing that help it firmly grip the harsh terrain of the red planet.&lt;/li&gt;
 &lt;li&gt;Robots need electrical components that control and power the machinery. Essentially, an electric current (a battery, for example) is needed to power a large majority of robots.&lt;/li&gt;
@@ -62,21 +62,21 @@ Robots contain at least some level of computer programming. Without a set of cod
 &lt;p&gt;According to the International Federation of Robotics, 1.3 million industrial robots will be in use by 2018. Robotics continues to emerge as a large and influential market.&lt;/p&gt;
 &lt;p&gt;The following five industries are utilizing this new technology to boost efficiency and convenience for both businesses and consumers.&lt;/p&gt;
 &lt;h4 id=&#34;1-health-care&#34;&gt;1. Health Care&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/surgical-robot.jpg&#34; alt=&#34;Surgical Robot&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/surgical-robot.jpg&#34; alt=&#34;Surgical Robot&#34; /&gt;&lt;br /&gt;
 Advances in robotics have the potential to change a wide variety of health care practices, such as surgery, rehabilitation, therapy, patient companionship, and everyday activities. Robotic instruments used in health care are not designed to take over the duties of health care professionals, but rather to make their work easier.&lt;/p&gt;
 &lt;p&gt;The da Vinci Surgical System, for example, utilizes the hand movements of the operating surgeon to control tiny, precise instruments inside the patient’s body. This allows for minimally invasive procedures in surgeries such as cardiac, colorectal, gynecologic, head and neck, thoracic, and urologic.&lt;/p&gt;
 &lt;p&gt;For patients who have suffered strokes or spinal cord injuries, or who are paralyzed, robotic devices such as exoskeletons have the ability to assist and guide them during rehabilitation. In addition, robotic lifting machines can help nurses lift patients who are elderly or immobile. Companion and therapeutic robots such as Paro can also comfort patients with mental health issues with a system of sensors, microphones, and cameras.&lt;/p&gt;
 &lt;h4 id=&#34;2-agriculture&#34;&gt;2. Agriculture&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/farm-robots.jpg&#34; alt=&#34;Farm Robots&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/farm-robots.jpg&#34; alt=&#34;Farm Robots&#34; /&gt;&lt;br /&gt;
 To help increase productivity while lowering overall costs, the agriculture industry has been actively working to adopt different forms of robotic technology. Farmers have already been using tractors and harvesters that are self-guided by GPS. Recently, there has been a rise in the experimental use of autonomous systems that automate operations like pruning, thinning, mowing, spraying, and weed removal. Sensor technology is also being utilized to manage pests and diseases that affect crops.&lt;/p&gt;
 &lt;h4 id=&#34;3-food-preparation&#34;&gt;3. Food Preparation&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/food-robots.jpg&#34; alt=&#34;Food line robot&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/food-robots.jpg&#34; alt=&#34;Food line robot&#34; /&gt;&lt;br /&gt;
 One of the more extravagant advancements in robot technology will soon be available in the kitchen. Automated and intelligent robots — such as those invented by Moley Robotics — will be able to prepare and cook hundreds of meals in a home kitchen. This robotic chef will be controlled via a smartphone, and once the controller chooses a recipe and arranges pre-packaged containers of cut and prepared ingredients, the robot will be able to cook the predetermined meal quickly and efficiently. Moley Robotics is also developing a consumer-friendly version of a robot kitchen, which will include a built-in smart dishwasher and refrigerator.&lt;/p&gt;
 &lt;h4 id=&#34;4-manufacturing&#34;&gt;4. Manufacturing&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/industrial-robot.jpg&#34; alt=&#34;Manufacturing&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/industrial-robot.jpg&#34; alt=&#34;Manufacturing&#34; /&gt;&lt;br /&gt;
 Robotics are being used in many aspects of manufacturing to help increase productivity and efficiency while lowering production costs. Similar to the health care industry, many robots in manufacturing collaborate with workers to perform repetitive, monotonous, or intricate tasks under the worker’s guidance and control. With these machines, precision is valued more than speed, as is the ability to be reprogrammed for specific tasks of different sizes and complexities. Robotic manufacturing technology is also becoming safer to operate. Cameras, sensors, and automatic shut-off capabilities enable robots to sense and stay clear of humans in the workplace.&lt;/p&gt;
 &lt;h4 id=&#34;5-military&#34;&gt;5. Military&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/ArmyGroundRobot.jpg&#34; alt=&#34;Army Ground Robot&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/ArmyGroundRobot.jpg&#34; alt=&#34;Army Ground Robot&#34; /&gt;&lt;br /&gt;
 In the military and public safety sectors, robotic technology is being applied in many areas. One highly visible area involves unmanned drones. These machines can be used for surveillance and support operations on the battlefield. Military drones flying over areas of war and conflict, in hostage situations, and for natural and manmade disasters are able to assess danger levels and provide soldiers and first responders with real-time information. Drones are revolutionizing disaster response since they can access hazardous areas with greater speed and precision without placing human responders in harm’s way.&lt;/p&gt;
 &lt;p&gt;Robotic devices are already establishing a wide presence in several commercial industries. As robotic technologies become more affordable, they will soon be available in various forms for consumers as well, with the ability to impact our lives in countless ways.&lt;/p&gt;
 &lt;h3 id=&#34;pros--cons&#34;&gt;Pros &amp;amp;&amp;amp; Cons&lt;/h3&gt;
@@ -145,8 +145,8 @@ In the military and public safety sectors, robotic technology is being applied i
 &lt;p&gt;So there are advantages, but there are disadvantages as well. It is the twenty first century and we cannot work without machines.&lt;/p&gt;
 &lt;p&gt;Humans are still considered far more efficient than robots when it comes to decision making powers, handling difficult situations, brainstorming, and generally bringing a sense of emotion and empathy into a workplace.&lt;/p&gt;
 </content:encoded>
-        <dc:creator>Technovision</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/robotics.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>Siddh Mistr</dc:creator>
+        <media:content url="/images/posts/robotics.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

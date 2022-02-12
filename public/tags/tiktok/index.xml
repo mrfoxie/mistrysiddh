@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tiktok on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/tiktok/</link>
+    <link>/tags/tiktok/</link>
     <description>Recent content in Tiktok on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,20 +18,20 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Facebook Rivals TikTok With Its Just Launched Collab Music App</title>
-        <link>https://www.mistrysiddh.tk/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</link>
+        <link>/facebook-launches-collab-music-app/</link>
         <pubDate>Tue, 15 Dec 2020 15:45:57 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/facebook-rivals-tiktok-with-its-just-launched-collab-music-app/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/facebook-launches-collab-music-app/</guid>
         <description>Facebook has officially announced its Collab app, which the social media platform previously launched as an experiment. To recall, Facebook started testing Collab, an invite-only beta, back in the month of May this year. TechCrunch was the first to report about the official launch of Collab.
 It is said that with Collab, the social media giant wants to take on the likes of TikTok, one of the most popular short video apps available globally.</description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/collab.png&#34; alt=&#34;Collab&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/posts/collab.png&#34; alt=&#34;Collab&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Facebook has officially announced its Collab app, which the social media platform previously launched as an experiment. To recall, Facebook started testing Collab, an invite-only beta, back in the month of May this year. TechCrunch was the first to report about the official launch of Collab.&lt;/p&gt;
 &lt;p&gt;It is said that with Collab, the social media giant wants to take on the likes of TikTok, one of the most popular short video apps available globally. Just as TikTok, Collab allows users to create short music videos by combining up to three independent videos. &lt;/p&gt;
 &lt;p&gt;While the idea behind Collab is similar to TikTok, there are some differences as well. The app will allow users to club three different videos together and also let them post individual videos on the platform. These videos will be visible to a public &amp;ldquo;Collab&amp;rdquo; feed where users can view and play along with them.&lt;/p&gt;
@@ -40,7 +40,7 @@ It is said that with Collab, the social media giant wants to take on the likes o
 &lt;p&gt;Recently, we have seen Facebook launched Instagram Reels in India alongside a few other markets to take on the likes of TikTok. Reels has gained wide popularity in the country and partly been able to replace TikTok. Notably, Reels is a part of the main Instagram app and it isn&amp;rsquo;t a separate application.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/collab.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/collab.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

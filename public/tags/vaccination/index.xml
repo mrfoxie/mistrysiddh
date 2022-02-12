@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>vaccination on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/vaccination/</link>
+    <link>/tags/vaccination/</link>
     <description>Recent content in vaccination on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Coronavirus News LIVE Updates: US Cases Top 25 Million</title>
-        <link>https://www.mistrysiddh.tk/posts/coronavirus-news-live-updates/</link>
+        <link>/us-cases-top-25-million/</link>
         <pubDate>Mon, 25 Jan 2021 15:41:52 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/coronavirus-news-live-updates/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/us-cases-top-25-million/</guid>
         <description>Coronavirus News LIVE Updates: Tata in Talks to Launch Moderna Covid-19 Vaccine in India; US Cases Top 25 Million Coronavirus News LIVE Updates: Tata Medical &amp;amp; Diagnostics is said to have started initial discussions with Moderna Inc for a partnership to launch its COVID-19 vaccine in India, the Economic Times reported today. Tata could team up with the India&amp;rsquo;s Council of Scientific &amp;amp; Industrial Research (CSIR) to carry out clinical trials of Moderna&amp;rsquo;s vaccine candidate in India, the report added, citing officials familiar with the matter.</description>
         <content:encoded>&lt;h2 id=&#34;coronavirus-news-live-updates-tata-in-talks-to-launch-moderna-covid-19-vaccine-in-india-us-cases-top-25-million&#34;&gt;Coronavirus News LIVE Updates: Tata in Talks to Launch Moderna Covid-19 Vaccine in India; US Cases Top 25 Million&lt;/h2&gt;
 
@@ -40,11 +40,11 @@
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/biden-pres.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/biden-pres.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;p&gt;Coronavirus News LIVE Updates: Tata Medical &amp;amp; Diagnostics is said to have started initial discussions with Moderna Inc for a partnership to launch its COVID-19 vaccine in India, the Economic Times reported today. Tata could team up with the India&amp;rsquo;s Council of Scientific &amp;amp; Industrial Research (CSIR) to carry out clinical trials of Moderna&amp;rsquo;s vaccine candidate in India, the report added, citing officials familiar with the matter. The Indian government this month gave emergency-use approval to a COVID-19 vaccine developed by Bharat Biotech International Ltd and state-run Indian Council of Medical Research, and another licensed from Oxford University and AstraZeneca PLC that is being manufactured by the Serum Institute of India.&lt;/p&gt;
-&lt;p&gt;The number of coronavirus cases in the United States crossed 25 million on Sunday, a Reuters tally showed, as states accelerate their vaccine distribution and more infectious strains are found globally. States including North Dakota and West Virginia have injected more than 83% of their allocated doses into residents&#39; arms, according to data from the Centers for Disease Control and Prevention released on Sunday. Virginia administered the fewest doses, with 42% of the vaccines received. The United States has administered at least 21.8 million doses of COVID vaccines, to about 6% of its population. The two vaccines currently approved also require a second dose. Alaska leads the vaccine administration tally, with about 13% of its population vaccinated, followed by West Virginia, with 11%.&lt;/p&gt;
+&lt;p&gt;The number of coronavirus cases in the United States crossed 25 million on Sunday, a Reuters tally showed, as states accelerate their vaccine distribution and more infectious strains are found globally. States including North Dakota and West Virginia have injected more than 83% of their allocated doses into residents&amp;rsquo; arms, according to data from the Centers for Disease Control and Prevention released on Sunday. Virginia administered the fewest doses, with 42% of the vaccines received. The United States has administered at least 21.8 million doses of COVID vaccines, to about 6% of its population. The two vaccines currently approved also require a second dose. Alaska leads the vaccine administration tally, with about 13% of its population vaccinated, followed by West Virginia, with 11%.&lt;/p&gt;
 &lt;p&gt;President Joe Biden will announce he is re-imposing a Covid-19 travel ban on most non-US citizens who have been in Britain, Brazil, Ireland and much of Europe, a White House official said Sunday, as the new administration ramps up its pandemic response. Biden will also extend the ban to travelers who have recently been to South Africa amid warnings that new, more transmissible coronavirus variants are already establishing themselves in the United States, the official said, confirming US media reports.&lt;/p&gt;
 &lt;p&gt;Meanwhile, Israel on Sunday announced a week-long ban on most incoming and outgoing flights in a bid to slow the spread of new variants of the novel coronavirus. The measure will begin at midnight from Monday into Tuesday and remain in effect until Sunday, a statement from the prime minister&amp;rsquo;s office said. Exceptions will be made for cargo and firefighting flights, as well as trips for medical treatments, funerals and legal procedures. A panel of health and interior ministry officials will be able to issue exemptions on request &amp;ldquo;for humanitarian or personal needs&amp;rdquo;, the statement said.&lt;/p&gt;
 &lt;p&gt;The decision came with the country in its third national coronavirus lockdown, initiated late December and extended on Tuesday until the end of the month due to a surge in Covid-19 deaths. Earlier Sunday, Prime Minister Benjamin Netanyahu had announced his government&amp;rsquo;s intention to close the airport, as variants of the coronavirus have been detected in rising numbers.&lt;/p&gt;
@@ -53,7 +53,7 @@
 &lt;p&gt;Variants from South Africa and Britain have also been found in Israel. Since the rollout of vaccinations last month, more than 2.5 million of Israel&amp;rsquo;s nine-million-strong population have been vaccinated, according to the health ministry. On Saturday, Israel began vaccinating teens aged 16-18, who need to sit final high school exams.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/biden-pres.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/biden-pres.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -89,16 +89,16 @@
       
       <item>
         <title>Facing new outbreaks, China places over 22 million on lockdown</title>
-        <link>https://www.mistrysiddh.tk/posts/china-places-on-lockdown/</link>
+        <link>/china-lockdown/</link>
         <pubDate>Thu, 14 Jan 2021 13:20:27 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Fri, 15 Jan 2021 14:05:53 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/china-places-on-lockdown/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/china-lockdown/</guid>
         <description>By Steven Lee Myers
 When a handful of new coronavirus cases materialized this month in a province surrounding Beijing — apparently spread at a village wedding party — Chinese authorities bolted into action.
 They locked down two cities with more than 17 million people, Shijiazhuang and Xingtai. They ordered a crash testing regime of nearly every resident there, which was completed in a matter of days.
  They shut down transportation and canceled weddings, funerals</description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/lockdown.jpg&#34; alt=&#34;China&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/posts/lockdown.jpg&#34; alt=&#34;China&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;By Steven Lee Myers&lt;/strong&gt;&lt;br /&gt;
 When a handful of new coronavirus cases materialized this month in a province surrounding &lt;code&gt;Beijing&lt;/code&gt; — apparently spread at a village wedding party — Chinese authorities bolted into action.&lt;/p&gt;
 &lt;p&gt;They &lt;code&gt;locked down&lt;/code&gt; two cities with more than &lt;code&gt;17 million people&lt;/code&gt;, &lt;code&gt;Shijiazhuang and Xingtai&lt;/code&gt;. They ordered a crash testing regime of nearly every resident there, which was completed in a matter of days.&lt;/p&gt;
@@ -150,7 +150,7 @@ When a handful of new coronavirus cases materialized this month in a province su
 &lt;/blockquote&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/china-lockdown.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/china-lockdown.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -186,14 +186,14 @@ When a handful of new coronavirus cases materialized this month in a province su
       
       <item>
         <title>Bharat Biotech’s intranasal COVID-19 vaccine &#39;BBV154&#39;</title>
-        <link>https://www.mistrysiddh.tk/posts/bharat-biotechs-intranasal-covid-19-vaccine-bbv154/</link>
+        <link>/covid-19_vaccine/</link>
         <pubDate>Sun, 10 Jan 2021 15:02:59 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 10 Jan 2021 15:26:56 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/bharat-biotechs-intranasal-covid-19-vaccine-bbv154/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/covid-19_vaccine/</guid>
         <description>What you need to know about Bharat Biotech’s intranasal COVID-19 vaccine &amp;lsquo;BBV154&amp;rsquo;? Hyderabad: Bharat Biotech on Friday announced that it will begin the phase1 clinical trials of its new intranasal vaccine for the novel coronavirus (SARS-CoV-2) in February-March this year. The development came days after the Hyderabad-based firm received the Drugs Controller General of India’s (DCGI) nod for its COVID-19 vaccine Covaxin. Covaxin, which is India’s first indigenously developed COVID-19 vaccine, has been given restricted (emergency use) approval for use along with Serum Institute’s Covishield developed by the Oxford University in collaboration with AstraZeneca.</description>
         <content:encoded>&lt;h2 id=&#34;what-you-need-to-know-about-bharat-biotechs-intranasal-covid-19-vaccine-bbv154&#34;&gt;What you need to know about Bharat Biotech’s intranasal COVID-19 vaccine &amp;lsquo;BBV154&amp;rsquo;?&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/nasal-vaccine-against-covid-19.jpg&#34; alt=&#34;Vaccination&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/nasal-vaccine-against-covid-19.jpg&#34; alt=&#34;Vaccination&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Hyderabad&lt;/code&gt;: Bharat Biotech on Friday announced that it will begin the phase1 clinical trials of its new intranasal vaccine for the novel coronavirus (&lt;code&gt;SARS-CoV-2&lt;/code&gt;) in February-March this year. The development came days after the Hyderabad-based firm received the &lt;code&gt;Drugs Controller General of India’s (DCGI)&lt;/code&gt; nod for its COVID-19 vaccine &lt;code&gt;Covaxin&lt;/code&gt;. Covaxin, which is India’s first indigenously developed COVID-19 vaccine, has been given restricted (emergency use) approval for use along with &lt;code&gt;Serum Institute’s Covishield&lt;/code&gt; developed by the &lt;code&gt;Oxford University&lt;/code&gt; in collaboration with &lt;code&gt;AstraZeneca&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Earlier in September, &lt;code&gt;Bharat Biotech&lt;/code&gt; announced that it has partnered with &lt;code&gt;Washington University School&lt;/code&gt; of Medicine in &lt;code&gt;St Louis&lt;/code&gt; for a novel &lt;code&gt;intranasal coronavirus vaccine (BBV154)&lt;/code&gt;. The phase 1 human clinical trials of the nasal COVID-19 vaccine will be &lt;code&gt;conducted in India&lt;/code&gt; and &lt;code&gt;Saint Louis University’s Vaccine&lt;/code&gt; and &lt;code&gt;Treatment Evaluation Unit&lt;/code&gt;. And here’s what we know so far about the company’s intranasal COVID-19 vaccine.&lt;/p&gt;
 &lt;h3 id=&#34;bbv154-to-be-a-single-dose-regimen&#34;&gt;BBV154 to be a single-dose regimen&lt;/h3&gt;
@@ -212,7 +212,7 @@ When a handful of new coronavirus cases materialized this month in a province su
 &lt;p&gt;Meanwhile, &lt;code&gt;Bharat Biotech&lt;/code&gt; has successfully completed &lt;code&gt;enrollment of 25,800 volunteers&lt;/code&gt; for the crucial, phase 3 trials of Covaxin developed indigenously in partnership with the &lt;code&gt;Indian Council of Medical Research (ICMR)&lt;/code&gt; - &lt;code&gt;National Institute of Virology (NIV)&lt;/code&gt;. The vaccine innovator said &lt;code&gt;Covaxin&lt;/code&gt; is a highly purified and &lt;code&gt;inactivated 2-dose&lt;/code&gt; COVID-19 vaccine, manufactured in a &lt;code&gt;Vero cell&lt;/code&gt; manufacturing platform with an excellent safety track record of more than &lt;code&gt;300 million doses&lt;/code&gt;.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/nasal-vaccine-against-covid-19.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/nasal-vaccine-against-covid-19.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -248,11 +248,11 @@ When a handful of new coronavirus cases materialized this month in a province su
       
       <item>
         <title>India Approves Two Vaccine Candidates but Let&#39;s Not Pretend Everything Is Okay</title>
-        <link>https://www.mistrysiddh.tk/posts/india-approves-two-vaccine-candidates-but-lets-not-pretend-everything-is-okay/</link>
+        <link>/india-approved-vaccination/</link>
         <pubDate>Mon, 04 Jan 2021 14:22:07 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 10 Jan 2021 15:26:56 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/india-approves-two-vaccine-candidates-but-lets-not-pretend-everything-is-okay/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/india-approved-vaccination/</guid>
         <description>Vaccination Approved In a short, eight-minute statement at 11 am on January 3, the Drug Controller General of India (DCGI) Dr V.G. Somani announced that his office had authorised two COVID-19 vaccine candidates for restricted use in the country. With the statement, India officially stood at the cusp of one of the world’s largest vaccination drives. But while the moment is suffused with hope, it will pay to remember at all times what exactly will happen from today: not a well-understood or well-planned event, and still hinged – for all the celebration of the science – on good luck.</description>
         <content:encoded>&lt;h2 id=&#34;vaccination-approved&#34;&gt;Vaccination Approved&lt;/h2&gt;
 &lt;p&gt;In a short, eight-minute statement at 11 am on January 3, the Drug Controller General of India (DCGI) Dr V.G. Somani announced that his office had authorised two COVID-19 vaccine candidates for restricted use in the country. With the statement, India officially stood at the cusp of one of the world’s largest vaccination drives. But while the moment is suffused with hope, it will pay to remember at all times what exactly will happen from today: not a well-understood or well-planned event, and still hinged – for all the celebration of the science – on good luck.&lt;/p&gt;
@@ -289,7 +289,7 @@ When a handful of new coronavirus cases materialized this month in a province su
 &lt;p&gt;In the richer west, vaccine-makers’ attitude seems to be “what’s there to hide”. But in India, and other similar ‘developing countries’, it’s “what’s there to see”. This is why stakeholders – which is practically everyone – must ask more questions and seek more clarity about how vaccine candidates are being approved and sold in India. ‘Cancelling’ those who disagree would be tantamount to ‘cancelling’ ourselves.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/COVIshield.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/COVIshield.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -325,29 +325,29 @@ When a handful of new coronavirus cases materialized this month in a province su
       
       <item>
         <title>Mutant Coronavirus Stain</title>
-        <link>https://www.mistrysiddh.tk/posts/mutant-coronavirus-stain/</link>
+        <link>/mutant-corona/</link>
         <pubDate>Thu, 24 Dec 2020 17:14:35 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/mutant-coronavirus-stain/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/mutant-corona/</guid>
         <description>New Coronavirus Strain As the world is set to welcome the New Year 2020, as the new corona virus strain which was been identified in United Kingdom (UK) which created a panic and worry all around the globe. Due to this all the researches had been scratching there head because there are nearly about 5 variant or types of corona virus where some of it only effect children&amp;rsquo;s and kill them in a week before the reports comes, and some type are effects human body parts and destroys it completely.</description>
         <content:encoded>&lt;h2 id=&#34;new-coronavirus-strain&#34;&gt;New Coronavirus Strain&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/vacine.jpg&#34; alt=&#34;Vacine&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/vacine.jpg&#34; alt=&#34;Vacine&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;As the world is set to welcome the New Year 2020, as the new corona virus strain which was been identified in &lt;code&gt;United Kingdom (UK)&lt;/code&gt; which created a panic and worry all around the globe. Due to this all the researches had been scratching there head because there are nearly about 5 variant or types of corona virus where some of it only effect children&amp;rsquo;s and kill them in a week before the reports comes, and some type are effects human body parts and destroys it completely. This mutant variant of the virus alarmed all the expert&amp;rsquo;s as well as Health and Safety departments.&lt;/p&gt;
 &lt;h3 id=&#34;about-new-strain&#34;&gt;About new strain&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/corona-testing.jpg&#34; alt=&#34;corona testing&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/corona-testing.jpg&#34; alt=&#34;corona testing&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;New COVID variant of the &lt;code&gt;SARS-COV-2&lt;/code&gt; virus has been termed as &lt;code&gt;VUI-202012/01&lt;/code&gt;, and its said to be &lt;code&gt;70% more contagious&lt;/code&gt; than the already existing one. In London and other part of the UK, this virus is evolving itself according to environment such as living plants.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/evolve-plants.jpg&#34; alt=&#34;Evolving Plants&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/evolve-plants.jpg&#34; alt=&#34;Evolving Plants&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This plants evolve according to the current situation of the growing world where we continually pollute environment in various way: air, water, trees land etc. even Mother Nature is finding it&amp;rsquo;s way to survive from the pollution created by the human being. We cut thousands of tree&amp;rsquo;s everyday, burn thousands of fuel and create global warming situation where ice of North Pole and South Pole are been melting also due to global warming ozone layer is been defeated due to that ultraviolet rays are entering into earth atmosphere, polluting oceans and rivers due to which many sea creatures has found dead on sea cost and beaches and not also that some fishes are forced to live in that polluted environment. We human being are the only one creatures who can talk and express it&amp;rsquo;s feeling to each others.&lt;/p&gt;
 &lt;h3 id=&#34;initial-case&#34;&gt;Initial Case&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/london_england.jpg&#34; alt=&#34;London England&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/london_england.jpg&#34; alt=&#34;London England&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Around &lt;code&gt;Mid December&lt;/code&gt; this year in &lt;code&gt;UK&lt;/code&gt; there were new strain of CoronaVirus virus has been confirmed due to which the authorities announced that it was &lt;code&gt;OUT OF CONTROL&lt;/code&gt;, however  expect believed that the virus had been around from September itself but was not been spotted as &lt;code&gt;there were no large-scale infection&lt;/code&gt;, according to report &lt;code&gt;nearly about 60 percent&lt;/code&gt; people were been infected by the new strain of CoronaVirus.&lt;/p&gt;
 &lt;h3 id=&#34;reporting-country&#34;&gt;Reporting Country&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/world-map.jpg&#34; alt=&#34;World Map&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/world-map.jpg&#34; alt=&#34;World Map&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Infections related to the new COVID-19 strain are, at present, heavily concentrated in the UK, resulting in several countries to temporarily suspend the arrival of citizens from the region. A number of cases have also been reported in South Africa, Denmark, Netherlands, Australia and Italy, while France recently suspected that the new variant might have entered the Western European country as well. &lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/coronavirus-mutations.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/coronavirus-mutations.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -379,15 +379,15 @@ When a handful of new coronavirus cases materialized this month in a province su
       
       <item>
         <title>CoronaVirus Reaches End of Earth as Outbreak Hits Antartica</title>
-        <link>https://www.mistrysiddh.tk/posts/coronavirus-reaches-end-of-earth-as-outbreak-hits-antartica/</link>
+        <link>/corona-virus-at-the-end-of-earth/</link>
         <pubDate>Wed, 23 Dec 2020 14:16:47 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 10 Jan 2021 15:26:56 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/coronavirus-reaches-end-of-earth-as-outbreak-hits-antartica/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/corona-virus-at-the-end-of-earth/</guid>
         <description>Corona Reaches to Antarctica Finally Covid-19 has landed in Antarctica said by Chile&#39;s military this week, as health and army officials scrambled to clear out and quarantine staff from remote research station surrounded by ocean and icebergs.
 Army force said at least 36 people has been infected at it&amp;rsquo;s Bernardo O&amp;rsquo;Higgins base, including 26 army personnel and 10 civilian contractors conducting maintenance at the base
 The permanently staffed research station, operated by Chile&amp;rsquo;s army, lies near the tip of a Peninsula in Northernmost Antarctica, overlooking a bay often dotted with icebergs.</description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/antartica.jpg&#34; alt=&#34;Antarctica&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/posts/antartica.jpg&#34; alt=&#34;Antarctica&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;corona-reaches-to-antarctica&#34;&gt;Corona Reaches to Antarctica&lt;/h2&gt;
 &lt;p&gt;Finally Covid-19 has landed in &lt;code&gt;Antarctica&lt;/code&gt; said by &lt;code&gt;Chile&#39;s military&lt;/code&gt; this week, as health and army officials scrambled to clear out and quarantine staff from remote research station surrounded by ocean and icebergs.&lt;/p&gt;
 &lt;p&gt;Army force said at least &lt;code&gt;36 people&lt;/code&gt; has been infected at it&amp;rsquo;s Bernardo O&amp;rsquo;Higgins base, including &lt;code&gt;26 army personnel&lt;/code&gt; and &lt;code&gt;10 civilian&lt;/code&gt; contractors conducting maintenance at the base&lt;/p&gt;
@@ -397,7 +397,7 @@ The permanently staffed research station, operated by Chile&amp;rsquo;s army, li
 &lt;p&gt;Researchers with the British Antarctic Survey estimate about &lt;code&gt;1,000 people&lt;/code&gt; at &lt;code&gt;38 stations&lt;/code&gt; across the frozen continent had safely navigated the southern hemisphere winter without incident. But an uptick in travel to and from the region this spring and early summer have heightened infection risk.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/covid_19_100x100.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/covid_19_100x100.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -433,21 +433,21 @@ The permanently staffed research station, operated by Chile&amp;rsquo;s army, li
       
       <item>
         <title>COVID 19 Vaccination in US a &#39;Miracle&#39;: White House</title>
-        <link>https://www.mistrysiddh.tk/posts/covid-19-vaccination-in-us-a-miracle-white-house/</link>
+        <link>/covid-19_miracle/</link>
         <pubDate>Wed, 16 Dec 2020 12:52:43 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/covid-19-vaccination-in-us-a-miracle-white-house/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/covid-19_miracle/</guid>
         <description>The development and distribution of COVID-19 vaccine in such a short span of time is a &amp;ldquo;miracle&amp;rdquo;, the White House has said, slamming a section of the US media for deriding President Donald Trump for promising Americans that the vaccine would be available by the end of this year.
 US pharmaceutical giant Pfizer began shipping the first batches of its long-awaited and newly-authorised coronavirus vaccine out of a Michigan warehouse on Sunday, setting in motion the biggest vaccination drive in American history.</description>
-        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/white-house.jpg&#34; alt=&#34;white-house&#34; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/posts/white-house.jpg&#34; alt=&#34;white-house&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The development and distribution of COVID-19 vaccine in such a short span of time is a &amp;ldquo;miracle&amp;rdquo;, the White House has said, slamming a section of the US media for deriding President Donald Trump for promising Americans that the vaccine would be available by the end of this year.&lt;/p&gt;
 &lt;p&gt;US pharmaceutical giant Pfizer began shipping the first batches of its long-awaited and newly-authorised coronavirus vaccine out of a Michigan warehouse on Sunday, setting in motion the biggest vaccination drive in American history.&lt;/p&gt;
 &lt;p&gt;The vaccine is offering hope in the fight against the COVID-19 pandemic that has killed over 300,000 Americans and infected 16 million people across the country. Johnnie Peoples, a 43-year-old survival flight nurse, became the first person to receive the vaccine at the University of Michigan Medical Center in Ann Arbor on Monday.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Yesterday, the United States witnessed a medical miracle: The first doses of a COVID-19 vaccine were administered to frontline workers across the country. The President promised a safe and effective vaccine in record time, and President Trump delivered,&amp;rdquo; White House Press Secretary Kayleigh McEnany told reporters at a news conference on Tuesday.&lt;/p&gt;
 &lt;p&gt;These are vaccines that he oversaw the development of, he has great confidence in, she said, adding that Trump wants to see all Americans get this vaccine, with the most vulnerable getting it first.&lt;/p&gt;
 &lt;p&gt;article, she said.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;We were told, according to Healthline, quote, a vaccine will &amp;lsquo;still take more than a year to develop&amp;rsquo;. USA Today warned us that, quote, &amp;lsquo;despite medical researchers&amp;rsquo; progress&#39;, a vaccine, quote, was &amp;lsquo;more than a year away&amp;rsquo;. And National Geographic even told us that achieving a vaccine within, quote, &amp;lsquo;a year to 18 months would be absolutely unprecedented&amp;rsquo;. These reports deserve their own fact check: false,&amp;rdquo; she said.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;We were told, according to Healthline, quote, a vaccine will &amp;lsquo;still take more than a year to develop&amp;rsquo;. USA Today warned us that, quote, &amp;lsquo;despite medical researchers&amp;rsquo; progress&amp;rsquo;, a vaccine, quote, was &amp;lsquo;more than a year away&amp;rsquo;. And National Geographic even told us that achieving a vaccine within, quote, &amp;lsquo;a year to 18 months would be absolutely unprecedented&amp;rsquo;. These reports deserve their own fact check: false,&amp;rdquo; she said.&lt;/p&gt;
 &lt;p&gt;Trump has not only been an optimist to achieve a vaccine by the year&amp;rsquo;s end, but he has also been a leader, McEnany said.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Through Operation Warp Speed, Trump, the businessman, and the President, as the innovator, has succeeded,&amp;rdquo; she asserted.&lt;/p&gt;
 &lt;p&gt;Trump directed military logistics experts at the Department of Defense to partner with health experts at Health and Human Services to ensure prompt delivery of vaccines and equipment, she said.&lt;/p&gt;
@@ -459,7 +459,7 @@ US pharmaceutical giant Pfizer began shipping the first batches of its long-awai
 &lt;p&gt;The Trump administration led the way, approving monoclonal antibody treatments for outpatient use, issuing two emergency use authorisations in November. &amp;ldquo;Additionally, through HHS&amp;rsquo;s Office of the Assistant Secretary for Preparedness and Response, monoclonal antibody patient courses have been allocated to all 50 states. Together, these steps can play a significant role, changing the course of this virus. Thank you to President Trump,&amp;rdquo; she said.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/vaccination.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/vaccination.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

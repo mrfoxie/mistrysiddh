@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Community on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/showcase/community/</link>
+    <link>/showcase/community/</link>
     <description>Recent content in Community on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/showcase/community/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/showcase/community/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Stack Overflow</title>
-        <link>https://www.mistrysiddh.tk/showcase/community/stack_overflow/</link>
+        <link>/showcase/community/stack_overflow/</link>
         <pubDate>Fri, 11 Dec 2020 18:03:19 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/community/stack_overflow/</guid>
+        <guid>/showcase/community/stack_overflow/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Ask Ubuntu</title>
-        <link>https://www.mistrysiddh.tk/showcase/community/askubuntu/</link>
+        <link>/showcase/community/askubuntu/</link>
         <pubDate>Fri, 11 Dec 2020 18:08:43 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/community/askubuntu/</guid>
+        <guid>/showcase/community/askubuntu/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>Stack Exchange</title>
-        <link>https://www.mistrysiddh.tk/showcase/community/stackexchange/</link>
+        <link>/showcase/community/stackexchange/</link>
         <pubDate>Fri, 11 Dec 2020 18:12:17 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         <atom:modified>Thu, 28 Jan 2021 13:31:58 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/showcase/community/stackexchange/</guid>
+        <guid>/showcase/community/stackexchange/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

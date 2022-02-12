@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Game on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/categories/game/</link>
+    <link>/categories/game/</link>
     <description>Recent content in Game on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/categories/game/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/game/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Guiscracpy</title>
-        <link>https://www.mistrysiddh.tk/posts/guiscrcpy/</link>
+        <link>/netflix-screencast-on-mobile-plan/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Wed, 21 Jul 2021 10:35:32 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/guiscrcpy/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/netflix-screencast-on-mobile-plan/</guid>
         <description>Requirement  Android Phone Data cable Scrcpy - https://github.com/Genymobile/scrcpy Guiscrcpy - https://github.com/srevinsaju/guiscrcpy  Enabling Usb debugging First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap Settings &amp;gt; About Device &amp;gt; Software information (or System in some Android version) &amp;gt; Android version and then you can know which Android version your phone have on.</description>
         <content:encoded>
 
@@ -39,7 +39,7 @@
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;h2 id=&#34;requirement&#34;&gt;Requirement&lt;/h2&gt;
@@ -55,17 +55,17 @@
 &lt;p&gt;Now connect your phone with your desktop.&lt;/p&gt;
 &lt;h2 id=&#34;guiscrcpy--scrcpy-installation&#34;&gt;Guiscrcpy &amp;amp; Scrcpy installation&lt;/h2&gt;
 &lt;p&gt;Goto &lt;a href=&#34;https://github.com/srevinsaju/guiscrcpy/releases/tag/continuous&#34;&gt;Guiscrcpy release&lt;/a&gt; and scrcpy files and place it in one folder like this&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/m8KuMHCCeA.png&#34; alt=&#34;Guiscrcpy &amp; scrcpy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/m8KuMHCCeA.png&#34; alt=&#34;Guiscrcpy &amp; scrcpy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Extract all the file of scrcpy*.zip into a folder after doing that open Guiscrcpy. It will ask you to locate &lt;code&gt;scrcpy.exe&lt;/code&gt; no go into the extraced folder and select &lt;code&gt;scrcpy.exe&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/e2GmICGlGd.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/cjqDYpptso.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/moSrWxBbhA.png&#34; alt=&#34;Guiscrcpy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/e2GmICGlGd.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/cjqDYpptso.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/posts/moSrWxBbhA.png&#34; alt=&#34;Guiscrcpy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;After doing that connect your phone to your device and &lt;code&gt;Start Scrcpy&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/AFjGGRSe3F.png&#34; alt=&#34;Screencasting phone&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/AFjGGRSe3F.png&#34; alt=&#34;Screencasting phone&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations&lt;/strong&gt; now you can cast you screen on your laptop or Desktop.&lt;/p&gt;
 &lt;h2 id=&#34;watch-netflix-movie-on-larger-screen-with-mobile-plan-top-secret&#34;&gt;Watch Netflix Movie on larger screen with mobile plan (Top Secret)&lt;/h2&gt;
 &lt;video width=&#34;100%&#34; height=&#34;250&#34; controls&gt;
-    &lt;source src=&#34;https://www.mistrysiddh.tk/videos/Screencast_Netflix.mkv&#34;&gt;
+    &lt;source src=&#34;/videos/Screencast_Netflix.mkv&#34;&gt;
 &lt;/video&gt;
 &lt;p&gt;Use this method to trick your friends. Enjoy&lt;/p&gt;
 &lt;h2 id=&#34;mr-blogger&#34;&gt;Mr. Blogger&lt;/h2&gt;
@@ -89,7 +89,7 @@
 &lt;p&gt;&lt;a href=&#34;https://bit.ly/2Vch9gi&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -153,23 +153,23 @@
       
       <item>
         <title>PUBG Mobile India Launch: Watch Out, Don&#39;t Let These Fake Download Links Lure You</title>
-        <link>https://www.mistrysiddh.tk/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</link>
+        <link>/pubg-mobile/</link>
         <pubDate>Mon, 14 Dec 2020 21:15:27 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sun, 03 Jan 2021 15:18:55 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/pubg-mobile-india-launch-watch-out-dont-let-these-fake-download-links-lure-you/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/pubg-mobile/</guid>
         <description>Pubg Mobile India Launch News PUBG Mobile India Launch: PUBG Mobile India has confirmed that it will be back for Battle Royale fans in India but hold your horses - PUBG Corporation has said it is not likely to launch the popular game any time before February 2021. So, the APK download links for PUBG Mobile India that have been spotted online are fake.
 Fake links of PUBG can be dangerous as it can damage your mobile phones.</description>
         <content:encoded>&lt;h2 id=&#34;pubg-mobile-india-launch-news&#34;&gt;Pubg Mobile India Launch News&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/pubg-mobile.jpg&#34; alt=&#34;PUBG&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/pubg-mobile.jpg&#34; alt=&#34;PUBG&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PUBG Mobile India Launch:&lt;/strong&gt; PUBG Mobile India has confirmed that it will be back for Battle Royale fans in India but hold your horses - PUBG Corporation has said it is not likely to launch the popular game any time before February 2021. So, the APK download links for PUBG Mobile India that have been spotted online are &lt;strong&gt;fake&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Fake links of PUBG can be dangerous as it can damage your mobile phones. Several users have fallen prey after finding third-party APK mirror files on the internet. Needless to say, these are not genuine and may even contain malware that could steal user data without your knowledge.&lt;/p&gt;
-&lt;p&gt;Amid growing speculation, PUBG Corporation has asked users to have patience. The company said it will maximise data security for to ensure that its players&#39; data is safe and adhere to the local regulations.&lt;/p&gt;
+&lt;p&gt;Amid growing speculation, PUBG Corporation has asked users to have patience. The company said it will maximise data security for to ensure that its players&amp;rsquo; data is safe and adhere to the local regulations.&lt;/p&gt;
 &lt;p&gt;PUBG was among 118 Chinese mobile applications banned by the government in September this year. The government had said these apps &amp;ldquo;are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;However, last month, PUBG Corp got its fans excited after it permission from the government to relaunch in the country and announced the return of the Indian version of the Battle Royale game.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/pubg-mobile.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/pubg-mobile.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

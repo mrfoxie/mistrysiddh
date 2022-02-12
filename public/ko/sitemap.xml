@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.mistrysiddh.tk/ko/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/ko/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.mistrysiddh.tk/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.mistrysiddh.tk/ko/"
+                href="/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://www.mistrysiddh.tk/ko/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/ko/categories/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.mistrysiddh.tk/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.mistrysiddh.tk/ko/categories/"
+                href="/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.mistrysiddh.tk/ko/series/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/ko/series/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.mistrysiddh.tk/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.mistrysiddh.tk/ko/series/"
+                href="/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>https://www.mistrysiddh.tk/ko/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/ko/tags/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.mistrysiddh.tk/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.mistrysiddh.tk/ko/tags/"
+                href="/ko/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.mistrysiddh.tk/ko/true/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/ko/true/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.mistrysiddh.tk/true/"
+                href="/true/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.mistrysiddh.tk/ko/true/"
+                href="/ko/true/"
                 />
   </url>
   

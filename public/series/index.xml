@@ -7,46 +7,28 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 20 Jul 2021 14:22:15 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 16 Oct 2021 04:13:35 +0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Game</title>
-        <link>https://www.mistrysiddh.tk/series/game/</link>
-        <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
+        <title>Talks</title>
+        <link>/series/talks/</link>
+        <pubDate>Sat, 16 Oct 2021 04:13:35 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/game/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>technology</title>
-        <link>https://www.mistrysiddh.tk/series/technology/</link>
-        <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>https://www.mistrysiddh.tk/series/technology/</guid>
+        <guid>/series/talks/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -60,11 +42,47 @@
       
       <item>
         <title>Windows</title>
-        <link>https://www.mistrysiddh.tk/series/windows/</link>
+        <link>/series/windows/</link>
+        <pubDate>Fri, 20 Aug 2021 10:34:48 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/series/windows/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Game</title>
+        <link>/series/game/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/windows/</guid>
+        <guid>/series/game/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>technology</title>
+        <link>/series/technology/</link>
+        <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/series/technology/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -78,29 +96,11 @@
       
       <item>
         <title>Hacking</title>
-        <link>https://www.mistrysiddh.tk/series/hacking/</link>
+        <link>/series/hacking/</link>
         <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/hacking/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Talks</title>
-        <link>https://www.mistrysiddh.tk/series/talks/</link>
-        <pubDate>Fri, 16 Jul 2021 15:53:28 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>https://www.mistrysiddh.tk/series/talks/</guid>
+        <guid>/series/hacking/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>World</title>
-        <link>https://www.mistrysiddh.tk/series/world/</link>
+        <link>/series/world/</link>
         <pubDate>Mon, 21 Jun 2021 16:05:37 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/world/</guid>
+        <guid>/series/world/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>Industrial 4.0</title>
-        <link>https://www.mistrysiddh.tk/series/industrial-4.0/</link>
+        <link>/series/industrial-4.0/</link>
         <pubDate>Tue, 20 Apr 2021 20:43:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/industrial-4.0/</guid>
+        <guid>/series/industrial-4.0/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>Industry 4.0</title>
-        <link>https://www.mistrysiddh.tk/series/industry-4.0/</link>
+        <link>/series/industry-4.0/</link>
         <pubDate>Tue, 13 Apr 2021 15:02:14 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/industry-4.0/</guid>
+        <guid>/series/industry-4.0/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -168,11 +168,11 @@
       
       <item>
         <title>Truth</title>
-        <link>https://www.mistrysiddh.tk/series/truth/</link>
+        <link>/series/truth/</link>
         <pubDate>Fri, 05 Feb 2021 11:38:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/truth/</guid>
+        <guid>/series/truth/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -186,11 +186,11 @@
       
       <item>
         <title>Conspiracy theory</title>
-        <link>https://www.mistrysiddh.tk/series/conspiracy-theory/</link>
+        <link>/series/conspiracy-theory/</link>
         <pubDate>Thu, 17 Dec 2020 15:52:54 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/conspiracy-theory/</guid>
+        <guid>/series/conspiracy-theory/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -204,11 +204,11 @@
       
       <item>
         <title>Hacker</title>
-        <link>https://www.mistrysiddh.tk/series/hacker/</link>
+        <link>/series/hacker/</link>
         <pubDate>Mon, 14 Dec 2020 18:22:31 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/hacker/</guid>
+        <guid>/series/hacker/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -222,11 +222,11 @@
       
       <item>
         <title>website</title>
-        <link>https://www.mistrysiddh.tk/series/website/</link>
+        <link>/series/website/</link>
         <pubDate>Sat, 12 Dec 2020 16:04:51 +0000</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>https://www.mistrysiddh.tk/series/website/</guid>
+        <guid>/series/website/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>wsl2 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
-    <link>https://www.mistrysiddh.tk/tags/wsl2/</link>
+    <link>/tags/wsl2/</link>
     <description>Recent content in wsl2 on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
@@ -18,17 +18,17 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
-        <atom:link href="https://www.mistrysiddh.tk/tags/wsl2/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/wsl2/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>WSL Graphics</title>
-        <link>https://www.mistrysiddh.tk/posts/wslg/</link>
+        <link>/run-linux-gui-apps-on-wsl2/</link>
         <pubDate>Sat, 19 Jun 2021 09:59:27 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sat, 10 Jul 2021 15:00:23 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/wslg/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/run-linux-gui-apps-on-wsl2/</guid>
         <description>Recaps In previous post we have seen how to install Windows Subsystem Linux in your windows 10, so in this we will see how to use GUI on your system without any kind of software or other utilities. The main purpose of using this is so that you can easily use both the windows and Linux apps together on single operating system, after you have installed this WSLG on your system it will look like this.</description>
         <content:encoded>&lt;h2 id=&#34;recaps&#34;&gt;Recaps&lt;/h2&gt;
 &lt;p&gt;In previous post we have seen how to install &lt;a href=&#34;https://www.mistrysiddh.tk/posts/wsl2install&#34;&gt;Windows Subsystem Linux&lt;/a&gt; in your windows 10, so in this we will see how to use &lt;strong&gt;GUI&lt;/strong&gt; on your system without any kind of software or other utilities. The main purpose of using this is so that you can easily use both the windows and Linux apps together on single operating system, after you have installed this WSLG on your system it will look like this.&lt;/p&gt;
@@ -41,7 +41,7 @@
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/WSLg_IntegratedDesktop.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/WSLg_IntegratedDesktop.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;p&gt;Let&amp;rsquo;s start the installation process.&lt;/p&gt;
@@ -147,7 +147,7 @@ sudo apt install /tmp/edge.deb -y
 &lt;p&gt;&lt;strong&gt;Congrats you are done and ready to use GUI apps!&lt;/strong&gt;&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/WSLg_IntegratedDesktop.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/WSLg_IntegratedDesktop.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -195,11 +195,11 @@ sudo apt install /tmp/edge.deb -y
       
       <item>
         <title>WSL Install</title>
-        <link>https://www.mistrysiddh.tk/posts/wsl2install/</link>
+        <link>/install-linux-on-windows/</link>
         <pubDate>Tue, 15 Jun 2021 12:01:11 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Sat, 10 Jul 2021 15:00:23 +0530</atom:modified>
-        <guid>https://www.mistrysiddh.tk/posts/wsl2install/</guid>
+        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <guid>/install-linux-on-windows/</guid>
         <description>What is WSL? The Windows Subsystem for Linux lets developers(WSL) run a GNU/Linux environment &amp;ndash; including most command-line tools, utilities, and applications &amp;ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
 You can:
  Choose your favorite GNU/Linux distributions from the Microsoft Store. Run common command-line tools such as grep, sed, awk, or other ELF-64 binaries. Run Bash shell scripts and GNU/Linux command-line applications including:  Tools: vim, emacs, tmux Languages: NodeJS, Javascript, Python, Ruby, C/C++, C## &amp;amp; F##, Rust, Go, etc.</description>
@@ -212,7 +212,7 @@ You can:
 
 
   &lt;div class=&#34;featured-image__wrapper&#34;&gt;
-    &lt;img src=&#34;https://www.mistrysiddh.tk/images/posts/wsl2.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+    &lt;img src=&#34;/images/posts/wsl2.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
   &lt;/div&gt;
 
 &lt;h2 id=&#34;what-is-wsl&#34;&gt;What is WSL?&lt;/h2&gt;
@@ -327,7 +327,7 @@ WSL 2 uses the latest and greatest in virtualization technology to run a Linux k
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;n&#34;&gt;dism&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;online&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;enable-feature&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;featurename&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Microsoft-Windows&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;-Subsystem-Linux&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;all&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;norestart&lt;/span&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;n&#34;&gt;dism&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;exe&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;online&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;enable-feature&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;featurename&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Microsoft-Windows-Subsystem-Linux&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;all&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;norestart&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;ul&gt;
@@ -478,7 +478,7 @@ Ubuntu-20.04    Ubuntu 20.04 LTS
 &lt;p&gt;Now you can use linux as well as windows at a same time. In next post we will be seeing how to GUI app in WSL2.&lt;/p&gt;
 </content:encoded>
         <dc:creator>Siddh Mistry</dc:creator>
-        <media:content url="https://www.mistrysiddh.tk/images/posts/wsl2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/images/posts/wsl2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
