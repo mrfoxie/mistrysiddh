@@ -1,7 +1,7 @@
 ---
-title: "Tutorials"
+title: "Voice Log"
 date: 2021-01-04T15:04:39+05:30
 publishDate: 2021-01-04T15:04:39+05:30
-description: "Here we will be learning about different tutorials as well as try to improve our skills. "
+description: "Voice log by Mistry Siddh "
 titleWrap: noWrap # wrap, noWrap
 ---

@@ -32,3 +32,9 @@
   name = "Sites"
   url = "showcase"
   #weight = 5
+
+[[main]]
+  parent = "More"
+  identifier="talk"
+  name="Podcast"
+  url="talks"
