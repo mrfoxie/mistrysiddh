@@ -14,13 +14,67 @@
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Aug 2021 10:34:48 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 14:17:46 +0530</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hacking</title>
+        <link>/categories/hacking/</link>
+        <pubDate>Fri, 11 Feb 2022 14:17:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/categories/hacking/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Industrial automation</title>
+        <link>/categories/industrial-automation/</link>
+        <pubDate>Fri, 11 Feb 2022 14:17:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/categories/industrial-automation/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>website</title>
+        <link>/categories/website/</link>
+        <pubDate>Fri, 11 Feb 2022 14:17:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/categories/website/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Windows</title>
@@ -65,60 +119,6 @@
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
         <guid>/categories/technology/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Hacking</title>
-        <link>/categories/hacking/</link>
-        <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>/categories/hacking/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Industrial automation</title>
-        <link>/categories/industrial-automation/</link>
-        <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>/categories/industrial-automation/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>website</title>
-        <link>/categories/website/</link>
-        <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>/categories/website/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

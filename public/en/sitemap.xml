@@ -122,22 +122,8 @@
   </url>
   
   <url>
-    <loc>/python/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/python/</loc>
-    <lastmod>2021-12-10T17:28:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/series/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-19T23:20:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -153,15 +139,22 @@
   </url>
   
   <url>
-    <loc>/series/talks/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <loc>/series/voice-log/</loc>
+    <lastmod>2022-02-19T23:20:55+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/talks/trailer/</loc>
+    <lastmod>2022-02-19T23:20:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -177,8 +170,57 @@
   </url>
   
   <url>
+    <loc>/series/hacking/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hacking/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/industrial-automation/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/industrial-automation/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/new-site/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/raspberrypi-nas/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -195,168 +237,126 @@
   
   <url>
     <loc>/tags/technology/</loc>
-    <lastmod>2021-08-20T12:46:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/remove-edge-completely/</loc>
-    <lastmod>2021-08-20T12:46:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/series/windows/</loc>
-    <lastmod>2021-08-20T12:46:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/windows/</loc>
-    <lastmod>2021-08-20T12:46:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/windows-1/</loc>
-    <lastmod>2021-08-20T12:46:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/series/game/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/game/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gaming/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/netflix-screencast-on-mobile-plan/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/linux/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pubg/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/series/technology/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/technology/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ubuntu/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/windows-11/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/create-own-website-at-home/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/series/hacking/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/hacking/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/industrial-automation/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/industrial-automation/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/new-site/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/website/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/remove-edge-completely/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/series/windows/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/windows/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/windows-1/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/series/game/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/game/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gaming/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/netflix-screencast-on-mobile-plan/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pubg/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/series/technology/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/technology/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ubuntu/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/windows-11/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/create-own-website-at-home/</loc>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/update-any-pc-to-windows-11/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/announcement/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -370,105 +370,105 @@
   
   <url>
     <loc>/face-detection/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/information/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/robotics/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/simulation/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/series/world/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/wsl/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/run-linux-gui-apps-on-wsl2/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/wsl2/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/install-linux-on-windows/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/series/industrial-4.0/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/nanotechnology/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/robotics/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/factory-automation/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/series/industry-4.0/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/robotics/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -496,70 +496,70 @@
   
   <url>
     <loc>/simulation-6/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/experiment/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/government/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/matrix/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/mind-control/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/reality/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/simulations/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/series/truth/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/truth/</loc>
-    <lastmod>2021-12-19T17:28:15+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -706,7 +706,7 @@
   
   <url>
     <loc>/talks/</loc>
-    <lastmod>2021-10-31T12:36:03+05:30</lastmod>
+    <lastmod>2022-02-19T23:20:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -825,63 +825,63 @@
   
   <url>
     <loc>/pubg-mobile/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/ddos-attack/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/categories/ddos-attack/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/google/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/google-went-down/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/google-shutdown/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/series/hacker/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/hacking/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/tags/iot-ddos-attack/</loc>
-    <lastmod>2021-08-19T09:52:58+05:30</lastmod>
+    <lastmod>2022-02-12T22:27:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

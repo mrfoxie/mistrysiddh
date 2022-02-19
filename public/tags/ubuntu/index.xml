@@ -27,7 +27,7 @@
         <link>/netflix-screencast-on-mobile-plan/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/netflix-screencast-on-mobile-plan/</guid>
         <description>Requirement  Android Phone Data cable Scrcpy - https://github.com/Genymobile/scrcpy Guiscrcpy - https://github.com/srevinsaju/guiscrcpy  Enabling Usb debugging First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap Settings &amp;gt; About Device &amp;gt; Software information (or System in some Android version) &amp;gt; Android version and then you can know which Android version your phone have on.</description>
         <content:encoded>
@@ -156,7 +156,7 @@
         <link>/face-detection/</link>
         <pubDate>Mon, 21 Jun 2021 16:05:37 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/face-detection/</guid>
         <description>What is Face Detection? Face detection is AI-based computer technology that is used to extract and identify human faces from digital images. When integrated with biometric security systems (particularly, facial recognition ones), this kind of technology is what makes it possible to monitor and track people in real-time. In applications that use facial tracking, analysis, and recognition, face detection typically works as the first step and has a significant impact on how sequential operations within the app will perform.</description>
         <content:encoded>
@@ -1101,7 +1101,7 @@ pillow
         <link>/run-linux-gui-apps-on-wsl2/</link>
         <pubDate>Sat, 19 Jun 2021 09:59:27 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/run-linux-gui-apps-on-wsl2/</guid>
         <description>Recaps In previous post we have seen how to install Windows Subsystem Linux in your windows 10, so in this we will see how to use GUI on your system without any kind of software or other utilities. The main purpose of using this is so that you can easily use both the windows and Linux apps together on single operating system, after you have installed this WSLG on your system it will look like this.</description>
         <content:encoded>&lt;h2 id=&#34;recaps&#34;&gt;Recaps&lt;/h2&gt;
@@ -1272,7 +1272,7 @@ sudo apt install /tmp/edge.deb -y
         <link>/install-linux-on-windows/</link>
         <pubDate>Tue, 15 Jun 2021 12:01:11 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/install-linux-on-windows/</guid>
         <description>What is WSL? The Windows Subsystem for Linux lets developers(WSL) run a GNU/Linux environment &amp;ndash; including most command-line tools, utilities, and applications &amp;ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
 You can:

@@ -14,7 +14,7 @@
     <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
     <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 16 Oct 2021 04:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 22:53:49 +0530</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
@@ -23,12 +23,30 @@
 
       
       <item>
-        <title>Talks</title>
-        <link>/series/talks/</link>
-        <pubDate>Sat, 16 Oct 2021 04:13:35 +0000</pubDate>
+        <title>Voice Log</title>
+        <link>/series/voice-log/</link>
+        <pubDate>Sat, 19 Feb 2022 22:53:49 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
-        <guid>/series/talks/</guid>
+        <guid>/series/voice-log/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hacking</title>
+        <link>/series/hacking/</link>
+        <pubDate>Fri, 11 Feb 2022 14:17:46 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        
+        <guid>/series/hacking/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>
@@ -83,24 +101,6 @@
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
         
         <guid>/series/technology/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Mistry Siddh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Hacking</title>
-        <link>/series/hacking/</link>
-        <pubDate>Sun, 18 Jul 2021 22:24:13 +0530</pubDate>
-        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        
-        <guid>/series/hacking/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Mistry Siddh</dc:creator>

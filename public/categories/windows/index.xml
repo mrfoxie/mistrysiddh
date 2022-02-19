@@ -27,7 +27,7 @@
         <link>/remove-edge-completely/</link>
         <pubDate>Fri, 20 Aug 2021 10:34:48 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Fri, 20 Aug 2021 12:46:11 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/remove-edge-completely/</guid>
         <description>&lt;div class=&#34;featured-image__wrapper&#34;&gt;
     &lt;img src=&#34;/images/posts/uninstall-edge.jpg&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
@@ -114,7 +114,7 @@
         <link>/netflix-screencast-on-mobile-plan/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/netflix-screencast-on-mobile-plan/</guid>
         <description>Requirement  Android Phone Data cable Scrcpy - https://github.com/Genymobile/scrcpy Guiscrcpy - https://github.com/srevinsaju/guiscrcpy  Enabling Usb debugging First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap Settings &amp;gt; About Device &amp;gt; Software information (or System in some Android version) &amp;gt; Android version and then you can know which Android version your phone have on.</description>
         <content:encoded>
@@ -243,7 +243,7 @@
         <link>/update-any-pc-to-windows-11/</link>
         <pubDate>Sat, 10 Jul 2021 19:06:27 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/update-any-pc-to-windows-11/</guid>
         <description>Requirement software  Latest version Windows 11. Download Winrar. Download Rufuse. Download TPM fix. Download (if its prompt for password then enter 123)  Windows Insider Registration The path for upgrading to 11 requires you to have an activated Windows 10 PC and be subscribed to the insider builds.
 Insider builds can be registerd for use https://insider.windows.com/
@@ -348,7 +348,7 @@ System Modification Windows 11 does checks for TPM and Secure boot before it all
         <link>/face-detection/</link>
         <pubDate>Mon, 21 Jun 2021 16:05:37 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/face-detection/</guid>
         <description>What is Face Detection? Face detection is AI-based computer technology that is used to extract and identify human faces from digital images. When integrated with biometric security systems (particularly, facial recognition ones), this kind of technology is what makes it possible to monitor and track people in real-time. In applications that use facial tracking, analysis, and recognition, face detection typically works as the first step and has a significant impact on how sequential operations within the app will perform.</description>
         <content:encoded>

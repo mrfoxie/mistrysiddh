@@ -27,7 +27,7 @@
         <link>/netflix-screencast-on-mobile-plan/</link>
         <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/netflix-screencast-on-mobile-plan/</guid>
         <description>Requirement  Android Phone Data cable Scrcpy - https://github.com/Genymobile/scrcpy Guiscrcpy - https://github.com/srevinsaju/guiscrcpy  Enabling Usb debugging First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap Settings &amp;gt; About Device &amp;gt; Software information (or System in some Android version) &amp;gt; Android version and then you can know which Android version your phone have on.</description>
         <content:encoded>
@@ -156,7 +156,7 @@
         <link>/update-any-pc-to-windows-11/</link>
         <pubDate>Sat, 10 Jul 2021 19:06:27 +0530</pubDate>
         <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
-        <atom:modified>Thu, 19 Aug 2021 09:52:58 +0530</atom:modified>
+        <atom:modified>Sat, 12 Feb 2022 22:27:42 +0530</atom:modified>
         <guid>/update-any-pc-to-windows-11/</guid>
         <description>Requirement software  Latest version Windows 11. Download Winrar. Download Rufuse. Download TPM fix. Download (if its prompt for password then enter 123)  Windows Insider Registration The path for upgrading to 11 requires you to have an activated Windows 10 PC and be subscribed to the insider builds.
 Insider builds can be registerd for use https://insider.windows.com/
