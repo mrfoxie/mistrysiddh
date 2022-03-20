@@ -1,5 +1,5 @@
 ---
-title: "Guiscracpy"
+title: "Guiscrcpy"
 date: 2021-07-20T14:22:15+05:30
 description: "Screen cast your phone and record high quality games on your laptop or desktop"
 draft: false
