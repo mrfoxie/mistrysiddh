@@ -3,7 +3,8 @@ title: "Python Tutorial"
 date: 2021-10-16T04:13:35Z
 publishDate: 2021-10-16T04:13:35Z
 description: "Please don't look at this page this is all about my nonsense things which I will be doing to impress everyone"
-draft: true
+draft: false
+url: '/python/'
 image: https://getwallpapers.com/wallpaper/full/d/5/1/14904.jpg
 
 ---
