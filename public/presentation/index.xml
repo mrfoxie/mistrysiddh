@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Presentations on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
+    <link>/presentation/</link>
+    <description>Recent content in Presentations on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Test</title>
+        <link>/presentation/test/</link>
+        <pubDate>Sun, 04 Jul 2021 00:34:10 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/presentation/test/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Fourth</title>
+        <link>/presentation/dir/fourth/</link>
+        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/presentation/dir/fourth/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        <media:content url="//images/whoami/Banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

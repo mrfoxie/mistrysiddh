@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Voice Log on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
+    <link>/series/voice-log/</link>
+    <description>Recent content in Voice Log on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 13 May 2022 17:59:27 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/series/voice-log/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Voice Log - 002</title>
+        <link>/talks/believe-it/</link>
+        <pubDate>Fri, 13 May 2022 17:59:27 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/talks/believe-it/</guid>
+        <description>In our life at some point we get confused or stuck due to some kind of reasons and that reason I like that which we cannot tell to someone you cannot ask the reason that please help me out. if we ask them the answer or to help us then we will be in the fault because they will use that thing against us so I just want to say believe in the person who always believes in you.</description>
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;https://pm1.narvii.com/5654/46f0d3678c6d9d36688d2d60aa43f4b52335844c_hq.jpg&#34; alt=&#34;Jiraya Sense&#34; /&gt;&lt;br /&gt;
+In our life at some point we get confused or stuck due to some kind of reasons and that reason I like that which we cannot tell to someone you cannot ask the reason that please help me out. if we ask them the answer or to help us then we will be in the fault because they will use that thing against us so I just want to say believe in the person who always believes in you.&lt;/p&gt;
+&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/2qqvgPoHa9n3riQE0uBgeL?utm_source=generator&amp;t=0&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34;&gt;&lt;/iframe&gt;</content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+          
+            
+              <category>Voice Log</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Voice Log - 001</title>
+        <link>/talks/trailer/</link>
+        <pubDate>Sat, 19 Feb 2022 22:53:49 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/talks/trailer/</guid>
+        <description>Hey guys this is Mr. Retronym we will be sharing experience of different types of technologies as well as if you have your experience then you can share it to me so that we can share it to everyone and gain more knowledge.</description>
+        <content:encoded>&lt;p&gt;&lt;img src=&#34;/images/talks/voicelog.jpg&#34; alt=&#34;Tokyo Ghoul&#34; /&gt;&lt;br /&gt;
+Hey guys this is Mr. Retronym we will be sharing experience of different types of technologies as well as if you have your experience then you can share it to me so that we can share it to everyone and gain more knowledge.&lt;/p&gt;
+&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/episode/2JIwaDEBmiWCBHRmslSijP?utm_source=generator&amp;t=0&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34;&gt;&lt;/iframe&gt;</content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+          
+            
+              <category>Voice Log</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

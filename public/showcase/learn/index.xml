@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Learn on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
+    <link>/showcase/learn/</link>
+    <description>Recent content in Learn on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 16:25:11 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/showcase/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Codeacademy</title>
+        <link>/showcase/learn/codeacademy/</link>
+        <pubDate>Fri, 11 Dec 2020 16:28:34 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/showcase/learn/codeacademy/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Coursera</title>
+        <link>/showcase/learn/coursera/</link>
+        <pubDate>Fri, 11 Dec 2020 16:43:37 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/showcase/learn/coursera/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Udemy</title>
+        <link>/showcase/learn/udemy/</link>
+        <pubDate>Fri, 11 Dec 2020 17:04:41 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/showcase/learn/udemy/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>FreeCodeCamp</title>
+        <link>/showcase/learn/freecodecamp/</link>
+        <pubDate>Fri, 11 Dec 2020 17:10:38 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/showcase/learn/freecodecamp/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Khan Academy</title>
+        <link>/showcase/learn/khanacademy/</link>
+        <pubDate>Fri, 11 Dec 2020 17:15:50 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/showcase/learn/khanacademy/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Mistry Siddh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

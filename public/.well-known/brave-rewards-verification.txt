@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mistrysiddh.tk
+Token: d77a5f34db840a1a99fbac223e5dc0f2590929b9c29fe7cffaa751152ddb1cc8

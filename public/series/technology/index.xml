@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>technology on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</title>
+    <link>/series/technology/</link>
+    <description>Recent content in technology on Mistry Siddh - Get weakly news related to different kinds of news, tips, tricks, etc. If you have your own theory or story then comment down in the post.</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>siddh.mistry396321@gmail.com (Mistry Siddh)</managingEditor>
+    <webMaster>siddh.mistry396321@gmail.com (Mistry Siddh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 20 Jul 2021 14:22:15 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/series/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Guiscrcpy</title>
+        <link>/netflix-screencast-on-mobile-plan/</link>
+        <pubDate>Tue, 20 Jul 2021 14:22:15 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/netflix-screencast-on-mobile-plan/</guid>
+        <description>Requirement  Android Phone Data cable Scrcpy - https://github.com/Genymobile/scrcpy Guiscrcpy - https://github.com/srevinsaju/guiscrcpy  Enabling Usb debugging First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap Settings &amp;gt; About Device &amp;gt; Software information (or System in some Android version) &amp;gt; Android version and then you can know which Android version your phone have on.</description>
+        <content:encoded>
+
+
+
+  
+
+
+
+  &lt;div class=&#34;featured-image__wrapper&#34;&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;h2 id=&#34;requirement&#34;&gt;Requirement&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Android Phone&lt;/li&gt;
+&lt;li&gt;Data cable&lt;/li&gt;
+&lt;li&gt;Scrcpy - &lt;a href=&#34;https://github.com/Genymobile/scrcpy&#34;&gt;https://github.com/Genymobile/scrcpy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guiscrcpy - &lt;a href=&#34;https://github.com/srevinsaju/guiscrcpy&#34;&gt;https://github.com/srevinsaju/guiscrcpy&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;enabling-usb-debugging&#34;&gt;Enabling Usb debugging&lt;/h3&gt;
+&lt;p&gt;First of all, you need to know the Android version of your phones. You can find it on your phone information section. Try to tap &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;About Device&lt;/strong&gt; &amp;gt; &lt;strong&gt;Software information&lt;/strong&gt; (or &lt;strong&gt;System&lt;/strong&gt; in some Android version) &amp;gt; &lt;strong&gt;Android version&lt;/strong&gt; and then you can know which Android version your phone have on.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.isunshare.com/images/article/android/enable-usb-debugging/find-android-version-in-smartphone.png&#34; alt=&#34; find Android version in your phone&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now connect your phone with your desktop.&lt;/p&gt;
+&lt;h2 id=&#34;guiscrcpy--scrcpy-installation&#34;&gt;Guiscrcpy &amp;amp; Scrcpy installation&lt;/h2&gt;
+&lt;p&gt;Goto &lt;a href=&#34;https://github.com/srevinsaju/guiscrcpy/releases/tag/continuous&#34;&gt;Guiscrcpy release&lt;/a&gt; and scrcpy files and place it in one folder like this&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/m8KuMHCCeA.png&#34; alt=&#34;Guiscrcpy &amp;amp; scrcpy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Extract all the file of scrcpy*.zip into a folder after doing that open Guiscrcpy. It will ask you to locate &lt;code&gt;scrcpy.exe&lt;/code&gt; no go into the extraced folder and select &lt;code&gt;scrcpy.exe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/e2GmICGlGd.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/cjqDYpptso.png&#34; alt=&#34;Select scrcpy.exe&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/posts/moSrWxBbhA.png&#34; alt=&#34;Guiscrcpy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;After doing that connect your phone to your device and &lt;code&gt;Start Scrcpy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/AFjGGRSe3F.png&#34; alt=&#34;Screencasting phone&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations&lt;/strong&gt; now you can cast you screen on your laptop or Desktop.&lt;/p&gt;
+&lt;h2 id=&#34;watch-netflix-movie-on-larger-screen-with-mobile-plan-top-secret&#34;&gt;Watch Netflix Movie on larger screen with mobile plan (Top Secret)&lt;/h2&gt;
+&lt;video width=&#34;100%&#34; height=&#34;250&#34; controls&gt;
+    &lt;source src=&#34;/videos/Screencast_Netflix.mkv&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Use this method to trick your friends. Enjoy&lt;/p&gt;
+&lt;h2 id=&#34;mr-blogger&#34;&gt;Mr. Blogger&lt;/h2&gt;
+&lt;h3 id=&#34;podcast&#34;&gt;Podcast&lt;/h3&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/show/6p14uYsO8NtWD8tM3wEd4o&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram - &lt;a href=&#34;https://instagram.com/mistrysiddh&#34;&gt;https://instagram.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github - &lt;a href=&#34;https://guthub.com/mrfoxie&#34;&gt;https://guthub.com/mrfoxie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin - &lt;a href=&#34;https://www.linkedin.com/in/SiddhMistry/&#34;&gt;https://www.linkedin.com/in/SiddhMistry/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Whatsapp - &lt;a href=&#34;https://api.whatsapp.com/send?phone=916355040470&amp;amp;text=http%3A%2F%2Fmistrysiddh.tk%2F&#34;&gt;Message Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord - &lt;a href=&#34;https://discord.gg/bPrBSbQ2W4&#34;&gt;https://discord.gg/bPrBSbQ2W4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;donation&#34;&gt;Donation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Paypal - &lt;a href=&#34;https://paypal.me/mistrysiddh&#34;&gt;https://paypal.me/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Patreon - &lt;a href=&#34;https://www.patreon.com/siddhmistry&#34;&gt;https://www.patreon.com/siddhmistry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buymeacoffee - &lt;a href=&#34;https://www.buymeacoffee.com/mistrysiddh&#34;&gt;https://www.buymeacoffee.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;play-store&#34;&gt;Play Store&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2Vch9gi&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="/https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+            
+              <category>ubuntu</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>windows 11</category>
+            
+          
+            
+              <category>pubg</category>
+            
+          
+            
+              <category>gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Game</category>
+            
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>technology</category>
+            
+          
+            
+              <category>Game</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Update any PC to Windows 11</title>
+        <link>/update-any-pc-to-windows-11/</link>
+        <pubDate>Sat, 10 Jul 2021 19:06:27 +0530</pubDate>
+        <author>siddh.mistry396321@gmail.com (Mistry Siddh)</author>
+        <atom:modified>Mon, 16 May 2022 13:16:46 +0530</atom:modified>
+        <guid>/update-any-pc-to-windows-11/</guid>
+        <description>Requirement software  Latest version Windows 11. Download Winrar. Download Rufuse. Download TPM fix. Download (if its prompt for password then enter 123)  Windows Insider Registration The path for upgrading to 11 requires you to have an activated Windows 10 PC and be subscribed to the insider builds.
+Insider builds can be registerd for use https://insider.windows.com/
+System Modification Windows 11 does checks for TPM and Secure boot before it allows the upgrade process to start.</description>
+        <content:encoded>
+
+
+
+  
+
+
+
+  &lt;div class=&#34;featured-image__wrapper&#34;&gt;
+    &lt;img src=&#34;/images/posts/winver_KHcHK2lCu3.png&#34; alt=&#34;Featured Image&#34; class=&#34;featured-image&#34; style=&#34;width: ;height: ;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;h2 id=&#34;requirement-software&#34;&gt;Requirement software&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Latest version Windows 11. &lt;a href=&#34;https://letsupload.io/2Txxv/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Winrar. &lt;a href=&#34;https://www.rarlab.com/download.htm&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rufuse. &lt;a href=&#34;https://rufus.ie/&#34;&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TPM fix. &lt;a href=&#34;https://www.mistrysiddh.tk/files/fix_TPM_error.zip&#34;&gt;Download&lt;/a&gt; (if its prompt for password then enter &lt;code&gt;123&lt;/code&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;windows-insider-registration&#34;&gt;Windows Insider Registration&lt;/h2&gt;
+&lt;p&gt;The path for upgrading to 11 requires you to have an activated Windows 10 PC and be subscribed to the insider builds.&lt;/p&gt;
+&lt;p&gt;Insider builds can be registerd for use  &lt;a href=&#34;https://insider.windows.com/&#34;&gt;https://insider.windows.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;system-modification&#34;&gt;System Modification&lt;/h2&gt;
+&lt;p&gt;Windows 11 does checks for TPM and Secure boot before it allows the upgrade process to start. However, these can be bypassed.&lt;/p&gt;
+&lt;p&gt;Note: It is important to understand Microsoft can at ANY TIME enforce these rules or ignore these modifications which means you would NO LONGER recieve updates&lt;/p&gt;
+&lt;p&gt;Here is the registry edits that need to be made: (win11bypass.reg)&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+&amp;#34;BypassTPMCheck&amp;#34;=dword:00000001
+&amp;#34;BypassSecureBootCheck&amp;#34;=dword:00000001
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Download Reg File here: &lt;a href=&#34;https://www.mistrysiddh.tk/files/win11bypass.reg&#34;&gt;https://www.mistrysiddh.tk/files/win11bypass.reg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/regedit_jC4CAtccM9.png&#34; alt=&#34;Regedit&#34; /&gt;&lt;br /&gt;
+&lt;code&gt;REBOOT AFTER MODIFICATIONS MADE&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tpm--secure-boot-fix&#34;&gt;TPM &amp;amp; Secure Boot Fix&lt;/h2&gt;
+&lt;p&gt;Copy Windows 11 and TPM fix in one folder&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/explorer_XHraYMkR0O.png&#34; alt=&#34;Windows 11 &amp;amp; TPM fix&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Extract both the ISO and zip in that folder after that open &lt;code&gt;fix_TPM_error&lt;/code&gt; and copy both the files and past it in &lt;code&gt;21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us (1)/sources&lt;/code&gt; folder it will as you for replacing the file replace it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/lkpepc63fl.png&#34; alt=&#34;file replace&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now go back &lt;code&gt;21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us (1)&lt;/code&gt; folder and run &lt;code&gt;setup.exe&lt;/code&gt; select the options of your like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/SetupHost_DDXsib9QUZ.png&#34; alt=&#34;Setup.exe&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;congratulation&#34;&gt;Congratulation&lt;/h2&gt;
+&lt;p&gt;Congratulation now you have successfully install Windows 11 on your system&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/posts/winver_KHcHK2lCu3.png&#34; alt=&#34;winver&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mr-blogger&#34;&gt;Mr. Blogger&lt;/h2&gt;
+&lt;h3 id=&#34;podcast&#34;&gt;Podcast&lt;/h3&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/show/6p14uYsO8NtWD8tM3wEd4o&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram - &lt;a href=&#34;https://instagram.com/mistrysiddh&#34;&gt;https://instagram.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github - &lt;a href=&#34;https://guthub.com/mrfoxie&#34;&gt;https://guthub.com/mrfoxie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin - &lt;a href=&#34;https://www.linkedin.com/in/SiddhMistry/&#34;&gt;https://www.linkedin.com/in/SiddhMistry/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Whatsapp - &lt;a href=&#34;https://api.whatsapp.com/send?phone=916355040470&amp;amp;text=http%3A%2F%2Fmistrysiddh.tk%2F&#34;&gt;Message Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord - &lt;a href=&#34;https://discord.gg/bPrBSbQ2W4&#34;&gt;https://discord.gg/bPrBSbQ2W4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;donation&#34;&gt;Donation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Paypal - &lt;a href=&#34;https://paypal.me/mistrysiddh&#34;&gt;https://paypal.me/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Patreon - &lt;a href=&#34;https://www.patreon.com/siddhmistry&#34;&gt;https://www.patreon.com/siddhmistry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buymeacoffee - &lt;a href=&#34;https://www.buymeacoffee.com/mistrysiddh&#34;&gt;https://www.buymeacoffee.com/mistrysiddh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;play-store&#34;&gt;Play Store&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/2Vch9gi&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Siddh Mistry</dc:creator>
+        <media:content url="/images/posts/winver_KHcHK2lCu3.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+            
+              <category>windows 11</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
