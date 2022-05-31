@@ -60,13 +60,13 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Mistry Siddh"
-email = "siddh.mistry396321@gmail.com"
+email = "admin@mistrysiddh.con"
 whoami = "Blogger"
 bioImageUrl = "/images/whoami/avatar.png"
 useGravatar = false
 location = "Internet"
 organization = "Hello World!"
-link = "https://www.mistrysiddh.tk"
+link = "https://www.mistrysiddh.com"
 
 # sidebar
 enableBio = true
@@ -95,7 +95,7 @@ enableLangChange = false
 
 # service
 googleTagManager = "GTM-P5ZNLVH" # GTM-XXXXXX
-googleRecaptcha = "6LesNi8aAAAAAGfQ6mXSkFJIVTpDpywrUUHTdxBj"
+googleRecaptcha = "6LeKkjMgAAAAAPwbnNfUDp-6onCM75a9OFIf9Uij"
 enableServiceWorker = true
 baiduAnalytics = ""
 enableBusuanzi = true
